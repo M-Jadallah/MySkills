@@ -1,0 +1,16 @@
+{
+  "created_at": "2026-10-02T19:08:35.746557+00:00",
+  "description": "Helps users discover and install agent skills when they ask questions like \"how do I do X\", \"find a skill for X\", \"is there a skill that can...\", or express interest in extending capabilities. This skill should be used when the user is looking for functionality that might exist as an installable skill.",
+  "device_id": "8603efad5f5a494ebf07d82145e20df0",
+  "device_name": "LAPTOP-46FJ83M6",
+  "files": {
+    "SKILL.md": "deddc03b4b5f50755b97fcdb737a786676992ef7e9be614d2cd2c71e0320bebf"
+  },
+  "hash": "69801d95e9c49bf8052727b721d8fdb83e77d67dc25b258221382d36f0c43081",
+  "id": "find-skills",
+  "name": "find-skills",
+  "note": "أرشفة أولية",
+  "size": 5519,
+  "title": "Find Skills",
+  "version": "1.0.0"
+}
