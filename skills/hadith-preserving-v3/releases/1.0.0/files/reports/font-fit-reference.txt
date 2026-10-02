@@ -1,0 +1,6 @@
+test_reference_hadith_8_uses_full_page_before_font_reduction (tests.test_font_fit_integration.FontFitIntegrationTests.test_reference_hadith_8_uses_full_page_before_font_reduction) ... ok
+
+----------------------------------------------------------------------
+Ran 1 test in 0.001s
+
+OK

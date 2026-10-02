@@ -1,0 +1,14 @@
+test_ai_semantic_map_uses_exact_anchors_without_text_changes (tests.test_core.CoreTests.test_ai_semantic_map_uses_exact_anchors_without_text_changes) ... ok
+test_cleaning_removes_footnotes_and_page_furniture (tests.test_core.CoreTests.test_cleaning_removes_footnotes_and_page_furniture) ... ok
+test_docx_is_table_free_and_contains_heading_border (tests.test_core.CoreTests.test_docx_is_table_free_and_contains_heading_border) ... ok
+test_entire_meaning_line_and_all_matn_are_bold (tests.test_core.CoreTests.test_entire_meaning_line_and_all_matn_are_bold) ... ok
+test_full_narrator_chain_and_all_matn_variants (tests.test_core.CoreTests.test_full_narrator_chain_and_all_matn_variants) ... ok
+test_only_requested_salutation_is_replaced (tests.test_core.CoreTests.test_only_requested_salutation_is_replaced) ... ok
+test_page_interrupted_hadith_is_rejoined (tests.test_core.CoreTests.test_page_interrupted_hadith_is_rejoined) ... ok
+test_parser_preserves_numbers_and_title (tests.test_core.CoreTests.test_parser_preserves_numbers_and_title) ... ok
+test_numbered_files_are_sorted_and_merged (tests.test_batch.BatchTests.test_numbered_files_are_sorted_and_merged) ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.091s
+
+OK

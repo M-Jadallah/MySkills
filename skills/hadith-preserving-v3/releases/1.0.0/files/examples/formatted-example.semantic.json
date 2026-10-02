@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "generated_by": "AI agent semantic classifier",
+  "source": "raw-example.txt",
+  "annotations": [
+    {
+      "unit_index": 8,
+      "unit_text_sha256": "4e91ff9fd290b9262102bdc8ede79116c83e8fd32f17e2d1fcae432a18180194",
+      "role": "meaning",
+      "exact_text": "التَّوْرُ: شِبْهُ الطَّسْتِ."
+    }
+  ]
+}
