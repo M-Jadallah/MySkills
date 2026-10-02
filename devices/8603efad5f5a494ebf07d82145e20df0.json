@@ -1,6 +1,6 @@
 {
   "id": "8603efad5f5a494ebf07d82145e20df0",
-  "last_seen": "2026-10-02T19:08:25.478893+00:00",
+  "last_seen": "2026-10-02T19:08:26.968340+00:00",
   "name": "LAPTOP-46FJ83M6",
   "skills": {
     "arabic-lesson-condenser": {
@@ -28,6 +28,12 @@
       "workspace": "1.0.0"
     },
     "banner-design": {
+      "agents": {
+        "original": "1.0.0"
+      },
+      "workspace": "1.0.0"
+    },
+    "brand": {
       "agents": {},
       "workspace": "1.0.0"
     }
