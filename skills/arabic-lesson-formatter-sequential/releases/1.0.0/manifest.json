@@ -1,0 +1,20 @@
+{
+  "created_at": "2026-10-02T19:08:23.061408+00:00",
+  "description": "تحويل ملفات تفريغ الدروس العربية الإسلامية (.txt) إلى ملفات Word (.docx) منسقة بدقة متناهية RTL Traditional Arabic 22pt، مع تشكيل شامل وعناوين فرعية إلزامية وعناوين وتعداد بحسب المحتوى، وأقواس ملونة بالبني، مع دعم معالجة الملفات المتعددة بواسطة وكلاء فرعيين بالتوالي.",
+  "device_id": "8603efad5f5a494ebf07d82145e20df0",
+  "device_name": "LAPTOP-46FJ83M6",
+  "files": {
+    "SKILL.md": "17e936ae2fd0a3a86dd57d8662741255038dbf8ca237a388efe50c4896dd16d6",
+    "formatter.js": "4e8a181d8cb34cde0df2458658ee7a5cbbbfc12ef6f3a0eb54baa97dc5c225a8",
+    "orchestrator.js": "5311eb02e691032f9bfd0dce440804ac563f216e863602020d2ee085a8962ecc",
+    "package-lock.json": "6b97cac3b6ae90877db306f10c058a0cc055b7b05de7340013182131734657af",
+    "package.json": "e0e42987d27e4d796463c6a43fa57a4c50327b983696eb46ea0289bb0b93a61d"
+  },
+  "hash": "084b1146bcb8e4464f6a793df5f4687a911637ddc45a701a951a74e19f04fa45",
+  "id": "arabic-lesson-formatter-sequential",
+  "name": "arabic-lesson-formatter-sequential",
+  "note": "أرشفة أولية",
+  "size": 29688,
+  "title": "منسق الدروس العربية الإسلامية المتوالي (arabic-lesson-formatter-sequential)",
+  "version": "1.0.0"
+}

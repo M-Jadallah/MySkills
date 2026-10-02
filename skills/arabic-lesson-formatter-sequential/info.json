@@ -1,0 +1,9 @@
+{
+  "category": "عام",
+  "current": "1.0.0",
+  "description": "تحويل ملفات تفريغ الدروس العربية الإسلامية (.txt) إلى ملفات Word (.docx) منسقة بدقة متناهية RTL Traditional Arabic 22pt، مع تشكيل شامل وعناوين فرعية إلزامية وعناوين وتعداد بحسب المحتوى، وأقواس ملونة بالبني، مع دعم معالجة الملفات المتعددة بواسطة وكلاء فرعيين بالتوالي.",
+  "id": "arabic-lesson-formatter-sequential",
+  "name": "arabic-lesson-formatter-sequential",
+  "title": "منسق الدروس العربية الإسلامية المتوالي (arabic-lesson-formatter-sequential)",
+  "updated_at": "2026-10-02T19:08:23.077681+00:00"
+}
