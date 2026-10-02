@@ -1,0 +1,24 @@
+{
+  "created_at": "2026-10-02T19:09:02.974589+00:00",
+  "description": "Create or update a Codex skill with appropriately scoped instructions and any needed supporting resources.",
+  "device_id": "8603efad5f5a494ebf07d82145e20df0",
+  "device_name": "LAPTOP-46FJ83M6",
+  "files": {
+    "SKILL.md": "cccd291077ec57c6f50ca6529f0f3fb93212da09473effb2fcec808e81b21288",
+    "agents/openai.yaml": "b750627cdd588fdbb5b46e854d3384d1a504fad3b8ed73ca5d7ead3804df78b6",
+    "assets/skill-creator-small.svg": "edb19a0c59f9a1b5253b9af6d2f9f03cac27b2fe6a0275ebccbbdbff07891a1a",
+    "assets/skill-creator.png": "a4024b0306ddb05847e1012879d37aaf1e658205199da596f5145ed7a88d9162",
+    "license.txt": "3ddf9be5c28fe27dad143a5dc76eea25222ad1dd68934a047064e56ed2fa40c5",
+    "references/openai_yaml.md": "7039d465b05342cbacf861f08d20192ab1eeee112bc5d8ff0fb66234756887a9",
+    "scripts/generate_openai_yaml.py": "30c73f1ea7d47dbab2b231bb92c5bf9026f1ad14ba8e3b3a4a544092c4d24ebe",
+    "scripts/init_skill.py": "74dfa9361a93bee6932d6cbb332ed19ac26a27ba3800e69fb07ba7512c1025f9",
+    "scripts/quick_validate.py": "6068513d924ed3559e186dfcdead7439129828dcf402167fd925c06dffbf2806"
+  },
+  "hash": "6eaa5bbb259ac98488e3724be46aaa74dc07f15ed2e5beba646e354dfea2ca26",
+  "id": "skill-creator",
+  "name": "skill-creator",
+  "note": "أرشفة أولية",
+  "size": 54476,
+  "title": "Skill Creator",
+  "version": "1.0.0"
+}
