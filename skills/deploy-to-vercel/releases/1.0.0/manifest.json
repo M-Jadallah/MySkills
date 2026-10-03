@@ -1,0 +1,18 @@
+{
+  "created_at": "2026-10-02T19:08:27.828682+00:00",
+  "description": "Deploy applications and websites to Vercel. Use when the user requests deployment actions like \"deploy my app\", \"deploy and give me the link\", \"push this live\", or \"create a preview deployment\".",
+  "device_id": "8603efad5f5a494ebf07d82145e20df0",
+  "device_name": "LAPTOP-46FJ83M6",
+  "files": {
+    "SKILL.md": "cfcc3dd479ab2e0ae721ddf39b8af84d977321487672f1487c8d6855f576927b",
+    "resources/deploy-codex.sh": "18b411e2bfe07778bca11d7f0e1ec9c95e5764011dd2e3838f51066728646855",
+    "resources/deploy.sh": "418da6ff48c582790799d850a88fd83ca00f2ee00502665caf8dbb06d4dab8b9"
+  },
+  "hash": "5ba2fc50b98e702189465643f479d8973825211e037fa507250df1f3267fd573",
+  "id": "deploy-to-vercel",
+  "name": "deploy-to-vercel",
+  "note": "أرشفة أولية",
+  "size": 29482,
+  "title": "Deploy to Vercel",
+  "version": "1.0.0"
+}

@@ -1,0 +1,19 @@
+{
+  "created_at": "2026-10-02T19:08:43.261645+00:00",
+  "description": "مصنع خطط حفظ القرآن: توليد خطة مخصصة (ملف Excel) مستخرجة من الخطة المنهجية الأم حسب طلب المستخدم — سواء كان مدى أجزاء (من جزء كذا إلى جزء كذا)، أو مدى سور (من سورة كذا إلى سورة كذا)، أو خليطاً مبعثراً من سور وأجزاء متعددة، مع إعادة ترتيبها وترقيمها تلقائياً وفقاً لتسلسل الخطة الأم.",
+  "device_id": "8603efad5f5a494ebf07d82145e20df0",
+  "device_name": "LAPTOP-46FJ83M6",
+  "files": {
+    "SKILL.md": "0e41d947162b83b1f090be2393edbcfeaa246d481a83cc7c5ec049489f94d397",
+    "assets/master_plan.csv": "a4b1eec9e85d43245943b0164c78b12eacabe62a546004a49b98ae8623cfb5e0",
+    "assets/reference.md": "3f90751f007228f28b8e96e5720220ac479f32a5953287c646a372e2c2bead9c",
+    "scripts/build_plan.py": "ba178ca99b56119b0b09cc4ecbaf3e7fd554301920fe9fbc3bb23bbdb4705705"
+  },
+  "hash": "f6bb5c626938c233a538debdfb0e09d01a119b5b992ae3cbe8a48fbc941f9a38",
+  "id": "quran-plan-factory",
+  "name": "quran-plan-factory",
+  "note": "أرشفة أولية",
+  "size": 83149,
+  "title": "مصنع خطط الحفظ (quran-plan-factory)",
+  "version": "1.0.0"
+}

@@ -1,0 +1,11 @@
+test_cleaning_removes_footnotes_and_page_furniture (test_core.CoreTests.test_cleaning_removes_footnotes_and_page_furniture) ... ok
+test_color_segmentation (test_core.CoreTests.test_color_segmentation) ... ok
+test_docx_contains_reference_font_and_colors (test_core.CoreTests.test_docx_contains_reference_font_and_colors) ... ok
+test_only_requested_salutation_is_replaced (test_core.CoreTests.test_only_requested_salutation_is_replaced) ... ok
+test_page_interrupted_hadith_is_rejoined (test_core.CoreTests.test_page_interrupted_hadith_is_rejoined) ... ok
+test_parser_preserves_numbers_and_title (test_core.CoreTests.test_parser_preserves_numbers_and_title) ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 0.038s
+
+OK

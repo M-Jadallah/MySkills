@@ -1,0 +1,66 @@
+{
+  "source": "references/reference-format.docx",
+  "page": {
+    "paper": "Letter",
+    "width_inches": 8.5,
+    "height_inches": 11.0,
+    "orientation": "portrait",
+    "top_margin_inches": 1.1041666667,
+    "bottom_margin_inches": 1.0,
+    "left_margin_inches": 1.0,
+    "right_margin_inches": 1.0,
+    "header_distance_inches": 0.4916666667,
+    "footer_distance_inches": 0.4916666667
+  },
+  "header": {
+    "font": "Traditional Arabic",
+    "size_pt": 16,
+    "bold": true,
+    "color": "C00000",
+    "alignment": "center"
+  },
+  "footer": {
+    "field": "PAGE",
+    "font": "Traditional Arabic",
+    "size_pt": 14,
+    "alignment": "center"
+  },
+  "title": {
+    "font": "Traditional Arabic",
+    "size_pt": 26,
+    "bold": true,
+    "text_color": "000000",
+    "fill_color": "D9F2D0",
+    "space_before_pt": 15,
+    "space_after_pt": 15
+  },
+  "hadith": {
+    "font": "Traditional Arabic",
+    "size_pt": 24,
+    "line_spacing": 1.5,
+    "space_after_pt": 10,
+    "rtl": true,
+    "container": "one-column borderless table",
+    "cant_split": true
+  },
+  "colors": {
+    "hadith_number": "0000CC",
+    "companion": "EE0000",
+    "isnad": "000000",
+    "matn": "5B2C06"
+  },
+  "target_v1_1_overrides": {
+    "title_border": {
+      "style": "single",
+      "color": "000000",
+      "all_sides": true
+    },
+    "hadith_container": "ordinary editable Word paragraphs; no tables",
+    "narrator_color": "C00000",
+    "all_quoted_matn_variants": "5B2C06 bold",
+    "long_hadith_policy": "shrink measured font until one page",
+    "part_pages": 20,
+    "last_part_may_be_shorter": true
+  },
+  "skill_version": "1.1.2"
+}

@@ -1,0 +1,32 @@
+{
+  "created_at": "2026-10-02T19:08:59.651662+00:00",
+  "description": "Use for Codex models/pricing, scheduled tasks, skills, settings, setup, troubleshooting, customization, automations, and self-knowledge—including 'you,' 'your,' 'this app,' or 'this coding agent' when they refer to Codex—and for OpenAI APIs/products and ChatGPT Work. Also use for model choice/migration, prompting, SDKs, Responses, Realtime, agents, evals, and Chat/Work/Codex comparisons. Do not use for generic app/software tasks that merely mention Codex.",
+  "device_id": "8603efad5f5a494ebf07d82145e20df0",
+  "device_name": "LAPTOP-46FJ83M6",
+  "files": {
+    "LICENSE.txt": "44e03f7e263eb3ad256440c1eeab5e49168baff5a78ecef9a5447261cf3a91bc",
+    "SKILL.md": "8ce8021101bcea594ff92ee6cfd8ca7641a49ee66d7bc6070555f1a33fc239d9",
+    "agents/openai.yaml": "0dd6c5ffa81a09782fd24cfa9fe1ec5c9633c90500b166ae18a462e613e876be",
+    "assets/openai-small.svg": "85ef0a2cde497872edec1525f1d538ccc42b33ff47acdbb88499a1631a4bdb21",
+    "assets/openai.png": "156cc84d7332bfe95b310350bd470b690d22aa33d65340cc6c2e06022946194c",
+    "references/codex-self-knowledge.md": "f945bf2a7cea6892d7a11ac38fb18b744fefd6d273654a8410c4c79e9f647fbe",
+    "references/latest-model.md": "c6908732acbf2c6732614d615856b5582964521a319da842cc9379f9822fbf34",
+    "references/mcp-diagnostics.md": "e9df2b2f8faa28930db4a2937cdb3665b4548ac958e80a8601a5dd0da1e6fad0",
+    "references/model-migration.md": "e2dc95fa96cf68c1e16f5bae265ae660bede705940602ba86ab6219c514a976d",
+    "references/model-selection.md": "ce020100a28004500c927abcd57cff154c5c360eb72d918ef7d72492e2484cce",
+    "references/official-docs.md": "b2301d72b8092be5f5727d8d1cbc75740887d836f4f13b469f40c1db16b39fe3",
+    "references/prompting-guide.md": "7e7cd7ff89f6211d1f881b8d394e92f416febe6eae2fdfd230c5b5c346bf8a93",
+    "references/upgrade-guide.md": "fada5e0c951a50e21c8ee9f51891159b539b651bfbdb92385fada4cbac93dab5",
+    "references/upgrading-to-gpt-6-astra.md": "cf4ebc3c89a5e2062e553626dcd27fab13f4870d3046c631ed91a0bc301bb32d",
+    "scripts/fetch-codex-manual.mjs": "1b9a36d3e59ddff3317d1faa182e5cd4967db14ff993593a5f98d5682dbffbe4",
+    "scripts/resolve-latest-model-info": "8f5006efa15c034ede29821b627d7b86c43f7dfaab422d335f45b9be8d04e2d5",
+    "scripts/resolve-latest-model-info.cjs": "91eb045abbf96ffb361e6ec2d3606540570fb32383edb22061f5549381ce0ee5"
+  },
+  "hash": "6695adda0a29a2ff62fde500df50283d39f90bf64ea7c1795a26030da68948f1",
+  "id": "openai-docs",
+  "name": "openai-docs",
+  "note": "أرشفة أولية",
+  "size": 93619,
+  "title": "OpenAI Docs",
+  "version": "1.0.0"
+}

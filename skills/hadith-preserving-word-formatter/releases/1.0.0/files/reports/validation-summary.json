@@ -1,0 +1,27 @@
+{
+  "version": "1.0.0",
+  "status": "PASS",
+  "core_tests": {
+    "passed": 6,
+    "failed": 0
+  },
+  "pagination_integration_tests": {
+    "passed": 1,
+    "failed": 0
+  },
+  "sample_validation": {
+    "input_hadiths": 8,
+    "output_pages": 5,
+    "preservation_check": "PASS",
+    "visual_pages_inspected": [1, 2, 3, 4, 5],
+    "visible_defects": 0
+  },
+  "long_document_validation": {
+    "pages": 43,
+    "part_start_pages": [1, 21, 41],
+    "page_20_header": "part 1",
+    "page_21_header": "part 2",
+    "page_40_header": "part 2",
+    "page_41_header": "part 3"
+  }
+}

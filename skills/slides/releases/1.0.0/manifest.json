@@ -1,0 +1,21 @@
+{
+  "created_at": "2026-10-02T19:08:44.229016+00:00",
+  "description": "Create strategic HTML presentations with Chart.js, design tokens, responsive layouts, copywriting formulas, and contextual slide strategies.",
+  "device_id": "8603efad5f5a494ebf07d82145e20df0",
+  "device_name": "LAPTOP-46FJ83M6",
+  "files": {
+    "SKILL.md": "86c07f19ec09f79441d3837e909cfcd51034b83bdcc88094c15e652be1e765cb",
+    "references/copywriting-formulas.md": "2df4d83d7a6d4e578dd78911348357b45dfaedbcc948ffbac0e31579c5fb692a",
+    "references/create.md": "792d647a5d4f87d765cf417f7ac54dd0b2fc4d229cc23ea9df56282d4c1ee086",
+    "references/html-template.md": "fd5b051a37365fc6059c75bb388ec6f64daf1bd9ae938b287b6d762dc83c0c35",
+    "references/layout-patterns.md": "0de6208dcb32f896ad24df1bfa0c88a6abfe13c6a1ce43df06014810ab98314b",
+    "references/slide-strategies.md": "cc97651ae1b404bde4df6ad0f7b5ef0c3f91506c9c5cb67748489a96fd155a0f"
+  },
+  "hash": "dc21f75d499fb16ea3c247234b27befe5d65adb67093a57c968d08f4429b137a",
+  "id": "slides",
+  "name": "slides",
+  "note": "أرشفة أولية",
+  "size": 19815,
+  "title": "Slides",
+  "version": "1.0.0"
+}

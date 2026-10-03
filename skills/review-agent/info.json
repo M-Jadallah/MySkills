@@ -1,0 +1,9 @@
+{
+  "category": "عام",
+  "current": "1.0.0",
+  "description": "Perform a read-only, defect-first review of a specified code change and return every actionable finding. Use when another agent delegates review of uncommitted changes, a base-branch diff, a commit, or custom review instructions.",
+  "id": "review-agent",
+  "name": "review-agent",
+  "title": "Review Agent",
+  "updated_at": "2026-10-02T19:09:01.985398+00:00"
+}
