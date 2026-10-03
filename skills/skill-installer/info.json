@@ -1,0 +1,9 @@
+{
+  "category": "عام",
+  "current": "1.0.0",
+  "description": "Install Codex skills into $CODEX_HOME/skills from a curated list or a GitHub repo path. Use when a user asks to list installable skills, install a curated skill, or install a skill from another repo (including private repos).",
+  "id": "skill-installer",
+  "name": "skill-installer",
+  "title": "Skill Installer",
+  "updated_at": "2026-10-02T19:09:04.009039+00:00"
+}

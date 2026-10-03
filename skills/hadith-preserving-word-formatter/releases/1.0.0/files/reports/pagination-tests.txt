@@ -1,0 +1,6 @@
+test_part_headers_start_on_fixed_page_intervals (test_pagination_integration.PaginationIntegrationTests.test_part_headers_start_on_fixed_page_intervals) ... ok
+
+----------------------------------------------------------------------
+Ran 1 test in 6.015s
+
+OK

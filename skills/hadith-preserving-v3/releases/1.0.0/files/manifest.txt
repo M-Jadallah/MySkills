@@ -1,0 +1,36 @@
+AGENT_ORCHESTRATION.md
+CHANGELOG.md
+README_AR.md
+SKILL.md
+config/default.json
+examples/formatted-example.audit.json
+examples/formatted-example.clean.txt
+examples/formatted-example.docx
+examples/formatted-example.semantic.json
+examples/multi-book-example.audit.json
+examples/multi-book-example.clean.txt
+examples/multi-book-example.docx
+examples/multi-input/01 - كتاب الطهارة.txt
+examples/multi-input/02 - كتاب الصلاة.txt
+examples/raw-example.txt
+manifest.txt
+references/reference-format.docx
+reports/core-tests.txt
+reports/font-fit-long.txt
+reports/font-fit-reference.txt
+reports/font-fit-tests.txt
+reports/pagination-tests.txt
+reports/reference-analysis.json
+reports/validation-summary.json
+requirements.txt
+run.bat
+run.sh
+scripts/check_environment.py
+scripts/format_hadith.py
+scripts/format_hadith_batch.py
+tests/README.md
+tests/fixtures/raw-example.txt
+tests/test_batch.py
+tests/test_core.py
+tests/test_font_fit_integration.py
+tests/test_pagination_integration.py

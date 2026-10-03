@@ -1,0 +1,16 @@
+test_cleaning_removes_footnotes_and_page_furniture (tests.test_core.CoreTests.test_cleaning_removes_footnotes_and_page_furniture) ... ok
+test_definition_term_is_bold_only (tests.test_core.CoreTests.test_definition_term_is_bold_only) ... ok
+test_docx_is_table_free_and_contains_heading_border (tests.test_core.CoreTests.test_docx_is_table_free_and_contains_heading_border) ... ok
+test_full_narrator_chain_and_all_matn_variants (tests.test_core.CoreTests.test_full_narrator_chain_and_all_matn_variants) ... ok
+test_only_requested_salutation_is_replaced (tests.test_core.CoreTests.test_only_requested_salutation_is_replaced) ... ok
+test_page_interrupted_hadith_is_rejoined (tests.test_core.CoreTests.test_page_interrupted_hadith_is_rejoined) ... ok
+test_parser_preserves_numbers_and_title (tests.test_core.CoreTests.test_parser_preserves_numbers_and_title) ... ok
+test_numbered_files_are_sorted_and_merged (tests.test_batch.BatchTests.test_numbered_files_are_sorted_and_merged) ... ok
+test_long_hadith_is_shrunk_and_kept_on_one_page (tests.test_font_fit_integration.FontFitIntegrationTests.test_long_hadith_is_shrunk_and_kept_on_one_page) ... ok
+test_reference_hadith_8_uses_full_page_before_font_reduction (tests.test_font_fit_integration.FontFitIntegrationTests.test_reference_hadith_8_uses_full_page_before_font_reduction) ... ok
+test_part_headers_start_on_fixed_page_intervals (tests.test_pagination_integration.PaginationIntegrationTests.test_part_headers_start_on_fixed_page_intervals) ... ok
+
+----------------------------------------------------------------------
+Ran 11 tests in 30.258s
+
+OK

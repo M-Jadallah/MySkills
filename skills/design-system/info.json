@@ -1,0 +1,9 @@
+{
+  "category": "عام",
+  "current": "1.0.0",
+  "description": "Token architecture, component specifications, and slide generation. Three-layer tokens (primitive→semantic→component), CSS variables, spacing/typography scales, component specs, strategic slide creation. Use for design tokens, systematic design, brand-compliant presentations.",
+  "id": "design-system",
+  "name": "design-system",
+  "title": "Design System",
+  "updated_at": "2026-10-02T19:08:31.863430+00:00"
+}

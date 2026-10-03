@@ -1,0 +1,9 @@
+{
+  "category": "عام",
+  "current": "1.0.0",
+  "description": "Create or update a Codex skill with appropriately scoped instructions and any needed supporting resources.",
+  "id": "skill-creator",
+  "name": "skill-creator",
+  "title": "Skill Creator",
+  "updated_at": "2026-10-02T19:09:02.987710+00:00"
+}

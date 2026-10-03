@@ -1,0 +1,70 @@
+{
+  "version": "1.1.1",
+  "status": "PASS",
+  "root_cause_fixed": {
+    "previous_behavior": "Hadith 8 was shrunk to fit the remaining space on page 4 instead of being evaluated on a fresh page.",
+    "new_behavior": "Every hadith is first measured on a fresh full page. Only true full-page overflow triggers resizing, and the largest Word-supported fitting size is selected.",
+    "reference_hadith_8_previous_size_pt": 10.5,
+    "reference_hadith_8_new_size_pt": 23.0,
+    "reference_hadith_8_page": 5
+  },
+  "automated_tests": {
+    "passed": 11,
+    "failed": 0
+  },
+  "sample_validation": {
+    "input_hadiths": 8,
+    "output_pages": 5,
+    "preservation_check": "PASS",
+    "table_count_in_document_xml": 0,
+    "visual_pages_inspected": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "visible_defects": 0,
+    "hadith_8_run_font_sizes_pt": [
+      23.0
+    ],
+    "hadith_8_single_page": true,
+    "hadith_8_moved_after_hadith_7": true
+  },
+  "multi_book_validation": {
+    "books": 2,
+    "order": [
+      1,
+      2
+    ],
+    "output_pages": 1,
+    "preservation_check": "PASS",
+    "table_count_in_document_xml": 0,
+    "visual_pages_inspected": [
+      1
+    ],
+    "visible_defects": 0
+  },
+  "part_boundary_regression": {
+    "configured_test_interval_pages": 2,
+    "output_pages": 4,
+    "part_start_pages": [
+      1,
+      3
+    ],
+    "status": "PASS",
+    "production_interval_pages": 20
+  },
+  "render_engine": "LibreOffice + PyMuPDF",
+  "font_fit_policy": {
+    "default_size_pt": 24,
+    "measurement_page": "fresh full page",
+    "precision_pt": 0.5,
+    "precision_reason": "Word stores font sizes in half-point units.",
+    "never_shrink_for_leftover_space": true,
+    "renderer_verified": true
+  },
+  "notes": [
+    "The DOCX requests Traditional Arabic; local QA rendering used an installed fallback because Traditional Arabic is not installed in the container."
+  ]
+}

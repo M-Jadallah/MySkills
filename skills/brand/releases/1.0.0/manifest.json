@@ -1,0 +1,33 @@
+{
+  "created_at": "2026-10-02T19:08:26.936303+00:00",
+  "description": "Brand voice, visual identity, messaging frameworks, asset management, brand consistency. Activate for branded content, tone of voice, marketing assets, brand compliance, style guides.",
+  "device_id": "8603efad5f5a494ebf07d82145e20df0",
+  "device_name": "LAPTOP-46FJ83M6",
+  "files": {
+    "SKILL.md": "53e7f858e18dea4d687db6e49e8a33786cbcdf720aa40e84bd6d6250f5e59aa8",
+    "references/approval-checklist.md": "1cbf5f0fb3aa780c1a1406f56afe16f6af8e2e59165b8efc40038c7c0847f5b6",
+    "references/asset-organization.md": "de98123417e9c5a1cc71a78131bba979c4c8ed2e5289e6c7a7f166576e488101",
+    "references/brand-guideline-template.md": "392db8cf10fef492221c15a86e68590074bf5716de1f2982f41c01fbe30567cc",
+    "references/color-palette-management.md": "c429298ffe3955edb8b22c9f51426fef75e83d02848cd4300e89c0d3fc34b44a",
+    "references/consistency-checklist.md": "56d8b2d4852cda11e600adec4b9dd68fc89a1b8265382359953bec5c5e5e2c36",
+    "references/logo-usage-rules.md": "044c5ddf30cfe0eea047451cfce6ea654939198ffdd8968a19161c97066a5a26",
+    "references/messaging-framework.md": "24b2500a72867b55dd10f4bf359178b0eb347fddd852659ce47b69d9f597d4e6",
+    "references/typography-specifications.md": "921c3d9e6ddfde2677b9a3e32eee94c7922f54f22c1f380c5ed2eb25a7d5bfa9",
+    "references/update.md": "146e9c3173fed475f41dd0c1d8a1e0daf65a973eedb7e2adc8da8e940841a21c",
+    "references/visual-identity.md": "63f0cfc5d95403d8e12aca4d839cc28471515574d9a431334bfbb96c15407c31",
+    "references/voice-framework.md": "08c15ac79f81cd964c5efbe593131b61a093c7e1b060d5dd28b17f3cc5b331fb",
+    "scripts/extract-colors.cjs": "f09e049d24f26aeb1daccc552e24de4bb112d12a45da4eeb14f55a72554c93ef",
+    "scripts/inject-brand-context.cjs": "5b98abdeb5c636f247102cd235f1d3421db7a4de53fd853360feaa0c471b5c96",
+    "scripts/sync-brand-to-tokens.cjs": "a80060d7ef5d51ab85d045983d0cfca7f45bf8d4a41305da2c1c99e6d9d628ca",
+    "scripts/tests/test_sync_brand_to_tokens.py": "c9c381cd6d56a9294f2b8c303849ab9b2738c71a6b2c7ed457701ba2a20fabe4",
+    "scripts/validate-asset.cjs": "4546c9109fb0f4f767426508cb29e60d02b301f8897cf16d8e378b7ce9d997fc",
+    "templates/brand-guidelines-starter.md": "d157a57b15f0b458c79636d11de42f3c89f03d8c0bbea1bdd3cf1c3542b2140d"
+  },
+  "hash": "0bd2dabf402548b2633792db78cf596b37285d2883e4e090fb03b07b02257dfe",
+  "id": "brand",
+  "name": "brand",
+  "note": "أرشفة أولية",
+  "size": 91444,
+  "title": "Brand",
+  "version": "1.0.0"
+}

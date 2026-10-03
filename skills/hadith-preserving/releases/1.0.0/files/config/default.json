@@ -1,0 +1,44 @@
+{
+  "skill_name": "hadith-preserving-word-formatter",
+  "version": "1.1.1",
+  "part_pages": 20,
+  "font_name": "Traditional Arabic",
+  "body_font_size_pt": 24,
+  "line_spacing": 1.5,
+  "paragraph_space_after_pt": 10,
+  "title_font_size_pt": 26,
+  "header_font_size_pt": 16,
+  "footer_font_size_pt": 14,
+  "colors": {
+    "number": "0000CC",
+    "isnad": "000000",
+    "matn": "5B2C06",
+    "part_header": "C00000",
+    "title_text": "000000",
+    "title_fill": "D9F2D0",
+    "narrator": "C00000",
+    "title_border": "000000"
+  },
+  "page": {
+    "width_inches": 8.5,
+    "height_inches": 11.0,
+    "top_margin_inches": 1.1041666667,
+    "bottom_margin_inches": 1.0,
+    "left_margin_inches": 1.0,
+    "right_margin_inches": 1.0,
+    "header_distance_inches": 0.4916666667,
+    "footer_distance_inches": 0.4916666667
+  },
+  "replace_exact": {
+    "صلى الله عليه وسلم": "ﷺ"
+  },
+  "title_prefixes_unvocalized": [
+    "كتاب",
+    "باب",
+    "فصل"
+  ],
+  "minimum_fitted_font_size_pt": 1.0,
+  "font_fit_step_pt": 0.5,
+  "title_border_size_eighth_points": 12,
+  "font_fit_policy": "full_page_maximum"
+}
