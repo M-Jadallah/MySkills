@@ -1,9 +1,15 @@
 {
   "id": "81d8d826b8bc4d4382534801bc098b35",
-  "last_seen": "2026-10-03T14:18:53.081296+00:00",
+  "last_seen": "2026-10-03T14:20:33.734030+00:00",
   "name": "victusamd",
   "skills": {
     "arabic-word-to-pdf": {
+      "agents": {
+        "codex": "1.0.0"
+      },
+      "workspace": null
+    },
+    "nahw-sarf-lesson-rewriter": {
       "agents": {
         "codex": "1.0.0"
       },
