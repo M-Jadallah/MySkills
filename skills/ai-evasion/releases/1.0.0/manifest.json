@@ -1,0 +1,21 @@
+{
+  "created_at": "2026-10-15T14:26:58.550527+00:00",
+  "description": "أداة متكاملة لتجنب كشف النص المُولّد بالذكاء الاصطناعي. تستند إلى هندسة عكسية لـ 3 نماذج RoBERTa مفتوحة المصدر (OpenAI Detector، ChatGPT HC3 Detector، PirateXX) وتُطبّق 12 قاعدة لتحييد 8 إشارات إحصائية تلتقطها الكاشفات. تحافظ على المحتوى 100% —— تغيّر فقط البصمة السطحية.\n✓ كشف النص قبل التعديل  ✓ إعادة صياغة ذكية  ✓ برومبت جاهز للوكيل ✓ دعم العربية  ✓ تقرير تحليلي للإشارات",
+  "device_id": "9aa33914856a433a964cc3cdf0bdc34f",
+  "device_name": "MJ",
+  "files": {
+    "SKILL.md": "509ffbe5c6340fb6551ef57742f9538d64886c9dd8b8b8b17dcb3f2f5b491238",
+    "references/detection-signals.md": "20fa508ab1ae0af80a284378b0fecc8021c8e775dbdcdc7d89a558cb109ffdd2",
+    "references/prompt.md": "795a60593707bb34baf6b5dfe764ade035bdae4a4893fb27f9f8f4ff5caf0e66",
+    "scripts/detect.py": "59c8199b77ab8b0867067b4955864c27faa22d9977ad25bba14cbc7493013ded",
+    "scripts/evade.py": "fa193e720b55e20ad6210af8a20daae00e31f2866aa93f2db76a0fd8d7b414d1",
+    "templates/before-after.md": "9bd5b6fab6e8a890018e2031d122ce6760ebb4fba60922e1afbfa5972e0e8db5"
+  },
+  "hash": "6d119833c8509808d712f7491ce7d6057b6559da7b05b0bae41689550c003815",
+  "id": "ai-evasion",
+  "name": "ai-evasion",
+  "note": "أرشفة أولية",
+  "size": 56391,
+  "title": "🛡️ AI Evasion — أداة تجنب كاشفات النص المُولّد",
+  "version": "1.0.0"
+}
