@@ -1,0 +1,16 @@
+{
+  "created_at": "2026-10-15T14:26:48.527340+00:00",
+  "description": "Route ambitious Three.js graphics work to the smallest expert skill set. Use for new visual experiences, graphics rewrites, reference matching, or requests spanning geometry, materials, atmosphere, shadows, temporal effects, and final image treatment.",
+  "device_id": "9aa33914856a433a964cc3cdf0bdc34f",
+  "device_name": "MJ",
+  "files": {
+    "SKILL.md": "de04ce1792a3ad39d0d6392671dc8a9df8d1d8083a827ca6cf86144f60a614aa"
+  },
+  "hash": "dcae35ebff52c217bbf817cc327d207aed5fdfdcffc1ce1e4a7ebc5460ebcd86",
+  "id": "threejs-skill-router",
+  "name": "threejs-skill-router",
+  "note": "أرشفة أولية",
+  "size": 6866,
+  "title": "Three.js Visual Skill Router",
+  "version": "1.0.0"
+}
