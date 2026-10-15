@@ -1,0 +1,81 @@
+{
+  "skill_version": "1.0.0",
+  "tested_at": "2026-09-29",
+  "status": "passed",
+  "host": {
+    "platform": "Windows",
+    "python": "3.12.14",
+    "native_layout": "Microsoft Word COM + PowerShell 7.6.5 STA + SaveAs2 PDF"
+  },
+  "independent_forward_test": {
+    "facts": 13,
+    "source_questions": 3,
+    "bank_questions": 12,
+    "table_includes_nested_table": true,
+    "native_omml": true,
+    "source_instruction_excluded": true,
+    "source_hash_preserved": true
+  },
+  "native_final_test": {
+    "files": 5,
+    "page_counts": [
+      4,
+      4,
+      3,
+      8,
+      4
+    ],
+    "total_pages": 23,
+    "question_counts": [
+      6,
+      6,
+      12,
+      12,
+      6
+    ],
+    "all_final_pages_visually_reviewed": true,
+    "actual_question_prompts_order_and_teacher_steps_checked": true,
+    "native_equation_retained_in_all_three_student_editions": true,
+    "true_card_opacity": 0.06,
+    "package_errors": 0,
+    "package_warnings": 0,
+    "geometry_flags": 0
+  },
+  "source_inventory_scale_test": {
+    "paragraphs": 639,
+    "tables": 95,
+    "equations": 58,
+    "scope": "Extraction only on original gas source, not a full five-file rebuild of that lesson."
+  },
+  "assets": {
+    "manifest_count": 84,
+    "numbered_ribbons": 63,
+    "original_rule_references": 10,
+    "template_opens_in_native_word": true,
+    "approved_background_and_covers_preserved": true
+  },
+  "negative_cases": {
+    "wrong_final_answer": "failed",
+    "wrong_calculation": "failed",
+    "missing_original_example": "failed",
+    "unaccounted_source": "failed",
+    "english_glossary": "failed",
+    "unsafe_arithmetic": "rejected",
+    "valid_plan": "passed"
+  },
+  "corrected_findings": [
+    "Source-free template rebuilt with native Word preserving required OPC relationships.",
+    "Student body begins with main idea, not an extra Title.",
+    "Teacher group ribbons appear once per group.",
+    "WML properties and numbering emitted in canonical order.",
+    "Latin equations remain coherent; Arabic/Latin boundary spacing and parenthesized numeric tuples reviewed.",
+    "Quantities do not break apart from units.",
+    "Teacher locators stay with following question cards."
+  ],
+  "limits": [
+    "Automated coverage IDs cannot prove semantic faithfulness; source-specific scientific review remains required.",
+    "No fresh image-generation call was exercised in this fixture, which required no scientific images; approved PNGs were reused. New generated images require the image workflow and scientific/alpha review.",
+    "Host-specific renderer and font availability must be checked.",
+    "This test does not guarantee every future source structure or every chemistry question is error-free."
+  ]
+}
