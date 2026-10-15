@@ -1,0 +1,9 @@
+{
+  "category": "عام",
+  "current": "1.0.0",
+  "description": "Extract chemistry PDF lessons into canonical Markdown.",
+  "id": "chem-spectrum-lab-01-pdf-to-md",
+  "name": "chem-spectrum-lab-01-pdf-to-md",
+  "title": "Chem Spectrum Lab — Step 01: PDF → Markdown",
+  "updated_at": "2026-10-15T14:26:14.633157+00:00"
+}
