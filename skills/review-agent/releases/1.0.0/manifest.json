@@ -1,0 +1,17 @@
+{
+  "created_at": "2026-10-02T19:09:01.973949+00:00",
+  "description": "Perform a read-only, defect-first review of a specified code change and return every actionable finding. Use when another agent delegates review of uncommitted changes, a base-branch diff, a commit, or custom review instructions.",
+  "device_id": "8603efad5f5a494ebf07d82145e20df0",
+  "device_name": "LAPTOP-46FJ83M6",
+  "files": {
+    "SKILL.md": "bb46315f6bc4b7051c05f807d19b1689b20418ac6c42590406d805c10fa2fd1a",
+    "agents/openai.yaml": "579774dde24f21ee57d5cb63f69c2fce0da04b81538c636a0e0dd37dc836c811"
+  },
+  "hash": "8970794036cf65cb7b30d32b089f0ecb6d5cecb71a4e71ebe48b434093d22fa7",
+  "id": "review-agent",
+  "name": "review-agent",
+  "note": "أرشفة أولية",
+  "size": 2976,
+  "title": "Review Agent",
+  "version": "1.0.0"
+}

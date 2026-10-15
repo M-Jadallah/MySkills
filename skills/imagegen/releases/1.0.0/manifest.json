@@ -1,0 +1,27 @@
+{
+  "created_at": "2026-10-02T19:08:58.275348+00:00",
+  "description": "Generate or edit raster images when the task benefits from AI-created bitmap visuals such as photos, illustrations, textures, sprites, mockups, or transparent-background cutouts. Use when Codex should create a brand-new image, transform an existing image, or derive visual variants from references, and the output should be a bitmap asset rather than repo-native code or vector. Do not use when the task is better handled by editing existing SVG/vector/code-native assets, extending an established icon or logo system, or building the visual directly in HTML/CSS/canvas.",
+  "device_id": "8603efad5f5a494ebf07d82145e20df0",
+  "device_name": "LAPTOP-46FJ83M6",
+  "files": {
+    "LICENSE.txt": "44e03f7e263eb3ad256440c1eeab5e49168baff5a78ecef9a5447261cf3a91bc",
+    "SKILL.md": "706d4d96e1d5c9e6023fe3ccabba1bb34b364024d344fd25b8515ec7d28fe3c4",
+    "agents/openai.yaml": "1797be4076717806df54aa9331c07ac8eebe32c69f32132d5858712b05406146",
+    "assets/imagegen-small.svg": "087c1632a3b8a2ed4d6218952e7ba7ae2221a979f84233667ed2c587998784da",
+    "assets/imagegen.png": "95952f644064eb9e890f98d8db07216347186526e4c41ad66d3420629eb86e20",
+    "references/cli.md": "29dc8c1e3e5d9a20aee587fedb46a464552b6ec118d93bbd90c8d86e30502c8c",
+    "references/codex-network.md": "cba3b4d24d30f38adf8021b6e9b49ec5261a9e45e7df31047ec451c916c99b0a",
+    "references/image-api.md": "695909437b792aff171477dba127476a11235c220beb06533cce7c1495a042c8",
+    "references/prompting.md": "d957a45cb24fe2cf1a85858674fc533f15a5f4621355f559a13a93168999c2dd",
+    "references/sample-prompts.md": "76cc8a2988efb6e844a99ff9908b2b11cc07467510fc909002abcc0ee3f0701b",
+    "scripts/image_gen.py": "3666b807de3f0a1d0a4a767b886d612c0b8f71025c500bba6693d1c6995a0873",
+    "scripts/remove_chroma_key.py": "fa2989807052b857bed08f7fee0caa2502b54c46afc0a6f28cd706c25f636630"
+  },
+  "hash": "717b4e92d2c82e398569a7810b8aca01facaa7542b15f96194c5ec7d8d3eab6b",
+  "id": "imagegen",
+  "name": "imagegen",
+  "note": "أرشفة أولية",
+  "size": 129734,
+  "title": "Image Generation Skill",
+  "version": "1.0.0"
+}

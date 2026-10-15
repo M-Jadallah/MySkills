@@ -1,0 +1,49 @@
+{
+  "skill": "hadith-preserving-word-formatter",
+  "version": "1.1.2",
+  "status": "PASS",
+  "tests": {
+    "total": 12,
+    "passed": 12,
+    "groups": {
+      "core_and_batch": 9,
+      "font_fit": 2,
+      "pagination": 1
+    }
+  },
+  "semantic_bold": {
+    "status": "PASS",
+    "matn_always_bold": true,
+    "meaning_blocks_always_bold": true,
+    "required_ooxml_flags": [
+      "w:b",
+      "w:bCs"
+    ],
+    "required_bold_runs_checked": 16,
+    "ai_semantic_map_exact_anchor_validation": true
+  },
+  "example": {
+    "pages": 5,
+    "hadith_8_page": [
+      5,
+      5
+    ],
+    "hadith_8_font_size_pt": 21.0,
+    "table_free": true,
+    "matn_color_present": true,
+    "complex_script_bold_present": true,
+    "visual_review": "PASS — all 5 pages inspected after rendering"
+  },
+  "multi_book_example": {
+    "visual_review": "PASS",
+    "semantic_bold_check": "PASS"
+  },
+  "strict_part_pagination_test": {
+    "status": "PASS",
+    "part_start_pages": [
+      1,
+      21,
+      41
+    ]
+  }
+}

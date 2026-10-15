@@ -1,0 +1,9 @@
+{
+  "category": "عام",
+  "current": "1.0.0",
+  "description": "Helps users discover and install agent skills when they ask questions like \"how do I do X\", \"find a skill for X\", \"is there a skill that can...\", or express interest in extending capabilities. This skill should be used when the user is looking for functionality that might exist as an installable skill.",
+  "id": "find-skills",
+  "name": "find-skills",
+  "title": "Find Skills",
+  "updated_at": "2026-10-02T19:08:35.756491+00:00"
+}

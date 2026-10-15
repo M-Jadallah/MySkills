@@ -1,0 +1,23 @@
+{
+  "created_at": "2026-10-02T19:09:03.995630+00:00",
+  "description": "Install Codex skills into $CODEX_HOME/skills from a curated list or a GitHub repo path. Use when a user asks to list installable skills, install a curated skill, or install a skill from another repo (including private repos).",
+  "device_id": "8603efad5f5a494ebf07d82145e20df0",
+  "device_name": "LAPTOP-46FJ83M6",
+  "files": {
+    "LICENSE.txt": "3ddf9be5c28fe27dad143a5dc76eea25222ad1dd68934a047064e56ed2fa40c5",
+    "SKILL.md": "2892d8b2fb11631132118f340aed80ae17e59d5a571fc2c4f4a4a7e73f139d52",
+    "agents/openai.yaml": "bd64b4d6893138706b3e3540f266ab809ccdcd08375652ae9f9d1e029fe50d02",
+    "assets/skill-installer-small.svg": "099e5a4b5e5f0f918a8de0d2059f0a86211da623dbb75f86f13dc9f7c08c778d",
+    "assets/skill-installer.png": "d0a230b1a79b71b858b7c215a0fbb0768d6459c14ea4ef80c61592629bf0e605",
+    "scripts/github_utils.py": "2f9702afb9f0da740181fa4a3214f663e460f80cd5cea2e7dcaab00ad269082e",
+    "scripts/install-skill-from-github.py": "110cc7e4e395c2c9ba070d47db7d21be5164591c35015ae364fc9c9905b08de8",
+    "scripts/list-skills.py": "2cd6eecbaf9be7c86e80a14d7042f95d6abb83b6baee5f17dd075fa7a71c83de"
+  },
+  "hash": "f016db62ef99291e61ed466bc85c7961a1e27313aba8c733b702e2da4ac3792a",
+  "id": "skill-installer",
+  "name": "skill-installer",
+  "note": "أرشفة أولية",
+  "size": 33229,
+  "title": "Skill Installer",
+  "version": "1.0.0"
+}

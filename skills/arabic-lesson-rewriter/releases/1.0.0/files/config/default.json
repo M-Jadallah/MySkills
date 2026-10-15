@@ -1,0 +1,33 @@
+{
+  "skill": "arabic-lesson-rewriter",
+  "version": "1.2.0",
+  "font": "Traditional Arabic",
+  "body_font_size_pt": 22,
+  "page": { "width_in": 8.5, "height_in": 11, "margin_in": 0.5 },
+  "colors": {
+    "body": "1F1F1F",
+    "heading": "C00000",
+    "heading_sub": "1F1F1F",
+    "heading_sub2": "8B4513",
+    "brackets": "8B4513",
+    "evidence_text": "1F7A5B",
+    "evidence_fill": "EAF5F0",
+    "table_header_fill": "C00000",
+    "table_border": "D0C4B0"
+  },
+  "concept_map": {
+    "max_depth": 6,
+    "label_max_codepoints": 160,
+    "node_word_range": [2, 7]
+  },
+  "tashkeel": {
+    "min_letters_for_check": 6,
+    "min_ratio_headings_labels": 0.5,
+    "min_ratio_long_text": 0.35
+  },
+  "auto_fixed_at_build": [
+    "ASCII digits -> Arabic-Indic digits",
+    "full salawat phrase -> ﷺ",
+    "invalid tanween stripped by fix_tanween_errors"
+  ]
+}

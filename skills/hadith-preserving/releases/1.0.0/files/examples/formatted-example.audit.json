@@ -1,0 +1,113 @@
+{
+  "skill": "hadith-preserving-word-formatter",
+  "version": "1.1.1",
+  "input": "examples/raw-example.txt",
+  "output": "examples/formatted-example.docx",
+  "clean_text": "examples/formatted-example.clean.txt",
+  "input_sha256": "5240ba2c1462aba64a83442577a855449a56e0d427fdc67c5b26683ca777f52d",
+  "cleaned_non_whitespace_sha256": "b587fb0a8bf3060fdcc57ff5b7f9b6466891ff1bafc80a4fb85efc792b7973dc",
+  "output_units_non_whitespace_sha256": "b587fb0a8bf3060fdcc57ff5b7f9b6466891ff1bafc80a4fb85efc792b7973dc",
+  "preservation_check": "PASS",
+  "repair_log": [
+    {
+      "attempt": 1,
+      "issues": [],
+      "status": "PASS"
+    }
+  ],
+  "stats": {
+    "page_markers_removed": 6,
+    "separators_removed": 6,
+    "footnote_blocks_removed": 6,
+    "footnote_reference_numbers_removed": 67,
+    "salutation_replacements": 11,
+    "repair_passes": 0
+  },
+  "units": {
+    "total": 9,
+    "titles": 1,
+    "hadiths": 8,
+    "body_blocks": 0,
+    "hadith_numbers": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8"
+    ]
+  },
+  "layout": {
+    "page_count": 5,
+    "boundaries": [],
+    "padding_pages": [],
+    "part_start_pages": [
+      1
+    ],
+    "unit_pages": {
+      "0": [
+        1,
+        1
+      ],
+      "1": [
+        1,
+        1
+      ],
+      "2": [
+        1,
+        1
+      ],
+      "3": [
+        2,
+        2
+      ],
+      "4": [
+        2,
+        2
+      ],
+      "5": [
+        3,
+        3
+      ],
+      "6": [
+        3,
+        3
+      ],
+      "7": [
+        4,
+        4
+      ],
+      "8": [
+        5,
+        5
+      ]
+    },
+    "warnings": [],
+    "unit_font_sizes": {
+      "1": 24.0,
+      "2": 24.0,
+      "3": 24.0,
+      "4": 24.0,
+      "5": 24.0,
+      "6": 24.0,
+      "7": 24.0,
+      "8": 23.0
+    },
+    "page_break_before_units": []
+  },
+  "rules": {
+    "font": "Traditional Arabic",
+    "default_font_size_pt": 24,
+    "font_fitting_enabled": true,
+    "hadiths_must_fit_one_page": true,
+    "table_free": true,
+    "part_pages": 20,
+    "last_part_may_be_shorter": true,
+    "salutation_replacement_only": {
+      "صلى الله عليه وسلم": "ﷺ"
+    },
+    "companion_supplications_preserved": true
+  }
+}

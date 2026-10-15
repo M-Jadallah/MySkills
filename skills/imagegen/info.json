@@ -1,0 +1,9 @@
+{
+  "category": "عام",
+  "current": "1.0.0",
+  "description": "Generate or edit raster images when the task benefits from AI-created bitmap visuals such as photos, illustrations, textures, sprites, mockups, or transparent-background cutouts. Use when Codex should create a brand-new image, transform an existing image, or derive visual variants from references, and the output should be a bitmap asset rather than repo-native code or vector. Do not use when the task is better handled by editing existing SVG/vector/code-native assets, extending an established icon or logo system, or building the visual directly in HTML/CSS/canvas.",
+  "id": "imagegen",
+  "name": "imagegen",
+  "title": "Image Generation Skill",
+  "updated_at": "2026-10-02T19:08:58.290123+00:00"
+}

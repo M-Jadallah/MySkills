@@ -1,0 +1,6 @@
+test_long_hadith_is_shrunk_and_kept_on_one_page (tests.test_font_fit_integration.FontFitIntegrationTests.test_long_hadith_is_shrunk_and_kept_on_one_page) ... ok
+
+----------------------------------------------------------------------
+Ran 1 test in 26.279s
+
+OK

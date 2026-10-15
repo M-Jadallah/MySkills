@@ -1,0 +1,9 @@
+{
+  "name": "arabic-lesson-formatter-sequential",
+  "version": "1.0.0",
+  "description": "Formatting Islamic Arabic lessons sequentially using docx-js library with precise specifications",
+  "main": "formatter.js",
+  "dependencies": {
+    "docx": "^8.5.0"
+  }
+}

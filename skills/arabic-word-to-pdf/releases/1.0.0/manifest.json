@@ -1,0 +1,22 @@
+{
+  "created_at": "2026-10-02T19:09:05.110511+00:00",
+  "description": "معالجة مجلد ملفات Word العربية بضبط المحاذاة يمينًا واتجاه RTL وإضافة مسافة بادئة مناسبة للفقرات النصية مع حفظ الفقرات الوسطية، وإنشاء ملف Word جامع يبدأ فيه كل درس من صفحة جديدة بإطار وترقيم، وتصدير PDF مستقل لكل ملف وملف PDF جامع مرتب بالأرقام مع إطار وترقيم. استخدمها عندما يطلب المستخدم هذه الحزمة أو يستدعي المهارة مع مسار مجلد.",
+  "device_id": "8603efad5f5a494ebf07d82145e20df0",
+  "device_name": "LAPTOP-46FJ83M6",
+  "files": {
+    "SKILL.md": "c559f14f78babcec2a44515924246c3bc284ecee8a2ef9f45b9e5ff316e82567",
+    "agents/openai.yaml": "f9b2bb41f40da20f6fbb552bdaad2ffd33963fddd0d449b6e1eb463660c6d39e",
+    "scripts/commit.ps1": "df07ac2f4614bef136f517ff3624cb80386d2487dd825721ccbd7291d81b587c",
+    "scripts/merge_word.ps1": "c889deb7684e40d0b6c65ce1c7de9bde3912d15b29a78ae25473e607a06adadb",
+    "scripts/pdf_pipeline.py": "52a2faed958ae630e0b0baffa0eba9a3381f07e9efba85641d727b855cc50393",
+    "scripts/prepare_merge_docx.py": "72cbf6222cb411f078e43a15b8d5e314f9587f230b2cea7997c9c36789fa2af1",
+    "scripts/run.ps1": "9a1d6963864dd1495ad159ac4ad330e34c920d92dff0b3cf31acc7cc09bf821f"
+  },
+  "hash": "d63009974e30d096d24d6fb324447282cec0153af1790ab13e66e71c2d2a0e9e",
+  "id": "arabic-word-to-pdf",
+  "name": "arabic-word-to-pdf",
+  "note": "أرشفة أولية",
+  "size": 41792,
+  "title": "تهيئة Word وإنتاج ملفات Word وPDF جامعة",
+  "version": "1.0.0"
+}
