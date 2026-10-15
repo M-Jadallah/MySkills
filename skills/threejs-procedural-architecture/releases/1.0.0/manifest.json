@@ -1,0 +1,16 @@
+{
+  "created_at": "2026-10-15T14:26:33.157886+00:00",
+  "description": "Build authored procedural buildings and architectural kits in Three.js. Use for massing grammars, exposed-edge analysis, façade bays, profiles, arches, cornices, roofs, ornaments, material-slot mesh compilation, deterministic variants, and procedural city assets.",
+  "device_id": "9aa33914856a433a964cc3cdf0bdc34f",
+  "device_name": "MJ",
+  "files": {
+    "SKILL.md": "a235b60592dd267d89ee022831dd7ec8f8702e9415b70b9dfcc7b2d0b27d6421"
+  },
+  "hash": "459df203ec541a13ad4e1764915bd59974389485370eeecc7447fc0256b5c4ad",
+  "id": "threejs-procedural-architecture",
+  "name": "threejs-procedural-architecture",
+  "note": "أرشفة أولية",
+  "size": 2292,
+  "title": "Procedural Architecture",
+  "version": "1.0.0"
+}
