@@ -1,0 +1,16 @@
+{
+  "created_at": "2026-10-15T14:26:43.628396+00:00",
+  "description": "Build raymarched space phenomena in Three.js. Use for black-hole lensing, accretion disks, wormhole throat transits, curved-ray and null-geodesic integration, lensed celestial spheres, procedural star fields and galactic skies, relativistic-looking distortion, bounded volumetric structures, and GPU effects that need controlled numerical integration.",
+  "device_id": "9aa33914856a433a964cc3cdf0bdc34f",
+  "device_name": "MJ",
+  "files": {
+    "SKILL.md": "20215999a54ef0f709c243e814ac724bf910addc360b6c6bb7844eb81d4cb9ef"
+  },
+  "hash": "912aa990310ed6ba12a332f26c76a1b658a8c4d36486b637574a6d8c75d2064f",
+  "id": "threejs-raymarched-space-effects",
+  "name": "threejs-raymarched-space-effects",
+  "note": "أرشفة أولية",
+  "size": 4291,
+  "title": "Raymarched Space Effects",
+  "version": "1.0.0"
+}
