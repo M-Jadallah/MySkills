@@ -1,0 +1,16 @@
+{
+  "created_at": "2026-10-15T14:26:50.689234+00:00",
+  "description": "Build large procedural oceans and coast transitions in Three.js. Use for WebGPU/TSL FFT oceans, multi-cascade wavelength bands, hybrid FFT plus Gerstner clear-water oceans, coastal breakers, signed-distance coastlines, shallow-water swash films, wet-sand transitions, stylized above/below surface optics, permanently submerged Snell-window views, total internal reflection, forward-refracted structures through an interface, pixel-footprint spectral LOD, aquatic perspective, caustic god rays, choppy displacement, spectral derivatives, Jacobian whitecaps, windrow and temporal foam, analytic sky reflection, underwater absorption, crest scatter, and GPU validation.",
+  "device_id": "9aa33914856a433a964cc3cdf0bdc34f",
+  "device_name": "MJ",
+  "files": {
+    "SKILL.md": "4067775424348a518d61ef13cbaca395645dc46a81d6c1583e6b7b179c86b7df"
+  },
+  "hash": "dbf103a42d27226736237fb02e253cb89c3588c4ae27571f5bbbd1dff7e6d89e",
+  "id": "threejs-spectral-ocean",
+  "name": "threejs-spectral-ocean",
+  "note": "أرشفة أولية",
+  "size": 7613,
+  "title": "Spectral Ocean",
+  "version": "1.0.0"
+}
