@@ -1,0 +1,58 @@
+{
+  "lesson": {
+    "id": "gaseous-state",
+    "title_ar": "الحالة الغازية",
+    "main_idea_ar": "تفسير خصائص الغازات وربط الضغط والحجم ودرجة الحرارة وكمية الغاز بقوانين كمية.",
+    "learning_outcomes_ar": [
+      "تفسير خصائص الغازات وفق نظرية الحركة الجزيئية.",
+      "تطبيق قوانين الغازات والتحقق من ثوابتها العلمية."
+    ],
+    "source_files": ["lesson.pdf"]
+  },
+  "sections": [
+    {
+      "id": "kinetic-molecular-theory",
+      "title_ar": "نظرية الحركة الجزيئية",
+      "objective_ar": "ربط السلوك المجهري للجسيمات بالخصائص الفيزيائية للغاز.",
+      "prerequisites_ar": ["الحركة", "الطاقة الحركية", "التصادم"],
+      "explanation_ar": [
+        "جسيمات الغاز متباعدة وتتحرك عشوائيا باستمرار.",
+        "ينشأ الضغط من تصادم الجسيمات مع جدران الوعاء."
+      ],
+      "terms": [
+        {"term_ar": "التصادم المرن", "definition_ar": "تصادم يبقى فيه مجموع الطاقة الحركية ثابتا."}
+      ],
+      "equations": [],
+      "source_visuals": [],
+      "interaction": {"simulation_id": "particle-motion"},
+      "verification": {"label_ar": "الملاحظة العلمية", "expression": "سرعة الجسيمات تزداد بزيادة T"},
+      "worked_examples": [],
+      "quick_checks": [],
+      "misconceptions_ar": ["الحجم المرسوم للجسيمات لا يمثل حجمها الحقيقي."],
+      "transition_ar": "بعد فهم الحركة المجهرية يمكن تفسير قوانين الغازات.",
+      "accessibility_summary_ar": "وعاء يحتوي جسيمات متباعدة تتحرك عشوائيا وتصطدم بالجدران."
+    },
+    {
+      "id": "boyle-law",
+      "title_ar": "قانون بويل",
+      "objective_ar": "استنتاج العلاقة العكسية بين الضغط والحجم عند ثبات درجة الحرارة وكمية الغاز.",
+      "prerequisites_ar": ["الضغط", "الحجم"],
+      "explanation_ar": [
+        "عند تقليل حجم الغاز تزداد وتيرة اصطدام الجسيمات بالجدران فيزداد الضغط.",
+        "يبقى حاصل ضرب الضغط في الحجم ثابتا."
+      ],
+      "terms": [],
+      "equations": [
+        {"latex": "P_1V_1=P_2V_2", "variables": ["P", "V"]}
+      ],
+      "source_visuals": [],
+      "interaction": {"simulation_id": "boyle-law"},
+      "verification": {"label_ar": "التحقق العلمي", "expression": "P\\times V=constant"},
+      "worked_examples": [],
+      "quick_checks": [],
+      "misconceptions_ar": ["لا يطبق القانون إذا تغيرت درجة الحرارة."],
+      "transition_ar": "تظهر علاقة أخرى عندما يكون الضغط ثابتا وتتغير درجة الحرارة.",
+      "accessibility_summary_ar": "مكبس يضغط الغاز؛ ينخفض الحجم ويرتفع الضغط مع ثبات درجة الحرارة."
+    }
+  ]
+}
