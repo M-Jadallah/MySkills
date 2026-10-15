@@ -1,0 +1,9 @@
+{
+  "category": "عام",
+  "current": "1.0.0",
+  "description": "Implement a production GTAO path in Three.js. Use for half-resolution horizon sampling, reversed-depth reconstruction, bent-normal encoding, full-resolution bilateral reconstruction, environment-light application, contact grounding, and halo diagnosis.",
+  "id": "threejs-screen-space-ambient-occlusion",
+  "name": "threejs-screen-space-ambient-occlusion",
+  "title": "Screen-Space Ambient Occlusion",
+  "updated_at": "2026-10-15T14:26:44.974924+00:00"
+}

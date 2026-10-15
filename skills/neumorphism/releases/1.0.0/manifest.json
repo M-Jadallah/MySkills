@@ -1,0 +1,16 @@
+{
+  "created_at": "2026-10-15T14:27:27.471955+00:00",
+  "description": "Soft, extruded UI elements with inner and outer shadows on monochromatic surfaces for a tactile, embedded look.",
+  "device_id": "9aa33914856a433a964cc3cdf0bdc34f",
+  "device_name": "MJ",
+  "files": {
+    "SKILL.md": "febede46065b3ff832f37dc73ee424276825ae83fa228e7cab9ce60e724433b5"
+  },
+  "hash": "b07154bb99911ec83374b7ddb0be8d35c34871884544403adf24c580a4798eca",
+  "id": "neumorphism",
+  "name": "neumorphism",
+  "note": "أرشفة أولية",
+  "size": 3794,
+  "title": "Neumorphism club Design System Skill (Universal)",
+  "version": "1.0.0"
+}

@@ -1,0 +1,18 @@
+{
+  "created_at": "2026-10-15T14:26:14.626133+00:00",
+  "description": "Extract chemistry PDF lessons into canonical Markdown.",
+  "device_id": "9aa33914856a433a964cc3cdf0bdc34f",
+  "device_name": "MJ",
+  "files": {
+    "SKILL.md": "8bd28567d9934c3bc1db148e89f3ff26393bd8baca8df10be0214dcd7dc6e70b",
+    "references/template.md": "2964e8ca5b0169aeb5875a3442223eaee124256bf93d7a0b290102a328bb2ed9",
+    "scripts/extract_pdf.py": "fe0f49d73d3aa22425e8724047873a5170eca6936b5280a31074fac30355c7aa"
+  },
+  "hash": "a860029025411bec8838003f0f5a1ed99583f8b5be72b6d6ba24b0454e5a610b",
+  "id": "chem-spectrum-lab-01-pdf-to-md",
+  "name": "chem-spectrum-lab-01-pdf-to-md",
+  "note": "أرشفة أولية",
+  "size": 16915,
+  "title": "Chem Spectrum Lab — Step 01: PDF → Markdown",
+  "version": "1.0.0"
+}

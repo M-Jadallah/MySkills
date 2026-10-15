@@ -1,0 +1,9 @@
+{
+  "category": "عام",
+  "current": "1.0.0",
+  "description": "Build coherent procedural scalar and vector fields for Three.js materials and geometry. Use for terrain, planets, wear, biomes, clouds, water masks, displacement, roughness, normals, domain warping, and any visual where several channels must derive from shared causes.",
+  "id": "threejs-procedural-fields",
+  "name": "threejs-procedural-fields",
+  "title": "Procedural Fields",
+  "updated_at": "2026-10-15T14:26:34.375836+00:00"
+}

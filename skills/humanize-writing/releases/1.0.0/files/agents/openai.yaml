@@ -1,0 +1,4 @@
+interface:
+  display_name: "Humanize Writing"
+  short_description: "Rewrite text so it sounds natural and less AI-generated."
+  default_prompt: "Humanize this text while preserving meaning, tone, and language:"

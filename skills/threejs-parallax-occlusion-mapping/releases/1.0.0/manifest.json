@@ -1,0 +1,16 @@
+{
+  "created_at": "2026-10-15T14:26:29.482287+00:00",
+  "description": "Build silhouette-aware parallax occlusion mapping in Three.js WebGPU and TSL. Use for height-field ray marching, relief UVs, clipped flat or curved silhouettes, inflated shells, self-shadowing, relief-aware shadow depth, and height-derived normals.",
+  "device_id": "9aa33914856a433a964cc3cdf0bdc34f",
+  "device_name": "MJ",
+  "files": {
+    "SKILL.md": "1222725eb492e7b601c318c494679db1566dda412a542b0b905139f108d408f7"
+  },
+  "hash": "97eccb104fe8db5567ff97708925928d4503233a6e18400e2eeecb7f99385e99",
+  "id": "threejs-parallax-occlusion-mapping",
+  "name": "threejs-parallax-occlusion-mapping",
+  "note": "أرشفة أولية",
+  "size": 2849,
+  "title": "Parallax Occlusion Mapping",
+  "version": "1.0.0"
+}

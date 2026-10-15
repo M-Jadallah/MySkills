@@ -1,0 +1,16 @@
+{
+  "created_at": "2026-10-15T14:26:56.997352+00:00",
+  "description": "Build production analytic and bounded water in Three.js. Use for shared multi-wave displacement and normals, bounded RGBA heightfield pool simulation, local drops, object-driven ripples, differential-area caustics, ray-traced pool/water/sphere volume optics, derivative-filtered normal bands, analytic sky reflection, side-aware Fresnel, heuristic screen refraction, Beer-Lambert absorption, and crest foam.",
+  "device_id": "9aa33914856a433a964cc3cdf0bdc34f",
+  "device_name": "MJ",
+  "files": {
+    "SKILL.md": "c009efbe0d51297142d113021872568fd6a728dc2f6f9e0f6905bb547b3e87b8"
+  },
+  "hash": "a8d9fa7338d753915be1d231e4c69d72e66b32b3f9910c1971a7126111088216",
+  "id": "threejs-water-optics",
+  "name": "threejs-water-optics",
+  "note": "أرشفة أولية",
+  "size": 3297,
+  "title": "Water Optics",
+  "version": "1.0.0"
+}

@@ -1,0 +1,17 @@
+{
+  "created_at": "2026-10-15T14:26:15.577779+00:00",
+  "description": "Design interactive 3D lab concepts (mandating 3D helper skills) from lesson Markdown.",
+  "device_id": "9aa33914856a433a964cc3cdf0bdc34f",
+  "device_name": "MJ",
+  "files": {
+    "SKILL.md": "4dc18b38d3d5f7cf9e00f2ab077d609f00ebf79619a3641843e3d6df24e2160a",
+    "references/template.md": "b5b30271d40fb40d8eb365a3bf2631d8e3542d3aad283d21759cdfd19ec80070"
+  },
+  "hash": "6621bb8a59d25493de46e739e86ea26b67bd294a95f88877253c40efe1b35fde",
+  "id": "chem-spectrum-lab-02-interactive-design",
+  "name": "chem-spectrum-lab-02-interactive-design",
+  "note": "أرشفة أولية",
+  "size": 12829,
+  "title": "Chem Spectrum Lab — Step 02: Interactive & 3D Design Brief",
+  "version": "1.0.0"
+}

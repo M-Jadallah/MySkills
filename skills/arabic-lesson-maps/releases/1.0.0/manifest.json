@@ -1,0 +1,33 @@
+{
+  "created_at": "2026-10-15T14:27:09.426646+00:00",
+  "description": "حوّل تفريغ درس TXT في الفقه أو العقيدة الإسلامية أو النحو والصرف إلى Word عربي مشكول، بخرائط SmartArt أصلية قابلة للتحرير وجداول وخلاصة شاملة، بقالب كحلي وبترولي وذهبي ثابت. استخدم لهذا التحويل أو تعديل مخرجاته دون أسئلة أو طلب قرارات من المستخدم.",
+  "device_id": "9aa33914856a433a964cc3cdf0bdc34f",
+  "device_name": "MJ",
+  "files": {
+    "SKILL.md": "67602aacaf1b21b255a99dcbf82ea288cac18f9943f64468ae97f3c0dd5a49b3",
+    "agents/openai.yaml": "5c264dd62bf8696c00e6dbf1d17b2758fea7a698b20ab42b89aab6a3a895314a",
+    "assets/design-tokens.json": "fed9253933752d10ffadc06a723963a3fb8231ee2db0e2422773ffcf2f6fb624",
+    "assets/lesson-template.docx": "c22fe86b19417cbba567561dd222cdb40b1056ca03e8b94d2d7e1a6849705250",
+    "assets/reference-preview.png": "ea3fe9c9c72242de0d785ae2337831b1713dc60a0704f0037b203d86ed9b4dfe",
+    "assets/sample-lesson.json": "1b549b9a960edc5a79c2b500299a4cb2c8772b21310a58d898000f4808e4e89f",
+    "assets/sample-output.docx": "498184bc8b83bb5d81568975f9cd85d584be7a4e0d03ac9166b706653aebf7c2",
+    "assets/sample-source.txt": "6f3a6b47de5d5a5f4c80b97c8a1bf661aee2324e1abf47a3e0efbed6660e3b0f",
+    "references/content-schema.md": "b8992d66b4cd1cdb48f997c8236f214f0e9312d0e4b6604c44a0995cb77241f9",
+    "references/fidelity-and-vocalization.md": "7ee145c5d58e23f9a8d1aae5ea4d675e6ad06b60519a22afa4a40f7b0f3a7325",
+    "references/visual-contract.md": "e43801726c2f59396f8246a0c6b29121fa65a2b873c2e31333f85cf3fd5b36e8",
+    "scripts/build_lesson.py": "60c5e1f3c18fcb896beb612041dba06388c29d1a61174bc3375c1f7be074fb9c",
+    "scripts/check_lesson.py": "e6935f4b894327fde57d28779bf86695911129a64f0ace6f6187f71635852577",
+    "scripts/create_smartart.ps1": "a99f8eb3109049e6bdcb7e800ff2ac001491e1face25eeaa0c1eaf8c71d05cc1",
+    "scripts/render_lesson.py": "4fe59a084b859dc33c8d742e14fdd1b5f02a0d15fab035661a26f9790da55127",
+    "scripts/render_word.ps1": "eb802d6aca2c9c88e556cb9561027009f1cb707fb6eb2fddd7983aca46faee18",
+    "scripts/smartart_backend.py": "b4455c7d42e23acfa56f6e2c516de5a0e81c15fa1857810ee0771dfe865e1b61",
+    "scripts/verify_smartart_word.ps1": "aa0df84d36abf43bcd2bf0baed186ddc188c16eabdd8c0398964588426b529a1"
+  },
+  "hash": "6efb07534e05ee58b1f3aa3938ad7026708d2947b131bf76277e4a9406de3d4b",
+  "id": "arabic-lesson-maps",
+  "name": "arabic-lesson-maps",
+  "note": "أرشفة أولية",
+  "size": 327941,
+  "title": "خرائط الدروس العلمية",
+  "version": "1.0.0"
+}

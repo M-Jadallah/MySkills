@@ -1,0 +1,9 @@
+{
+  "category": "عام",
+  "current": "1.0.0",
+  "description": "Build a measured exposure and grading path in Three.js. Use for a 64x36 encoded luminance meter, asynchronous readback, weighted log-average exposure, asymmetric adaptation, single tone-map ownership, and a generated 32-cube post-tone-map LUT.",
+  "id": "threejs-exposure-color-grading",
+  "name": "threejs-exposure-color-grading",
+  "title": "Exposure and Color Grading",
+  "updated_at": "2026-10-15T14:26:27.111982+00:00"
+}

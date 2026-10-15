@@ -1,0 +1,19 @@
+{
+  "created_at": "2026-10-15T14:26:18.740333+00:00",
+  "description": "Build teaching PPTX and print PDF from lesson Markdown.",
+  "device_id": "9aa33914856a433a964cc3cdf0bdc34f",
+  "device_name": "MJ",
+  "files": {
+    "SKILL.md": "be50c19e015ea594a2c9727ffeafefa58dbfb25afc362f01082acf502ae5775c",
+    "references/brand.md": "1c4a91a28dae79e1b8ca9a232568d7184eb55bbac6807a0fba95621088b13bc4",
+    "references/template.md": "a89fbb2f9e9f1f3688bfbb6b09569d0d835e2aede83ccf1272c55b85f6e630af",
+    "scripts/build_pptx.py": "6f19eee4ccedf5a13759c658191441ceb6ecbd23c2639615a2fe59dfee1abe04"
+  },
+  "hash": "87c116dfc750c0f28be2ebcf48c0a99880c89744848357de33e1e7255d9fb30f",
+  "id": "chem-spectrum-lab-05-powerpoint",
+  "name": "chem-spectrum-lab-05-powerpoint",
+  "note": "أرشفة أولية",
+  "size": 22784,
+  "title": "Chem Spectrum Lab — Step 05: PowerPoint & Print PDF",
+  "version": "1.0.0"
+}

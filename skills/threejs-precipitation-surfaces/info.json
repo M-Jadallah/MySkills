@@ -1,0 +1,9 @@
+{
+  "category": "عام",
+  "current": "1.0.0",
+  "description": "Build coupled precipitation and affected surfaces in Three.js. Use for falling snow, snow accumulation, model snow caps, wet asphalt puddles, procedural ripple normals, splash flipbooks, rain streaks, shared weather envelopes, and surface wetness or coverage transitions.",
+  "id": "threejs-precipitation-surfaces",
+  "name": "threejs-precipitation-surfaces",
+  "title": "Precipitation Surfaces",
+  "updated_at": "2026-10-15T14:26:30.724464+00:00"
+}

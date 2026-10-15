@@ -1,0 +1,16 @@
+{
+  "created_at": "2026-10-15T14:26:53.610535+00:00",
+  "description": "Validate advanced Three.js graphics as authored systems rather than subjective screenshots. Use for fixed-view visual contracts, field and pass diagnostics, no-post baselines, seed sweeps, camera-scale tests, temporal stability checks, GPU budgets, and regression evidence for procedural scenes.",
+  "device_id": "9aa33914856a433a964cc3cdf0bdc34f",
+  "device_name": "MJ",
+  "files": {
+    "SKILL.md": "1acd9dc6eb528a7558a0d66b0e84096e98f2966f9ffb2fa0c66a42a1e4ab1501"
+  },
+  "hash": "d3d90e28f8ff469a1498215d666890f8bb3b006e27d856443b3069763eee9566",
+  "id": "threejs-visual-validation",
+  "name": "threejs-visual-validation",
+  "note": "أرشفة أولية",
+  "size": 2030,
+  "title": "Visual Validation",
+  "version": "1.0.0"
+}

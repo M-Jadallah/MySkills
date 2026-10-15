@@ -1,0 +1,9 @@
+{
+  "category": "عام",
+  "current": "1.0.0",
+  "description": "Build a complete interactive 3D lesson landing page from an attached chemistry lesson PDF (Tawjihi Jordan curriculum), branded for دوسية الطيف في الكيمياء — المهندس معتصم جادالله. Triggers when the user attaches a chemistry lesson PDF (درس كيمياء، توجيهي الأردن، الطيف في الكيمياء) and asks for an interactive 3D lesson page/site (موقع تفاعلي، صفحة هبوط ثلاثية الأبعاد، 3D lesson site) deployable to Coolify via Docker Compose. The skill deeply analyzes the PDF, writes a gradual Arabic explanation with zero information loss, renders parameter-driven pseudo-3D crystal/molecule simulations on a single adaptive stage with sliders, adds HUD, stats bar, interactive quiz, verifies rendering responsively, and outputs a Docker-ready zero-dependency project.",
+  "id": "altayf-3d-lessons",
+  "name": "altayf-3d-lessons",
+  "title": "Al-Tayf 3D Chemistry Lessons",
+  "updated_at": "2026-10-15T14:26:12.480542+00:00"
+}
