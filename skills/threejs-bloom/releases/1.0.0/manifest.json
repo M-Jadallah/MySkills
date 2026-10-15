@@ -1,0 +1,16 @@
+{
+  "created_at": "2026-10-15T14:26:24.567705+00:00",
+  "description": "Implement production bloom in advanced Three.js scenes. Use for HDR signal ordering, bloom-node controls, dual selective bloom with guaranteed material restoration, scene-relative emissive hierarchy, and effect-isolation diagnostics.",
+  "device_id": "9aa33914856a433a964cc3cdf0bdc34f",
+  "device_name": "MJ",
+  "files": {
+    "SKILL.md": "77e7c61b53b9c6cc2113ae5607c27a57c9bda3732f397e0f234433a5a15d527b"
+  },
+  "hash": "5a2e6195a2647d1e641e5261ac17f835b0641a5b87997f360e71c5233f78e02e",
+  "id": "threejs-bloom",
+  "name": "threejs-bloom",
+  "note": "أرشفة أولية",
+  "size": 2040,
+  "title": "Bloom",
+  "version": "1.0.0"
+}
