@@ -1,6 +1,6 @@
 {
   "id": "9aa33914856a433a964cc3cdf0bdc34f",
-  "last_seen": "2026-10-15T14:26:38.236830+00:00",
+  "last_seen": "2026-10-15T14:26:39.546766+00:00",
   "name": "MJ",
   "skills": {
     "altayf-3d-lessons": {
@@ -130,6 +130,12 @@
       "workspace": "1.0.0"
     },
     "threejs-procedural-planets": {
+      "agents": {
+        "original": "1.0.0"
+      },
+      "workspace": "1.0.0"
+    },
+    "threejs-procedural-vegetation": {
       "agents": {},
       "workspace": "1.0.0"
     }

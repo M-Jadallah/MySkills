@@ -1,0 +1,9 @@
+{
+  "category": "عام",
+  "current": "1.0.0",
+  "description": "Generate authored procedural trees, grass, ivy, flowers, and vegetation in Three.js or raw WebGPU. Use for surface-following vines, painted ivy paths, stylized or GPU grass, GPU-culled virtual flower fields, trunks, recursive branches, roots, canopies, leaf cards, species presets, deterministic growth, distance-tiered plant geometry, and rooted blade, stem, or petiole-hinge wind.",
+  "id": "threejs-procedural-vegetation",
+  "name": "threejs-procedural-vegetation",
+  "title": "Procedural Vegetation",
+  "updated_at": "2026-10-15T14:26:39.533033+00:00"
+}
