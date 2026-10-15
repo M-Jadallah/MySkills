@@ -1,0 +1,16 @@
+{
+  "created_at": "2026-10-15T14:26:46.643087+00:00",
+  "description": "Implement stable, scalable directional-shadow systems for Three.js. Use for large procedural worlds, city scenes, terrain, moving cameras, WebGPU/TSL shadow nodes, cascades, cached clipmaps, texel stabilization, update budgets, and targeted invalidation.",
+  "device_id": "9aa33914856a433a964cc3cdf0bdc34f",
+  "device_name": "MJ",
+  "files": {
+    "SKILL.md": "5c9299a4e499ea08cb5b8caecc76afc54daaf6321f0b7b6653142ae1338ff855"
+  },
+  "hash": "61cee05765fded46cdea78b66957ca8fa2bab15f5f6cabb6247aea1913a302f3",
+  "id": "threejs-shadow-systems",
+  "name": "threejs-shadow-systems",
+  "note": "أرشفة أولية",
+  "size": 1980,
+  "title": "Shadow Systems",
+  "version": "1.0.0"
+}
