@@ -1,0 +1,16 @@
+{
+  "created_at": "2026-10-15T14:26:31.928173+00:00",
+  "description": "Build advanced procedural animation in Three.js. Use for launch kinematics, gravity turns, staging, spin docking, target-frame decomposition, spring-follow motion, rotating-frame alignment, peeling debris, analytic transform timelines, frame-rate-independent response, and quaternion control.",
+  "device_id": "9aa33914856a433a964cc3cdf0bdc34f",
+  "device_name": "MJ",
+  "files": {
+    "SKILL.md": "5e45deb3ec6c2fb04a93913e9b8d51c3a55a5c51b8c0bded286bd6f6d5e9578a"
+  },
+  "hash": "d3be16d67b09e01553a3c23bfbde9cf0527309f708f551a4b8b34301814a40a4",
+  "id": "threejs-procedural-animation",
+  "name": "threejs-procedural-animation",
+  "note": "أرشفة أولية",
+  "size": 2152,
+  "title": "Procedural Animation",
+  "version": "1.0.0"
+}
