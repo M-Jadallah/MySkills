@@ -1,6 +1,6 @@
 {
   "id": "9aa33914856a433a964cc3cdf0bdc34f",
-  "last_seen": "2026-10-15T14:26:33.172679+00:00",
+  "last_seen": "2026-10-15T14:26:34.387183+00:00",
   "name": "MJ",
   "skills": {
     "altayf-3d-lessons": {
@@ -106,6 +106,12 @@
       "workspace": "1.0.0"
     },
     "threejs-procedural-architecture": {
+      "agents": {
+        "original": "1.0.0"
+      },
+      "workspace": "1.0.0"
+    },
+    "threejs-procedural-fields": {
       "agents": {},
       "workspace": "1.0.0"
     }
