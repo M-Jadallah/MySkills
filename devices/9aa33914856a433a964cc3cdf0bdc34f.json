@@ -1,6 +1,6 @@
 {
   "id": "9aa33914856a433a964cc3cdf0bdc34f",
-  "last_seen": "2026-10-15T14:26:15.591680+00:00",
+  "last_seen": "2026-10-15T14:26:16.722419+00:00",
   "name": "MJ",
   "skills": {
     "altayf-3d-lessons": {
@@ -22,6 +22,12 @@
       "workspace": "1.0.0"
     },
     "chem-spectrum-lab-02-interactive-design": {
+      "agents": {
+        "original": "1.0.0"
+      },
+      "workspace": "1.0.0"
+    },
+    "chem-spectrum-lab-03-lab-build": {
       "agents": {},
       "workspace": "1.0.0"
     }

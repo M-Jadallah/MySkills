@@ -1,0 +1,22 @@
+{
+  "created_at": "2026-10-15T14:26:16.706356+00:00",
+  "description": "Build standalone 3D chemistry lab (React Three Fiber) from design.",
+  "device_id": "9aa33914856a433a964cc3cdf0bdc34f",
+  "device_name": "MJ",
+  "files": {
+    "SKILL.md": "258c827c9b09f36d4723e0af7f4ca11bdd43b592afbc0ea5274374443111f19c",
+    "references/brand.md": "8e88df74991a9b80d4422451363337b496d3224b9f7485d6cdfb84e90ce5b2b0",
+    "references/docker/Dockerfile.frontend": "f5162d1fa1543585b52a599cb1ab1d37f31104d8959dde0845d5ecf737bde46c",
+    "references/docker/docker-compose.yml": "71373a3156f2f7967575b75b5492c769c73161c8f71fad7342df8835ca60d8c6",
+    "references/docker/nginx.conf": "ae4f6449290109a812d09fb1cccbe8c6d6eefac9dd89c1a61d4cb80a0f55b454",
+    "references/template.md": "73e2fd922fca24cde4bbdc0ee63259a4cac14ead521ee79514b99488882498c6",
+    "scripts/scaffold.py": "78c4e2d5d9a86b938bdcaf186e7804a5ef3d1b72d2f9a48bf9757180dc015377"
+  },
+  "hash": "cb7320b0905a1e45d8ae9429e3ffba39873ac38643c81f5567bd2f0651339d1d",
+  "id": "chem-spectrum-lab-03-lab-build",
+  "name": "chem-spectrum-lab-03-lab-build",
+  "note": "أرشفة أولية",
+  "size": 23833,
+  "title": "Chem Spectrum Lab — Step 03: 3D Lab Build (React Three Fiber)",
+  "version": "1.0.0"
+}
