@@ -1,0 +1,9 @@
+{
+  "category": "عام",
+  "current": "1.0.0",
+  "description": "Coordinate the chem lab pipeline (incl. 3D R3F lab) via sub-agents.",
+  "id": "chem-spectrum-lab",
+  "name": "chem-spectrum-lab",
+  "title": "Chem Spectrum Lab — Orchestrator (Pipeline Coordinator)",
+  "updated_at": "2026-10-15T14:26:13.647360+00:00"
+}
