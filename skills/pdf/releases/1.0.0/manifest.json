@@ -1,0 +1,19 @@
+{
+  "created_at": "2026-10-15T14:27:29.517320+00:00",
+  "description": "Use when tasks involve reading, creating, or reviewing PDF files where rendering and layout matter; prefer visual checks by rendering pages (Poppler) and use Python tools such as `reportlab`, `pdfplumber`, and `pypdf` for generation and extraction.",
+  "device_id": "9aa33914856a433a964cc3cdf0bdc34f",
+  "device_name": "MJ",
+  "files": {
+    "LICENSE.txt": "44e03f7e263eb3ad256440c1eeab5e49168baff5a78ecef9a5447261cf3a91bc",
+    "SKILL.md": "724b72c932053fd87133144405b00fbeec30285ee770168328c8f591ec89c134",
+    "agents/openai.yaml": "48d488770edf103fa945b20a70834a135c224e949d772b502ea992ea03120cf6",
+    "assets/pdf.png": "17da356d195d4e3fa24f9becbee6b8d9e60e13005762b5ab0809c520c76da6ee"
+  },
+  "hash": "6b21a45f4a123a5be0c0e79872b02afe532c425c7646e9cbf036951cc88aee7e",
+  "id": "pdf",
+  "name": "pdf",
+  "note": "أرشفة أولية",
+  "size": 15097,
+  "title": "PDF Skill",
+  "version": "1.0.0"
+}
