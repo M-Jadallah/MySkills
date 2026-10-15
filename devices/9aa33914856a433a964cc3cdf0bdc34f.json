@@ -1,6 +1,11 @@
 {
   "id": "9aa33914856a433a964cc3cdf0bdc34f",
-  "last_seen": "2026-10-15T14:25:00.736954+00:00",
+  "last_seen": "2026-10-15T14:26:12.487907+00:00",
   "name": "MJ",
-  "skills": {}
+  "skills": {
+    "altayf-3d-lessons": {
+      "agents": {},
+      "workspace": "1.0.0"
+    }
+  }
 }

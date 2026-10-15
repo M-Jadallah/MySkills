@@ -1,0 +1,133 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#061d35">
+  <meta name="description" content="{{LESSON_DESCRIPTION}}">
+  <title>{{LESSON_TITLE}} | الطيف في الكيمياء</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'><path d='M14 8h20M20 8v10L10 36c-1 2 0 4 3 4h22c3 0 4-2 3-4L28 18V8' stroke='%2322c7d8' stroke-width='3' fill='none' stroke-linecap='round'/></svg>">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="ambient ambient-a" aria-hidden="true"></div>
+  <div class="ambient ambient-b" aria-hidden="true"></div>
+  <div class="noise" aria-hidden="true"></div>
+  <div class="reading-progress" aria-hidden="true"><span id="readingProgress"></span></div>
+
+  <header class="topbar" id="topbar">
+    <a class="brand" href="#hero" aria-label="العودة إلى بداية الدرس">
+      <span class="brand-mark" aria-hidden="true">
+        <svg viewBox="0 0 48 48" fill="none"><path d="M14 8h20M20 8v10L10 36c-1 2 0 4 3 4h22c3 0 4-2 3-4L28 18V8" stroke="currentColor" stroke-width="2.8" stroke-linecap="round"/><path d="M15 31c6-3 12 4 18 0" stroke="currentColor" stroke-width="2.8" stroke-linecap="round"/><circle cx="19" cy="27" r="2" fill="currentColor"/><circle cx="29" cy="25" r="1.7" fill="currentColor"/></svg>
+      </span>
+      <span class="brand-copy"><strong>الطيف في الكيمياء</strong><small>كيمياء التوجيهي - الثاني عشر الأكاديمي</small></span>
+    </a>
+    <button class="mobile-nav-toggle" id="mobileNavToggle" type="button" aria-label="فتح قائمة أقسام الدرس" aria-expanded="false" aria-controls="mobileNav"><span></span><span></span><span></span></button>
+    <nav class="desktop-nav" aria-label="أقسام الدرس">
+      <!-- one <a href="#section-id"> per content section, filled per lesson -->
+    </nav>
+    <div class="header-actions">
+      <button class="icon-button" id="motionToggle" type="button" aria-label="إيقاف الحركة" title="إيقاف أو تشغيل الحركة">
+        <svg class="pause-icon" viewBox="0 0 24 24" fill="none"><path d="M8 5v14M16 5v14" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/></svg>
+        <svg class="play-icon" viewBox="0 0 24 24" fill="none"><path d="m8 5 11 7-11 7V5Z" stroke="currentColor" stroke-width="2.2" stroke-linejoin="round"/></svg>
+      </button>
+      <button class="icon-button" id="resetAll" type="button" aria-label="إعادة ضبط المحاكاة" title="إعادة ضبط جميع المحاكيات">
+        <svg viewBox="0 0 24 24"><path d="M20 11a8 8 0 1 0-2.3 5.7M20 5v6h-6" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" fill="none"/></svg>
+      </button>
+    </div>
+  </header>
+
+  <nav class="mobile-nav" id="mobileNav" aria-label="أقسام الدرس للهاتف">
+    <!-- same links as desktop-nav -->
+  </nav>
+
+  <aside class="section-rail" id="sectionRail" aria-label="التنقل السريع بين الأقسام">
+    <a href="#hero" data-label="البداية" aria-label="البداية" class="active"></a>
+    <!-- one <a href="#id" data-label="…"> per content section -->
+  </aside>
+
+  <section class="hero" id="hero" data-title="{{LESSON_TITLE}}" data-kicker="{{HERO_KICKER}}">
+    <div class="hero-copy">
+      <div class="eyebrow"><span></span>{{LESSON_TAG}}</div>
+      <h1>{{HERO_TITLE_PART1}} <em>{{HERO_TITLE_ACCENT}}</em></h1>
+      <p class="hero-lead">{{LESSON_INTRO}}</p>
+      <div class="hero-actions">
+        <a class="primary-button" href="#{{FIRST_SECTION_ID}}">ابدأ الاستكشاف <span aria-hidden="true">←</span></a>
+        <button class="ghost-button" type="button" id="heroDemo">شغّل جولة سريعة</button>
+      </div>
+      <div class="hero-stat-grid" aria-label="محتويات الدرس">
+        <div><strong>{{N_SECTIONS}}</strong><span>محاور علمية مترابطة</span></div>
+        <div><strong>{{N_SIMS}}</strong><span>محاكيات فورية</span></div>
+        <div><strong>{{N_QUESTIONS}}</strong><span>أسئلة مراجعة وتحقق</span></div>
+      </div>
+    </div>
+
+    <div class="hero-visual">
+      <div class="stage-shell hero-stage-shell" id="stageShell">
+        <div class="stage-grid" aria-hidden="true"></div>
+        <canvas id="solidCanvas" aria-label="{{CANVAS_ARIA_LABEL}}"></canvas>
+        <div class="stage-vignette" aria-hidden="true"></div>
+        <div class="stage-hud">
+          <div><span id="stageKicker">{{HERO_KICKER}}</span><strong id="stageTitle">{{LESSON_TITLE}}</strong></div>
+          <div class="hud-metrics" id="hudMetrics"></div>
+        </div>
+        <div class="stage-bottom">
+          <div class="live-metric"><span>{{METRIC_1_LABEL}}</span><strong id="hudTemp" dir="ltr">25 °C</strong></div>
+          <div class="live-metric"><span>{{METRIC_2_LABEL}}</span><strong id="hudType">—</strong></div>
+          <div class="live-metric"><span>{{METRIC_3_LABEL}}</span><strong id="hudState">—</strong></div>
+        </div>
+        <div class="canvas-hint"><span aria-hidden="true"></span>اسحب لتدوير المشهد</div>
+        <button class="stage-tool" id="fullscreenToggle" type="button" aria-label="عرض المحاكاة بملء الشاشة" title="عرض المحاكاة بملء الشاشة">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 3H3v5M16 3h5v5M8 21H3v-5M16 21h5v-5" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          <span>ملء الشاشة</span>
+        </button>
+        <p class="sr-only" aria-live="polite" id="simSummary"></p>
+      </div>
+    </div>
+  </section>
+
+  <main class="lesson-layout">
+    <aside class="sticky-stage" id="stickyStage" aria-label="المشهد العلمي للقسم الحالي"><button class="mobile-stage-toggle" id="stageCollapseToggle" type="button" aria-expanded="true" aria-controls="stageShell">طي المجسم</button></aside>
+    <div class="lesson-content">
+
+      <!-- For each concept repeat:
+      <section class="content-section" id="…" data-title="…" data-kicker="…" data-mode="…">
+        <article class="lesson-card">
+          <span class="section-number">01</span>
+          <div class="section-tag">English Tag</div>
+          <h2>… <em>…</em></h2>
+          <p class="section-intro">…</p>
+          <div class="concept-grid three">…concept-cards with glyph icons…</div>
+          <div class="interaction-panel …-panel" >
+            <div class="interaction-heading"><div><span>…</span><strong>…</strong></div><output>…</output></div>
+            <label class="range-row">…slider + output…</label>
+            <div class="segmented">…material buttons…</div>
+            <div class="evidence-strip">…3 evidence cells…</div>
+            <p class="model-note"><strong>تحقق علمي:</strong> <span>…invariant explanation that updates live…</span></p>
+          </div>
+          <div class="science-pair">…formula-card / fact-card…</div>
+          <div class="check-card"><b>أتحقق:</b><p>…سؤال…</p><details><summary>اعرض الإجابة</summary><p>…</p></details></div>
+        </article>
+      </section> -->
+
+      <!-- Assessment section: quiz form (radio fieldsets with data-answer) + review-grid details -->
+
+    </div>
+  </main>
+
+  <!-- FOOTER_LOCK_START -->
+  <footer>
+    <div class="footer-brand">
+      <strong>الطيف في الكيمياء</strong>
+      <span>{{LESSON_TITLE}} — تجربة تدريسية تفاعلية</span>
+    </div>
+    <p>إعداد وتقديم: المهندس معتصم جادالله</p>
+    <a href="#hero">العودة إلى الأعلى ↑</a>
+  </footer>
+  <!-- FOOTER_LOCK_END -->
+
+  <noscript><div class="noscript">يلزم تفعيل JavaScript لتشغيل المحاكيات التفاعلية.</div></noscript>
+  <script src="js/engine.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

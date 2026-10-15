@@ -1,0 +1,6 @@
+services:
+  altayf-lesson:
+    build: .
+    ports:
+      - "80:80"
+    restart: unless-stopped
