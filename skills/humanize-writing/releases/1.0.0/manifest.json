@@ -1,0 +1,17 @@
+{
+  "created_at": "2026-10-15T14:27:20.870798+00:00",
+  "description": "Rewrite, edit, or \"humanize\" user-provided text so it sounds natural, specific, and less AI-generated while preserving meaning, language, and intended tone. Use when the user asks to humanize text, remove AI writing signs, make prose sound more human, naturalize phrasing, match a writing sample, reduce generic chatbot style, or perform an anti-AI writing audit.",
+  "device_id": "9aa33914856a433a964cc3cdf0bdc34f",
+  "device_name": "MJ",
+  "files": {
+    "SKILL.md": "f8161229f941599c583076a75432071acb1a1581d70b6e586eda1ac37242177b",
+    "agents/openai.yaml": "11e5e8d7ae69982567d1c1da23fe4ac143f8364cb3ca0ccc328ab520ec7b6693"
+  },
+  "hash": "62d676dde170f552e168b0929870ae43f01e4881502132dbadf296c7d67e2ea8",
+  "id": "humanize-writing",
+  "name": "humanize-writing",
+  "note": "أرشفة أولية",
+  "size": 6340,
+  "title": "Humanize writing",
+  "version": "1.0.0"
+}

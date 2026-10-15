@@ -1,6 +1,6 @@
 {
   "id": "9aa33914856a433a964cc3cdf0bdc34f",
-  "last_seen": "2026-10-15T14:27:18.938998+00:00",
+  "last_seen": "2026-10-15T14:27:20.893469+00:00",
   "name": "MJ",
   "skills": {
     "ai-evasion": {
@@ -88,6 +88,12 @@
       "workspace": "1.0.0"
     },
     "gpt-taste": {
+      "agents": {
+        "original": "1.0.0"
+      },
+      "workspace": "1.0.0"
+    },
+    "humanize-writing": {
       "agents": {},
       "workspace": "1.0.0"
     },
