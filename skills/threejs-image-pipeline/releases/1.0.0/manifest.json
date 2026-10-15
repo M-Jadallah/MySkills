@@ -1,0 +1,16 @@
+{
+  "created_at": "2026-10-15T14:26:28.309840+00:00",
+  "description": "Build a deliberate final-image pipeline for advanced Three.js scenes. Use for depth, normal, albedo, and history ownership; GTAO or bent normals; bloom; eye adaptation; tone mapping; 3D LUT grading; effect-local render targets; and pass diagnostics.",
+  "device_id": "9aa33914856a433a964cc3cdf0bdc34f",
+  "device_name": "MJ",
+  "files": {
+    "SKILL.md": "476278cbe1345f0c958a9e79ed8b9e13bfc8f80c335dd8ba2019acf4ae7e48f4"
+  },
+  "hash": "474ad175043051860c7f4397d8c5ba465b5938255a66cdb922e7ec048335becf",
+  "id": "threejs-image-pipeline",
+  "name": "threejs-image-pipeline",
+  "note": "أرشفة أولية",
+  "size": 2128,
+  "title": "Image Pipeline",
+  "version": "1.0.0"
+}
