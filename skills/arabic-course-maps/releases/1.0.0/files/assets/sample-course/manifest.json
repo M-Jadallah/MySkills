@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "run_id": "4a74b41f-2fa9-441f-ab67-9932d2e03ef0",
+  "sources": [
+    {
+      "id": "l001",
+      "order": 1,
+      "original_name": "01.txt",
+      "raw_path": "sources/l001.original.txt",
+      "normalized_path": "sources/l001.txt",
+      "raw_sha256": "317d538790ed4ef13e6e5022eeb59e021f8f7af3234a276de40b35eb2e1b7a3a",
+      "sha256": "317d538790ed4ef13e6e5022eeb59e021f8f7af3234a276de40b35eb2e1b7a3a",
+      "characters": 88,
+      "analysis_path": "analyses/l001.json"
+    },
+    {
+      "id": "l002",
+      "order": 2,
+      "original_name": "02.txt",
+      "raw_path": "sources/l002.original.txt",
+      "normalized_path": "sources/l002.txt",
+      "raw_sha256": "3eed68f67ac1f174cdf13f2d16dd8976e0e868a81f9db08b99cae8ae72f793e5",
+      "sha256": "3eed68f67ac1f174cdf13f2d16dd8976e0e868a81f9db08b99cae8ae72f793e5",
+      "characters": 245,
+      "analysis_path": "analyses/l002.json"
+    },
+    {
+      "id": "l003",
+      "order": 3,
+      "original_name": "03.txt",
+      "raw_path": "sources/l003.original.txt",
+      "normalized_path": "sources/l003.txt",
+      "raw_sha256": "2badd334bf9908ee44b0f56bdd4542aafb043d345d6ba7832d0649c78fec48da",
+      "sha256": "2badd334bf9908ee44b0f56bdd4542aafb043d345d6ba7832d0649c78fec48da",
+      "characters": 193,
+      "analysis_path": "analyses/l003.json"
+    }
+  ]
+}

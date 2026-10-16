@@ -1,0 +1,279 @@
+{
+  "schema_version": 1,
+  "run_id": "4a74b41f-2fa9-441f-ab67-9932d2e03ef0",
+  "source_id": "l001",
+  "source_sha256": "317d538790ed4ef13e6e5022eeb59e021f8f7af3234a276de40b35eb2e1b7a3a",
+  "status": "complete",
+  "lesson": {
+    "title": "أقسام الكلمة وأقسام الفعل",
+    "context": "درس في أقسام الكلمة، مع مثال للاسم ومثال للحرف، ثم تعداد أقسام الفعل."
+  },
+  "concepts": [
+    {
+      "id": "c1",
+      "label": "الكلمة",
+      "aliases": []
+    },
+    {
+      "id": "c2",
+      "label": "الاسم",
+      "aliases": []
+    },
+    {
+      "id": "c3",
+      "label": "الفعل",
+      "aliases": []
+    },
+    {
+      "id": "c4",
+      "label": "الحرف",
+      "aliases": []
+    },
+    {
+      "id": "c5",
+      "label": "الفعل الماضي",
+      "aliases": []
+    },
+    {
+      "id": "c6",
+      "label": "الفعل المضارع",
+      "aliases": []
+    },
+    {
+      "id": "c7",
+      "label": "فعل الأمر",
+      "aliases": []
+    },
+    {
+      "id": "c8",
+      "label": "كتاب",
+      "aliases": []
+    },
+    {
+      "id": "c9",
+      "label": "في",
+      "aliases": []
+    }
+  ],
+  "units": [
+    {
+      "id": "u1",
+      "kind": "classification",
+      "claim": "تنقسم الكلمة إلى اسم وفعل وحرف.",
+      "concept_ids": [
+        "c1",
+        "c2",
+        "c3",
+        "c4"
+      ],
+      "qualifiers": [],
+      "attribution": null,
+      "evidence": [
+        {
+          "start": 0,
+          "end": 31,
+          "quote": "الكلمة تنقسم إلى اسم وفعل وحرف."
+        }
+      ]
+    },
+    {
+      "id": "u2",
+      "kind": "example",
+      "claim": "كتاب مثال للاسم.",
+      "concept_ids": [
+        "c2",
+        "c8"
+      ],
+      "qualifiers": [],
+      "attribution": null,
+      "evidence": [
+        {
+          "start": 32,
+          "end": 47,
+          "quote": "مثال الاسم كتاب"
+        }
+      ]
+    },
+    {
+      "id": "u3",
+      "kind": "example",
+      "claim": "في مثال للحرف.",
+      "concept_ids": [
+        "c4",
+        "c9"
+      ],
+      "qualifiers": [],
+      "attribution": null,
+      "evidence": [
+        {
+          "start": 49,
+          "end": 64,
+          "quote": "ومثال الحرف في."
+        }
+      ]
+    },
+    {
+      "id": "u4",
+      "kind": "classification",
+      "claim": "ينقسم الفعل إلى ماض ومضارع وأمر.",
+      "concept_ids": [
+        "c3",
+        "c5",
+        "c6",
+        "c7"
+      ],
+      "qualifiers": [],
+      "attribution": null,
+      "evidence": [
+        {
+          "start": 65,
+          "end": 87,
+          "quote": "الفعل ماض ومضارع وأمر."
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "from": "c1",
+      "to": "c2",
+      "kind": "classification",
+      "claim": "الاسم قسم من أقسام الكلمة.",
+      "evidence": [
+        {
+          "start": 0,
+          "end": 31,
+          "quote": "الكلمة تنقسم إلى اسم وفعل وحرف."
+        }
+      ]
+    },
+    {
+      "id": "r2",
+      "from": "c1",
+      "to": "c3",
+      "kind": "classification",
+      "claim": "الفعل قسم من أقسام الكلمة.",
+      "evidence": [
+        {
+          "start": 0,
+          "end": 31,
+          "quote": "الكلمة تنقسم إلى اسم وفعل وحرف."
+        }
+      ]
+    },
+    {
+      "id": "r3",
+      "from": "c1",
+      "to": "c4",
+      "kind": "classification",
+      "claim": "الحرف قسم من أقسام الكلمة.",
+      "evidence": [
+        {
+          "start": 0,
+          "end": 31,
+          "quote": "الكلمة تنقسم إلى اسم وفعل وحرف."
+        }
+      ]
+    },
+    {
+      "id": "r4",
+      "from": "c3",
+      "to": "c5",
+      "kind": "classification",
+      "claim": "الماضي قسم من أقسام الفعل.",
+      "evidence": [
+        {
+          "start": 65,
+          "end": 87,
+          "quote": "الفعل ماض ومضارع وأمر."
+        }
+      ]
+    },
+    {
+      "id": "r5",
+      "from": "c3",
+      "to": "c6",
+      "kind": "classification",
+      "claim": "المضارع قسم من أقسام الفعل.",
+      "evidence": [
+        {
+          "start": 65,
+          "end": 87,
+          "quote": "الفعل ماض ومضارع وأمر."
+        }
+      ]
+    },
+    {
+      "id": "r6",
+      "from": "c3",
+      "to": "c7",
+      "kind": "classification",
+      "claim": "الأمر قسم من أقسام الفعل.",
+      "evidence": [
+        {
+          "start": 65,
+          "end": 87,
+          "quote": "الفعل ماض ومضارع وأمر."
+        }
+      ]
+    },
+    {
+      "id": "r7",
+      "from": "c8",
+      "to": "c2",
+      "kind": "example_of",
+      "claim": "كتاب مثال للاسم.",
+      "evidence": [
+        {
+          "start": 32,
+          "end": 47,
+          "quote": "مثال الاسم كتاب"
+        }
+      ]
+    },
+    {
+      "id": "r8",
+      "from": "c9",
+      "to": "c4",
+      "kind": "example_of",
+      "claim": "في مثال للحرف.",
+      "evidence": [
+        {
+          "start": 49,
+          "end": 64,
+          "quote": "ومثال الحرف في."
+        }
+      ]
+    }
+  ],
+  "cross_references": [],
+  "corrections": [],
+  "source_accounting": [
+    {
+      "start": 0,
+      "end": 31,
+      "kind": "scientific",
+      "units": [
+        "u1"
+      ]
+    },
+    {
+      "start": 32,
+      "end": 64,
+      "kind": "scientific",
+      "units": [
+        "u2",
+        "u3"
+      ]
+    },
+    {
+      "start": 65,
+      "end": 87,
+      "kind": "scientific",
+      "units": [
+        "u4"
+      ]
+    }
+  ]
+}

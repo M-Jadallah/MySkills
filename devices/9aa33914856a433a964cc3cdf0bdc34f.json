@@ -1,6 +1,6 @@
 {
   "id": "9aa33914856a433a964cc3cdf0bdc34f",
-  "last_seen": "2026-10-15T14:27:42.972426+00:00",
+  "last_seen": "2026-10-16T13:24:01.663081+00:00",
   "name": "MJ",
   "skills": {
     "ai-evasion": {
@@ -19,6 +19,10 @@
       "agents": {
         "original": "1.0.0"
       },
+      "workspace": "1.0.0"
+    },
+    "arabic-course-maps": {
+      "agents": {},
       "workspace": "1.0.0"
     },
     "arabic-lesson-maps": {
