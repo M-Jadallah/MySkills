@@ -1,0 +1,4 @@
+interface:
+  display_name: "تهيئة ودمج Word وإنتاج PDF"
+  short_description: "محاذاة عربية ومسافة أول السطر، وWord وPDF جامعة"
+  default_prompt: "استخدم $arabic-word-to-pdf لمعالجة ملفات Word في المجلد الذي أحدده، ودمجها في Word واحد يبدأ كل درس فيه من صفحة جديدة، وإنتاج ملفات PDF المرتبة."
