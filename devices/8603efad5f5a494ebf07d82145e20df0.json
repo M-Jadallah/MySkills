@@ -1,6 +1,6 @@
 {
   "id": "8603efad5f5a494ebf07d82145e20df0",
-  "last_seen": "2026-10-16T10:50:26.989264+00:00",
+  "last_seen": "2026-10-16T10:52:10.182135+00:00",
   "name": "LAPTOP-46FJ83M6",
   "skills": {
     "arabic-lesson-condenser": {
@@ -36,6 +36,7 @@
     },
     "arabic-word-to-pdf": {
       "agents": {
+        "codex": "1.0.1",
         "original": "1.0.1"
       },
       "workspace": "1.0.0"
