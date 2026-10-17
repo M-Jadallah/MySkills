@@ -1,6 +1,6 @@
 {
   "id": "81d8d826b8bc4d4382534801bc098b35",
-  "last_seen": "2026-10-17T14:39:22.970974+00:00",
+  "last_seen": "2026-10-17T14:40:37.910857+00:00",
   "name": "victusamd",
   "skills": {
     "arabic-lesson-maps": {
@@ -11,7 +11,8 @@
     },
     "arabic-lesson-rewriter": {
       "agents": {
-        "codex": "1.0.0"
+        "codex": "1.0.0",
+        "shared": "1.0.0"
       },
       "workspace": null
     },
