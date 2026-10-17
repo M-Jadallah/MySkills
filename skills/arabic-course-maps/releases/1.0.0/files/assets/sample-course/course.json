@@ -1,0 +1,981 @@
+{
+  "schema_version": 1,
+  "run_id": "4a74b41f-2fa9-441f-ab67-9932d2e03ef0",
+  "title": "أَقْسَامُ الْكَلِمَةِ وَالْفِعْلِ وَجَزْمُ الْمُضَارِعِ",
+  "scope": "تَجْمَعُ الْخَرَائِطُ أَقْسَامَ الْكَلِمَةِ وَدَلَالَاتِ الْأَفْعَالِ وَعَمَلَ لَمْ فِي الْمُضَارِعِ.",
+  "topics": [
+    {
+      "id": "t_overview",
+      "title": "الْخَرِيطَةُ الْعَامَّةُ",
+      "blocks": [
+        {
+          "id": "overview",
+          "type": "diagram",
+          "kind": "tree",
+          "title": "تَرَابُطُ مَوْضُوعَاتِ الدُّرُوسِ",
+          "root": {
+            "label": "الْكَلِمَةُ وَالْفِعْلُ وَجَزْمُ الْمُضَارِعِ",
+            "children": [
+              {
+                "label": "أَقْسَامُ الْكَلِمَةِ",
+                "topic_ref": "t_word"
+              },
+              {
+                "label": "أَقْسَامُ الْفِعْلِ وَدَلَالَاتُهَا",
+                "topic_ref": "t_verbs"
+              },
+              {
+                "label": "جَزْمُ الْمُضَارِعِ بِلَمْ",
+                "topic_ref": "t_jazm"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "t_word",
+      "title": "أَقْسَامُ الْكَلِمَةِ",
+      "blocks": [
+        {
+          "id": "word_map",
+          "type": "diagram",
+          "kind": "tree",
+          "title": "الْأَقْسَامُ وَالْأَمْثِلَةُ",
+          "root": {
+            "concept_id": "word",
+            "label": "الْكَلِمَةُ",
+            "children": [
+              {
+                "concept_id": "noun",
+                "label": "اِسْمٌ",
+                "children": [
+                  {
+                    "concept_id": "book",
+                    "label": "كِتَابٌ",
+                    "relation": "مِثَالُهُ"
+                  }
+                ]
+              },
+              {
+                "concept_id": "verb",
+                "label": "الْفِعْلُ"
+              },
+              {
+                "concept_id": "particle",
+                "label": "حَرْفٌ",
+                "children": [
+                  {
+                    "concept_id": "fi",
+                    "label": "فِي",
+                    "relation": "مِثَالُهُ"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "t_verbs",
+      "title": "أَقْسَامُ الْفِعْلِ وَدَلَالَاتُهَا",
+      "blocks": [
+        {
+          "id": "verbs_map",
+          "type": "diagram",
+          "kind": "tree",
+          "title": "أَقْسَامُ الْفِعْلِ وَأَمْثِلَتُهَا",
+          "root": {
+            "concept_id": "verb",
+            "label": "الْفِعْلُ",
+            "children": [
+              {
+                "concept_id": "past",
+                "label": "الْمَاضِي",
+                "children": [
+                  {
+                    "label": "كَتَبَ",
+                    "relation": "مِثَالُهُ"
+                  }
+                ]
+              },
+              {
+                "concept_id": "present",
+                "label": "الْمُضَارِعُ",
+                "children": [
+                  {
+                    "label": "يَكْتُبُ",
+                    "relation": "مِثَالُهُ"
+                  }
+                ]
+              },
+              {
+                "concept_id": "command",
+                "label": "الْأَمْرُ",
+                "children": [
+                  {
+                    "label": "اُكْتُبْ",
+                    "relation": "مِثَالُهُ"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "verbs_table",
+          "type": "table",
+          "title": "دَلَالَاتُ أَقْسَامِ الْفِعْلِ",
+          "columns": [
+            "الْقِسْمُ",
+            "الدَّلَالَةُ",
+            "الْمِثَالُ"
+          ],
+          "widths": [
+            1,
+            2.6,
+            1
+          ],
+          "rows": [
+            [
+              "الْمَاضِي",
+              "حَدَثٌ قَبْلَ زَمَنِ التَّكَلُّمِ",
+              "كَتَبَ"
+            ],
+            [
+              "الْمُضَارِعُ",
+              "حَدَثٌ فِي الْحَالِ أَوِ الِاسْتِقْبَالِ",
+              "يَكْتُبُ"
+            ],
+            [
+              "الْأَمْرُ",
+              "طَلَبُ حُدُوثِ الْفِعْلِ",
+              "اُكْتُبْ"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "t_jazm",
+      "title": "جَزْمُ الْمُضَارِعِ بِلَمْ",
+      "blocks": [
+        {
+          "id": "jazm_map",
+          "type": "diagram",
+          "kind": "tree",
+          "title": "الْعَامِلُ وَالْفِعْلُ وَالْعَلَامَةُ",
+          "root": {
+            "concept_id": "jazm",
+            "label": "جَزْمُ الْمُضَارِعِ",
+            "children": [
+              {
+                "concept_id": "lam",
+                "label": "لَمْ",
+                "relation": "الْعَامِلُ",
+                "children": [
+                  {
+                    "label": "حَرْفُ نَفْيٍ وَجَزْمٍ وَقَلْبٍ"
+                  }
+                ]
+              },
+              {
+                "concept_id": "present",
+                "label": "الْمُضَارِعُ",
+                "relation": "يُجْزَمُ بِلَمْ",
+                "children": [
+                  {
+                    "label": "لَمْ يَكْتُبْ",
+                    "relation": "الْمِثَالُ"
+                  }
+                ]
+              },
+              {
+                "concept_id": "sukun",
+                "label": "السُّكُونُ",
+                "relation": "الْعَلَامَةُ فِي الْمِثَالِ"
+              }
+            ]
+          }
+        },
+        {
+          "id": "parse_table",
+          "type": "table",
+          "title": "إِعْرَابُ مِثَالِ لَمْ يَكْتُبْ",
+          "columns": [
+            "الْكَلِمَةُ",
+            "الْبَيَانُ"
+          ],
+          "widths": [
+            1,
+            4
+          ],
+          "rows": [
+            [
+              "لَمْ",
+              "حَرْفُ نَفْيٍ وَجَزْمٍ وَقَلْبٍ."
+            ],
+            [
+              "يَكْتُبْ",
+              "فِعْلٌ مُضَارِعٌ مَجْزُومٌ بِلَمْ، وَعَلَامَةُ جَزْمِهِ السُّكُونُ."
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "summary": [
+    {
+      "id": "s1",
+      "kind": "bullet",
+      "text": "تَنْقَسِمُ الْكَلِمَةُ إِلَى اِسْمٍ وَفِعْلٍ وَحَرْفٍ."
+    },
+    {
+      "id": "s2",
+      "kind": "bullet",
+      "text": "مِثَالُ الِاسْمِ: كِتَابٌ."
+    },
+    {
+      "id": "s3",
+      "kind": "bullet",
+      "text": "مِثَالُ الْحَرْفِ: فِي."
+    },
+    {
+      "id": "s4",
+      "kind": "bullet",
+      "text": "أَقْسَامُ الْفِعْلِ: مَاضٍ، وَمُضَارِعٌ، وَأَمْرٌ."
+    },
+    {
+      "id": "s5",
+      "kind": "bullet",
+      "text": "الْمَاضِي يَدُلُّ عَلَى حَدَثٍ قَبْلَ زَمَنِ التَّكَلُّمِ، مِثْلُ: كَتَبَ."
+    },
+    {
+      "id": "s6",
+      "kind": "bullet",
+      "text": "الْمُضَارِعُ يَدُلُّ عَلَى حَدَثٍ فِي الْحَالِ أَوِ الِاسْتِقْبَالِ، مِثْلُ: يَكْتُبُ."
+    },
+    {
+      "id": "s7",
+      "kind": "bullet",
+      "text": "الْأَمْرُ يَدُلُّ عَلَى طَلَبِ حُدُوثِ الْفِعْلِ، مِثْلُ: اُكْتُبْ."
+    },
+    {
+      "id": "s8",
+      "kind": "bullet",
+      "text": "تَجْزِمُ «لَمْ» الْفِعْلَ الْمُضَارِعَ."
+    },
+    {
+      "id": "s9",
+      "kind": "bullet",
+      "text": "فِي مِثَالِ لَمْ يَكْتُبْ: يَكْتُبْ فِعْلٌ مُضَارِعٌ مَجْزُومٌ بِلَمْ، وَعَلَامَةُ جَزْمِهِ السُّكُونُ."
+    },
+    {
+      "id": "s10",
+      "kind": "bullet",
+      "text": "«لَمْ» حَرْفُ نَفْيٍ وَجَزْمٍ وَقَلْبٍ."
+    }
+  ],
+  "integration": {
+    "source_analyses": [
+      {
+        "source_id": "l001",
+        "sha256": "cfbd1c6e819527d4dea1a7ed02f32049aec5be18c8b422f81aaaf9c8ad17e120"
+      },
+      {
+        "source_id": "l002",
+        "sha256": "2b71ea44f89a465a0004fd561e1da471be7be19ea2d691b82e87ed05b1534e68"
+      },
+      {
+        "source_id": "l003",
+        "sha256": "89dd87199008008738ec152b286c2a051a86dcc80f7c6cbf42972b1e4d9b38ef"
+      }
+    ],
+    "overview_block": "overview",
+    "concepts": [
+      {
+        "id": "word",
+        "label": "الْكَلِمَةُ",
+        "source_concepts": [
+          "l001::c1"
+        ],
+        "topic_refs": [
+          "t_word"
+        ]
+      },
+      {
+        "id": "noun",
+        "label": "اِسْمٌ",
+        "source_concepts": [
+          "l001::c2"
+        ],
+        "topic_refs": [
+          "t_word"
+        ]
+      },
+      {
+        "id": "verb",
+        "label": "الْفِعْلُ",
+        "source_concepts": [
+          "l001::c3",
+          "l002::c1"
+        ],
+        "topic_refs": [
+          "t_verbs"
+        ]
+      },
+      {
+        "id": "particle",
+        "label": "حَرْفٌ",
+        "source_concepts": [
+          "l001::c4"
+        ],
+        "topic_refs": [
+          "t_word"
+        ]
+      },
+      {
+        "id": "past",
+        "label": "الْمَاضِي",
+        "source_concepts": [
+          "l001::c5",
+          "l002::c2"
+        ],
+        "topic_refs": [
+          "t_verbs"
+        ]
+      },
+      {
+        "id": "present",
+        "label": "الْمُضَارِعُ",
+        "source_concepts": [
+          "l001::c6",
+          "l002::c3",
+          "l003::c2"
+        ],
+        "topic_refs": [
+          "t_verbs"
+        ]
+      },
+      {
+        "id": "command",
+        "label": "الْأَمْرُ",
+        "source_concepts": [
+          "l001::c7",
+          "l002::c4",
+          "l003::c1"
+        ],
+        "topic_refs": [
+          "t_verbs"
+        ]
+      },
+      {
+        "id": "book",
+        "label": "كِتَابٌ",
+        "source_concepts": [
+          "l001::c8"
+        ],
+        "topic_refs": [
+          "t_word"
+        ]
+      },
+      {
+        "id": "fi",
+        "label": "فِي",
+        "source_concepts": [
+          "l001::c9"
+        ],
+        "topic_refs": [
+          "t_word"
+        ]
+      },
+      {
+        "id": "lam",
+        "label": "لَمْ",
+        "source_concepts": [
+          "l002::c5",
+          "l003::c3"
+        ],
+        "topic_refs": [
+          "t_jazm"
+        ]
+      },
+      {
+        "id": "jazm",
+        "label": "جَزْمُ الْمُضَارِعِ",
+        "source_concepts": [
+          "l003::c4"
+        ],
+        "topic_refs": [
+          "t_jazm"
+        ]
+      },
+      {
+        "id": "sukun",
+        "label": "السُّكُونُ",
+        "source_concepts": [
+          "l003::c5"
+        ],
+        "topic_refs": [
+          "t_jazm"
+        ]
+      }
+    ],
+    "facts": [
+      {
+        "id": "f1",
+        "claim": "تَنْقَسِمُ الْكَلِمَةُ إِلَى اِسْمٍ وَفِعْلٍ وَحَرْفٍ.",
+        "members": [
+          {
+            "unit": "l001::u1",
+            "role": "primary"
+          }
+        ],
+        "visual_refs": [
+          "word_map"
+        ],
+        "summary_refs": [
+          "s1"
+        ]
+      },
+      {
+        "id": "f2",
+        "claim": "مِثَالُ الِاسْمِ: كِتَابٌ.",
+        "members": [
+          {
+            "unit": "l001::u2",
+            "role": "primary"
+          }
+        ],
+        "visual_refs": [
+          "word_map"
+        ],
+        "summary_refs": [
+          "s2"
+        ]
+      },
+      {
+        "id": "f3",
+        "claim": "مِثَالُ الْحَرْفِ: فِي.",
+        "members": [
+          {
+            "unit": "l001::u3",
+            "role": "primary"
+          }
+        ],
+        "visual_refs": [
+          "word_map"
+        ],
+        "summary_refs": [
+          "s3"
+        ]
+      },
+      {
+        "id": "f4",
+        "claim": "أَقْسَامُ الْفِعْلِ: مَاضٍ، وَمُضَارِعٌ، وَأَمْرٌ.",
+        "members": [
+          {
+            "unit": "l001::u4",
+            "role": "primary"
+          },
+          {
+            "unit": "l002::u1",
+            "role": "duplicate",
+            "reason": "تكرار مكافئ للمعنى المحفوظ مع بقاء مصدره."
+          }
+        ],
+        "visual_refs": [
+          "verbs_map"
+        ],
+        "summary_refs": [
+          "s4"
+        ]
+      },
+      {
+        "id": "f5",
+        "claim": "الْمَاضِي يَدُلُّ عَلَى حَدَثٍ قَبْلَ زَمَنِ التَّكَلُّمِ، مِثْلُ: كَتَبَ.",
+        "members": [
+          {
+            "unit": "l002::u2",
+            "role": "primary"
+          },
+          {
+            "unit": "l002::u3",
+            "role": "primary"
+          }
+        ],
+        "visual_refs": [
+          "verbs_map",
+          "verbs_table"
+        ],
+        "summary_refs": [
+          "s5"
+        ]
+      },
+      {
+        "id": "f6",
+        "claim": "الْمُضَارِعُ يَدُلُّ عَلَى حَدَثٍ فِي الْحَالِ أَوِ الِاسْتِقْبَالِ، مِثْلُ: يَكْتُبُ.",
+        "members": [
+          {
+            "unit": "l002::u4",
+            "role": "primary"
+          },
+          {
+            "unit": "l002::u5",
+            "role": "primary"
+          },
+          {
+            "unit": "l003::u3",
+            "role": "duplicate",
+            "reason": "تكرار مكافئ للمعنى المحفوظ مع بقاء مصدره."
+          }
+        ],
+        "visual_refs": [
+          "verbs_map",
+          "verbs_table"
+        ],
+        "summary_refs": [
+          "s6"
+        ]
+      },
+      {
+        "id": "f7",
+        "claim": "الْأَمْرُ يَدُلُّ عَلَى طَلَبِ حُدُوثِ الْفِعْلِ، مِثْلُ: اُكْتُبْ.",
+        "members": [
+          {
+            "unit": "l003::u1",
+            "role": "primary"
+          },
+          {
+            "unit": "l003::u2",
+            "role": "primary"
+          }
+        ],
+        "visual_refs": [
+          "verbs_map",
+          "verbs_table"
+        ],
+        "summary_refs": [
+          "s7"
+        ]
+      },
+      {
+        "id": "f8",
+        "claim": "تَجْزِمُ «لَمْ» الْفِعْلَ الْمُضَارِعَ.",
+        "members": [
+          {
+            "unit": "l002::u7",
+            "role": "primary"
+          },
+          {
+            "unit": "l002::u6",
+            "role": "corrected",
+            "correction_id": "X1",
+            "reason": "صرح المدرس بخطأ القول السابق واستبداله بالجزم."
+          },
+          {
+            "unit": "l003::u5",
+            "role": "duplicate",
+            "reason": "تكرار مكافئ للمعنى المحفوظ مع بقاء مصدره."
+          }
+        ],
+        "visual_refs": [
+          "jazm_map",
+          "parse_table"
+        ],
+        "summary_refs": [
+          "s8"
+        ]
+      },
+      {
+        "id": "f9",
+        "claim": "فِي مِثَالِ لَمْ يَكْتُبْ: يَكْتُبْ فِعْلٌ مُضَارِعٌ مَجْزُومٌ بِلَمْ، وَعَلَامَةُ جَزْمِهِ السُّكُونُ.",
+        "members": [
+          {
+            "unit": "l002::u8",
+            "role": "primary"
+          },
+          {
+            "unit": "l002::u9",
+            "role": "primary"
+          },
+          {
+            "unit": "l002::u10",
+            "role": "primary"
+          },
+          {
+            "unit": "l002::u11",
+            "role": "primary"
+          },
+          {
+            "unit": "l003::u6",
+            "role": "duplicate",
+            "reason": "تكرار مكافئ للمعنى المحفوظ مع بقاء مصدره."
+          }
+        ],
+        "visual_refs": [
+          "jazm_map",
+          "parse_table"
+        ],
+        "summary_refs": [
+          "s9"
+        ]
+      },
+      {
+        "id": "f10",
+        "claim": "«لَمْ» حَرْفُ نَفْيٍ وَجَزْمٍ وَقَلْبٍ.",
+        "members": [
+          {
+            "unit": "l003::u4",
+            "role": "primary"
+          }
+        ],
+        "visual_refs": [
+          "jazm_map",
+          "parse_table"
+        ],
+        "summary_refs": [
+          "s10"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "id": "R1",
+        "from": "word",
+        "to": "noun",
+        "kind": "classification",
+        "claim": "الاسم قسم من أقسام الكلمة.",
+        "evidence": [
+          {
+            "source_id": "l001",
+            "start": 0,
+            "end": 31,
+            "quote": "الكلمة تنقسم إلى اسم وفعل وحرف."
+          }
+        ],
+        "visual_refs": [
+          "word_map"
+        ],
+        "summary_refs": [
+          "s1"
+        ]
+      },
+      {
+        "id": "R2",
+        "from": "word",
+        "to": "verb",
+        "kind": "classification",
+        "claim": "الفعل قسم من أقسام الكلمة.",
+        "evidence": [
+          {
+            "source_id": "l001",
+            "start": 0,
+            "end": 31,
+            "quote": "الكلمة تنقسم إلى اسم وفعل وحرف."
+          }
+        ],
+        "visual_refs": [
+          "word_map"
+        ],
+        "summary_refs": [
+          "s1"
+        ]
+      },
+      {
+        "id": "R3",
+        "from": "word",
+        "to": "particle",
+        "kind": "classification",
+        "claim": "الحرف قسم من أقسام الكلمة.",
+        "evidence": [
+          {
+            "source_id": "l001",
+            "start": 0,
+            "end": 31,
+            "quote": "الكلمة تنقسم إلى اسم وفعل وحرف."
+          }
+        ],
+        "visual_refs": [
+          "word_map"
+        ],
+        "summary_refs": [
+          "s1"
+        ]
+      },
+      {
+        "id": "R4",
+        "from": "verb",
+        "to": "past",
+        "kind": "classification",
+        "claim": "الماضي قسم من أقسام الفعل.",
+        "evidence": [
+          {
+            "source_id": "l001",
+            "start": 65,
+            "end": 87,
+            "quote": "الفعل ماض ومضارع وأمر."
+          }
+        ],
+        "visual_refs": [
+          "verbs_map"
+        ],
+        "summary_refs": [
+          "s4"
+        ]
+      },
+      {
+        "id": "R5",
+        "from": "verb",
+        "to": "present",
+        "kind": "classification",
+        "claim": "المضارع قسم من أقسام الفعل.",
+        "evidence": [
+          {
+            "source_id": "l001",
+            "start": 65,
+            "end": 87,
+            "quote": "الفعل ماض ومضارع وأمر."
+          }
+        ],
+        "visual_refs": [
+          "verbs_map"
+        ],
+        "summary_refs": [
+          "s4"
+        ]
+      },
+      {
+        "id": "R6",
+        "from": "verb",
+        "to": "command",
+        "kind": "classification",
+        "claim": "الأمر قسم من أقسام الفعل.",
+        "evidence": [
+          {
+            "source_id": "l001",
+            "start": 65,
+            "end": 87,
+            "quote": "الفعل ماض ومضارع وأمر."
+          }
+        ],
+        "visual_refs": [
+          "verbs_map"
+        ],
+        "summary_refs": [
+          "s4"
+        ]
+      },
+      {
+        "id": "R7",
+        "from": "book",
+        "to": "noun",
+        "kind": "example_of",
+        "claim": "كتاب مثال للاسم.",
+        "evidence": [
+          {
+            "source_id": "l001",
+            "start": 32,
+            "end": 47,
+            "quote": "مثال الاسم كتاب"
+          }
+        ],
+        "visual_refs": [
+          "word_map"
+        ],
+        "summary_refs": [
+          "s2"
+        ]
+      },
+      {
+        "id": "R8",
+        "from": "fi",
+        "to": "particle",
+        "kind": "example_of",
+        "claim": "في مثال للحرف.",
+        "evidence": [
+          {
+            "source_id": "l001",
+            "start": 49,
+            "end": 64,
+            "quote": "ومثال الحرف في."
+          }
+        ],
+        "visual_refs": [
+          "word_map"
+        ],
+        "summary_refs": [
+          "s3"
+        ]
+      },
+      {
+        "id": "R9",
+        "from": "lam",
+        "to": "present",
+        "kind": "grammatical_government",
+        "claim": "لم تجزم الفعل المضارع بحسب التصحيح الصريح للمدرس.",
+        "evidence": [
+          {
+            "source_id": "l002",
+            "start": 120,
+            "end": 185,
+            "quote": "قلت سابقا إن لم تنصب الفعل المضارع، وهذا خطأ؛ والصواب أنها تجزمه."
+          }
+        ],
+        "visual_refs": [
+          "jazm_map",
+          "parse_table"
+        ],
+        "summary_refs": [
+          "s8"
+        ]
+      },
+      {
+        "id": "R10",
+        "from": "lam",
+        "to": "jazm",
+        "kind": "grammatical_effect",
+        "claim": "المضارع بعد لم مجزوم.",
+        "evidence": [
+          {
+            "source_id": "l003",
+            "start": 130,
+            "end": 150,
+            "quote": "المضارع بعد لم مجزوم"
+          }
+        ],
+        "visual_refs": [
+          "jazm_map",
+          "parse_table"
+        ],
+        "summary_refs": [
+          "s8"
+        ]
+      },
+      {
+        "id": "R11",
+        "from": "jazm",
+        "to": "sukun",
+        "kind": "grammatical_sign",
+        "claim": "السكون علامة الجزم في مثال لم يكتبْ.",
+        "evidence": [
+          {
+            "source_id": "l003",
+            "start": 152,
+            "end": 192,
+            "quote": "وعلامة الجزم في مثال لم يكتبْ هي السكون."
+          }
+        ],
+        "visual_refs": [
+          "jazm_map",
+          "parse_table"
+        ],
+        "summary_refs": [
+          "s9"
+        ]
+      }
+    ],
+    "corrections": [
+      {
+        "id": "X1",
+        "replaced_units": [
+          "l002::u6"
+        ],
+        "replacement_units": [
+          "l002::u7"
+        ],
+        "evidence": [
+          {
+            "source_id": "l002",
+            "start": 120,
+            "end": 185,
+            "quote": "قلت سابقا إن لم تنصب الفعل المضارع، وهذا خطأ؛ والصواب أنها تجزمه."
+          }
+        ]
+      }
+    ],
+    "decisions": [
+      {
+        "input_ref": "l001::r1",
+        "action": "mapped",
+        "target_ref": "R1"
+      },
+      {
+        "input_ref": "l001::r2",
+        "action": "mapped",
+        "target_ref": "R2"
+      },
+      {
+        "input_ref": "l001::r3",
+        "action": "mapped",
+        "target_ref": "R3"
+      },
+      {
+        "input_ref": "l001::r4",
+        "action": "mapped",
+        "target_ref": "R4"
+      },
+      {
+        "input_ref": "l001::r5",
+        "action": "mapped",
+        "target_ref": "R5"
+      },
+      {
+        "input_ref": "l001::r6",
+        "action": "mapped",
+        "target_ref": "R6"
+      },
+      {
+        "input_ref": "l001::r7",
+        "action": "mapped",
+        "target_ref": "R7"
+      },
+      {
+        "input_ref": "l001::r8",
+        "action": "mapped",
+        "target_ref": "R8"
+      },
+      {
+        "input_ref": "l002::r1",
+        "action": "mapped",
+        "target_ref": "R4"
+      },
+      {
+        "input_ref": "l002::r2",
+        "action": "mapped",
+        "target_ref": "R5"
+      },
+      {
+        "input_ref": "l002::r3",
+        "action": "mapped",
+        "target_ref": "R6"
+      },
+      {
+        "input_ref": "l002::r4",
+        "action": "mapped",
+        "target_ref": "R9"
+      },
+      {
+        "input_ref": "l003::r1",
+        "action": "mapped",
+        "target_ref": "R10"
+      },
+      {
+        "input_ref": "l003::r2",
+        "action": "mapped",
+        "target_ref": "R11"
+      },
+      {
+        "input_ref": "l003::x1",
+        "action": "mapped",
+        "target_ref": "R9"
+      },
+      {
+        "input_ref": "l002::x1",
+        "action": "mapped",
+        "target_ref": "X1"
+      }
+    ]
+  }
+}

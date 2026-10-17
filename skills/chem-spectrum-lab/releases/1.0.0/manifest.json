@@ -1,0 +1,27 @@
+{
+  "created_at": "2026-10-15T14:26:13.640179+00:00",
+  "description": "Coordinate the chem lab pipeline (incl. 3D R3F lab) via sub-agents.",
+  "device_id": "9aa33914856a433a964cc3cdf0bdc34f",
+  "device_name": "MJ",
+  "files": {
+    "README.md": "40c28ee69f4453e710cc488cec57983485549d155e8f83cdd31af361aa63a8d3",
+    "SKILL.md": "a580ede0ce2263852c13f066969b280b834bd7a55e8a9bf4d3335e0916cc0393",
+    "references/animation-guide.md": "0be197b8ed9b9cd82e61f5db47d30b60386b1043de537c8022e9667a5f1940c0",
+    "references/architecture.md": "20e58280b64056973130c5507b3efe001587e487f1a053b2b70855a9980a93e4",
+    "references/device.js": "e679812d8c5abce7072c119d3add4c3e22e7fc1295ed6f34f98611fe4b2f5284",
+    "references/docker/Dockerfile.frontend": "7d95a9f1d60dba58366e1022932a374c581ab37d21f520aa0312836d94ef8388",
+    "references/docker/docker-compose.yml": "caded5909a5be35531e239fdeba6d885f4ec36df79372b7c741aafe226f1067b",
+    "references/docker/nginx.conf": "ac6fc3113dbbfe2c55a4dc8f031d917577414637c6d4739ace950f8c2ea98b67",
+    "references/fx.js": "c6b002433c80da26daa086300de42112f082182871ce356d2a3f0cef95a05207",
+    "scripts/install.py": "045aff621ebc626a73c009e83b6bea0ecbac4df11841d3e882e525cb132b60f2",
+    "scripts/make_logo.py": "62be5f687cdab4c0e2006def50c99bbd9b6fe58d6f3a703dd0089fd23b67ae4b",
+    "scripts/run_pipeline.py": "008be6654eefab901d6fa8ed55e4428e7c1a9c4790f44caf6256db2f994e3a30"
+  },
+  "hash": "7ff19dfc37e3fdec15b374522626913e70e169fd044d6dac44bc2e83c21ee6de",
+  "id": "chem-spectrum-lab",
+  "name": "chem-spectrum-lab",
+  "note": "أرشفة أولية",
+  "size": 33862,
+  "title": "Chem Spectrum Lab — Orchestrator (Pipeline Coordinator)",
+  "version": "1.0.0"
+}

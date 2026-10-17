@@ -1,0 +1,235 @@
+{
+  "schema_version": 1,
+  "run_id": "4a74b41f-2fa9-441f-ab67-9932d2e03ef0",
+  "source_id": "l003",
+  "source_sha256": "2badd334bf9908ee44b0f56bdd4542aafb043d345d6ba7832d0649c78fec48da",
+  "status": "complete",
+  "lesson": {
+    "title": "دلالة الأمر والمضارع وأثر لم في المضارع",
+    "context": "بيان دلالة الأمر والمضارع، ووصف لم، مع تذكير بحكم جزم المضارع بعدها من الدرس السابق ومثال علامته."
+  },
+  "concepts": [
+    {
+      "id": "c1",
+      "label": "الأمر",
+      "aliases": []
+    },
+    {
+      "id": "c2",
+      "label": "المضارع",
+      "aliases": []
+    },
+    {
+      "id": "c3",
+      "label": "لم",
+      "aliases": []
+    },
+    {
+      "id": "c4",
+      "label": "جزم المضارع",
+      "aliases": [
+        "الجزم"
+      ]
+    },
+    {
+      "id": "c5",
+      "label": "السكون",
+      "aliases": []
+    }
+  ],
+  "units": [
+    {
+      "id": "u1",
+      "kind": "definition",
+      "claim": "الأمر يدل على طلب حدوث الفعل.",
+      "concept_ids": [
+        "c1"
+      ],
+      "qualifiers": [],
+      "attribution": null,
+      "evidence": [
+        {
+          "start": 0,
+          "end": 28,
+          "quote": "الأمر يدل على طلب حدوث الفعل"
+        }
+      ]
+    },
+    {
+      "id": "u2",
+      "kind": "example",
+      "claim": "اكتب مثال على الأمر الدال على طلب حدوث الفعل.",
+      "concept_ids": [
+        "c1"
+      ],
+      "qualifiers": [],
+      "attribution": null,
+      "evidence": [
+        {
+          "start": 0,
+          "end": 39,
+          "quote": "الأمر يدل على طلب حدوث الفعل، مثل اكتب."
+        }
+      ]
+    },
+    {
+      "id": "u3",
+      "kind": "definition",
+      "claim": "المضارع يدل على حدث في الحال أو الاستقبال.",
+      "concept_ids": [
+        "c2"
+      ],
+      "qualifiers": [],
+      "attribution": null,
+      "evidence": [
+        {
+          "start": 40,
+          "end": 82,
+          "quote": "المضارع يدل على حدث في الحال أو الاستقبال."
+        }
+      ]
+    },
+    {
+      "id": "u4",
+      "kind": "classification",
+      "claim": "لم حرف نفي وجزم وقلب.",
+      "concept_ids": [
+        "c3",
+        "c4"
+      ],
+      "qualifiers": [],
+      "attribution": null,
+      "evidence": [
+        {
+          "start": 83,
+          "end": 104,
+          "quote": "لم حرف نفي وجزم وقلب."
+        }
+      ]
+    },
+    {
+      "id": "u5",
+      "kind": "ruling",
+      "claim": "المضارع بعد لم مجزوم؛ وقد ذكر هذا الحكم في الدرس السابق.",
+      "concept_ids": [
+        "c2",
+        "c3",
+        "c4"
+      ],
+      "qualifiers": [
+        "إذا وقع المضارع بعد لم"
+      ],
+      "attribution": null,
+      "evidence": [
+        {
+          "start": 105,
+          "end": 150,
+          "quote": "ذكرنا في الدرس السابق أن المضارع بعد لم مجزوم"
+        }
+      ]
+    },
+    {
+      "id": "u6",
+      "kind": "example",
+      "claim": "في مثال لم يكتبْ، علامة جزم المضارع هي السكون.",
+      "concept_ids": [
+        "c2",
+        "c3",
+        "c4",
+        "c5"
+      ],
+      "qualifiers": [
+        "في المثال الوارد: لم يكتبْ"
+      ],
+      "attribution": null,
+      "evidence": [
+        {
+          "start": 152,
+          "end": 192,
+          "quote": "وعلامة الجزم في مثال لم يكتبْ هي السكون."
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "from": "c3",
+      "to": "c4",
+      "kind": "grammatical_effect",
+      "claim": "المضارع بعد لم مجزوم.",
+      "evidence": [
+        {
+          "start": 130,
+          "end": 150,
+          "quote": "المضارع بعد لم مجزوم"
+        }
+      ]
+    },
+    {
+      "id": "r2",
+      "from": "c4",
+      "to": "c5",
+      "kind": "grammatical_sign",
+      "claim": "السكون علامة الجزم في مثال لم يكتبْ.",
+      "evidence": [
+        {
+          "start": 152,
+          "end": 192,
+          "quote": "وعلامة الجزم في مثال لم يكتبْ هي السكون."
+        }
+      ]
+    }
+  ],
+  "cross_references": [
+    {
+      "id": "x1",
+      "text": "ذكرنا في الدرس السابق أن المضارع بعد لم مجزوم",
+      "target_hint": "الدرس السابق الذي شرح جزم المضارع بعد لم؛ لا يحدد التفريغ رقمه أو عنوانه.",
+      "evidence": [
+        {
+          "start": 105,
+          "end": 150,
+          "quote": "ذكرنا في الدرس السابق أن المضارع بعد لم مجزوم"
+        }
+      ]
+    }
+  ],
+  "corrections": [],
+  "source_accounting": [
+    {
+      "start": 0,
+      "end": 39,
+      "kind": "scientific",
+      "units": [
+        "u1",
+        "u2"
+      ]
+    },
+    {
+      "start": 40,
+      "end": 82,
+      "kind": "scientific",
+      "units": [
+        "u3"
+      ]
+    },
+    {
+      "start": 83,
+      "end": 104,
+      "kind": "scientific",
+      "units": [
+        "u4"
+      ]
+    },
+    {
+      "start": 105,
+      "end": 192,
+      "kind": "scientific",
+      "units": [
+        "u5",
+        "u6"
+      ]
+    }
+  ]
+}

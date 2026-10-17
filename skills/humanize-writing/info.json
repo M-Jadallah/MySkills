@@ -1,0 +1,9 @@
+{
+  "category": "عام",
+  "current": "1.0.0",
+  "description": "Rewrite, edit, or \"humanize\" user-provided text so it sounds natural, specific, and less AI-generated while preserving meaning, language, and intended tone. Use when the user asks to humanize text, remove AI writing signs, make prose sound more human, naturalize phrasing, match a writing sample, reduce generic chatbot style, or perform an anti-AI writing audit.",
+  "id": "humanize-writing",
+  "name": "humanize-writing",
+  "title": "Humanize writing",
+  "updated_at": "2026-10-15T14:27:20.880188+00:00"
+}

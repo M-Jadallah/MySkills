@@ -1,0 +1,36 @@
+{
+  "simulations": [
+    {
+      "id": "boyle-law",
+      "section_id": "boyle-law",
+      "scientific_model": {
+        "equation": "P2 = P1 * V1 / V2",
+        "assumptions": ["درجة الحرارة ثابتة", "كمية الغاز ثابتة"],
+        "oracle": "oracle_gas_laws.py:boyle_pressure",
+        "relative_tolerance": 0.000001
+      },
+      "controls": [
+        {
+          "id": "volume-v2",
+          "label_ar": "الحجم النهائي",
+          "variable": "V2",
+          "unit": "L",
+          "min": 1,
+          "max": 12,
+          "step": 0.1,
+          "default": 6,
+          "validation": {"exclusive_minimum": 0}
+        }
+      ],
+      "outputs": [
+        {"id": "pressure-p2", "variable": "P2", "unit": "atm"}
+      ],
+      "visual_mapping": [
+        {"scientific_value": "V2", "visual_property": "container.width", "mapping": "cube-root geometric scaling"},
+        {"scientific_value": "P2", "visual_property": "gauge.value", "mapping": "direct"}
+      ],
+      "invariant": {"label_ar": "التحقق العلمي", "expression": "P * V"},
+      "reset_state": {"P1": 1, "V1": 6, "V2": 6}
+    }
+  ]
+}

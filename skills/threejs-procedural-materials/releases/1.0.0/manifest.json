@@ -1,0 +1,16 @@
+{
+  "created_at": "2026-10-15T14:26:36.979082+00:00",
+  "description": "Author production procedural materials in Three.js. Use for hybrid texture-backed PBR soil and moss with procedural displacement and masks, upward-facing model moss accumulation, atlas filtering, specular AA, planet-space fields, terrain wetness, lava and emissive surfaces, reflective wave-optical diffraction gratings, air-film-air soap bubbles with Airy interference, raytraced diamond and gem refraction with internal reflection and dispersion, image-space glass transmission with spectral dispersion and volume absorption, per-instance dissolve, authored PBR identities, derivative normals, and custom direct-light shadow modulation.",
+  "device_id": "9aa33914856a433a964cc3cdf0bdc34f",
+  "device_name": "MJ",
+  "files": {
+    "SKILL.md": "269aedcc54d9f8270738c9df122f6df2774b13f69e6ed9672c1e0e76b843224a"
+  },
+  "hash": "3daa876eb5a3d71b77a889bd64933e502166dd7c96f73fedd52504b335c9d303",
+  "id": "threejs-procedural-materials",
+  "name": "threejs-procedural-materials",
+  "note": "أرشفة أولية",
+  "size": 8143,
+  "title": "Procedural Materials",
+  "version": "1.0.0"
+}

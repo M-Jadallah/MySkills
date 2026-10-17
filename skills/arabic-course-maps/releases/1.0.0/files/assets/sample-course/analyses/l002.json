@@ -1,0 +1,372 @@
+{
+  "schema_version": 1,
+  "run_id": "4a74b41f-2fa9-441f-ab67-9932d2e03ef0",
+  "source_id": "l002",
+  "source_sha256": "3eed68f67ac1f174cdf13f2d16dd8976e0e868a81f9db08b99cae8ae72f793e5",
+  "status": "complete",
+  "lesson": {
+    "title": "أقسام الفعل وعمل لم في المضارع",
+    "context": "تعريف الماضي والمضارع مع أمثلتهما، وتصحيح صريح لقول المدرس السابق عن عمل لم، ثم إعراب لم يكتبْ."
+  },
+  "concepts": [
+    {
+      "id": "c1",
+      "label": "الفعل",
+      "aliases": []
+    },
+    {
+      "id": "c2",
+      "label": "الفعل الماضي",
+      "aliases": [
+        "الماضي"
+      ]
+    },
+    {
+      "id": "c3",
+      "label": "الفعل المضارع",
+      "aliases": [
+        "المضارع"
+      ]
+    },
+    {
+      "id": "c4",
+      "label": "فعل الأمر",
+      "aliases": [
+        "أمر"
+      ]
+    },
+    {
+      "id": "c5",
+      "label": "لم وعملها",
+      "aliases": [
+        "لم"
+      ]
+    }
+  ],
+  "units": [
+    {
+      "id": "u1",
+      "kind": "classification",
+      "claim": "الفعل ثلاثة أقسام: ماض ومضارع وأمر.",
+      "concept_ids": [
+        "c1",
+        "c2",
+        "c3",
+        "c4"
+      ],
+      "qualifiers": [],
+      "attribution": null,
+      "evidence": [
+        {
+          "start": 0,
+          "end": 22,
+          "quote": "الفعل ماض ومضارع وأمر."
+        }
+      ]
+    },
+    {
+      "id": "u2",
+      "kind": "definition",
+      "claim": "الماضي يدل على حدث قبل زمن التكلم.",
+      "concept_ids": [
+        "c2"
+      ],
+      "qualifiers": [
+        "زمن الحدث قبل زمن التكلم"
+      ],
+      "attribution": null,
+      "evidence": [
+        {
+          "start": 23,
+          "end": 56,
+          "quote": "الماضي يدل على حدث قبل زمن التكلم"
+        }
+      ]
+    },
+    {
+      "id": "u3",
+      "kind": "example",
+      "claim": "كتب مثال للفعل الماضي.",
+      "concept_ids": [
+        "c2"
+      ],
+      "qualifiers": [],
+      "attribution": null,
+      "evidence": [
+        {
+          "start": 23,
+          "end": 66,
+          "quote": "الماضي يدل على حدث قبل زمن التكلم، مثل كتب."
+        }
+      ]
+    },
+    {
+      "id": "u4",
+      "kind": "definition",
+      "claim": "المضارع يدل على حدث في الحال أو الاستقبال.",
+      "concept_ids": [
+        "c3"
+      ],
+      "qualifiers": [
+        "في الحال أو الاستقبال"
+      ],
+      "attribution": null,
+      "evidence": [
+        {
+          "start": 67,
+          "end": 108,
+          "quote": "المضارع يدل على حدث في الحال أو الاستقبال"
+        }
+      ]
+    },
+    {
+      "id": "u5",
+      "kind": "example",
+      "claim": "يكتب مثال للفعل المضارع.",
+      "concept_ids": [
+        "c3"
+      ],
+      "qualifiers": [],
+      "attribution": null,
+      "evidence": [
+        {
+          "start": 67,
+          "end": 119,
+          "quote": "المضارع يدل على حدث في الحال أو الاستقبال، مثل يكتب."
+        }
+      ]
+    },
+    {
+      "id": "u6",
+      "kind": "reported_error",
+      "claim": "ذكر المدرس أنه قال سابقا إن لم تنصب الفعل المضارع، وصرح بأن هذا القول خطأ.",
+      "concept_ids": [
+        "c5",
+        "c3"
+      ],
+      "qualifiers": [
+        "قول سابق متروك؛ لا يعرض بوصفه الحكم الصحيح"
+      ],
+      "attribution": "قول سابق للمدرس رجع عنه صراحة",
+      "evidence": [
+        {
+          "start": 120,
+          "end": 164,
+          "quote": "قلت سابقا إن لم تنصب الفعل المضارع، وهذا خطأ"
+        }
+      ]
+    },
+    {
+      "id": "u7",
+      "kind": "correction",
+      "claim": "صحح المدرس قوله السابق: لم تجزم الفعل المضارع.",
+      "concept_ids": [
+        "c5",
+        "c3"
+      ],
+      "qualifiers": [
+        "البديل الصحيح للقول السابق الذي خطّأه المدرس"
+      ],
+      "attribution": "تصحيح المدرس الصريح",
+      "evidence": [
+        {
+          "start": 120,
+          "end": 185,
+          "quote": "قلت سابقا إن لم تنصب الفعل المضارع، وهذا خطأ؛ والصواب أنها تجزمه."
+        }
+      ]
+    },
+    {
+      "id": "u8",
+      "kind": "example",
+      "claim": "لم يكتبْ مثال للمضارع المجزوم بلم.",
+      "concept_ids": [
+        "c5",
+        "c3"
+      ],
+      "qualifiers": [],
+      "attribution": null,
+      "evidence": [
+        {
+          "start": 186,
+          "end": 244,
+          "quote": "نحو لم يكتبْ: يكتب فعل مضارع مجزوم بلم وعلامة جزمه السكون."
+        }
+      ]
+    },
+    {
+      "id": "u9",
+      "kind": "parse",
+      "claim": "يكتب في المثال «لم يكتبْ» فعل مضارع.",
+      "concept_ids": [
+        "c3"
+      ],
+      "qualifiers": [],
+      "attribution": null,
+      "evidence": [
+        {
+          "start": 186,
+          "end": 214,
+          "quote": "نحو لم يكتبْ: يكتب فعل مضارع"
+        }
+      ]
+    },
+    {
+      "id": "u10",
+      "kind": "parse",
+      "claim": "يكتب في المثال «لم يكتبْ» مجزوم بلم.",
+      "concept_ids": [
+        "c3",
+        "c5"
+      ],
+      "qualifiers": [],
+      "attribution": null,
+      "evidence": [
+        {
+          "start": 186,
+          "end": 224,
+          "quote": "نحو لم يكتبْ: يكتب فعل مضارع مجزوم بلم"
+        }
+      ]
+    },
+    {
+      "id": "u11",
+      "kind": "parse",
+      "claim": "علامة جزم يكتب في المثال «لم يكتبْ» السكون.",
+      "concept_ids": [
+        "c3",
+        "c5"
+      ],
+      "qualifiers": [],
+      "attribution": null,
+      "evidence": [
+        {
+          "start": 186,
+          "end": 244,
+          "quote": "نحو لم يكتبْ: يكتب فعل مضارع مجزوم بلم وعلامة جزمه السكون."
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "from": "c2",
+      "to": "c1",
+      "kind": "subtype",
+      "claim": "الماضي قسم من أقسام الفعل.",
+      "evidence": [
+        {
+          "start": 0,
+          "end": 22,
+          "quote": "الفعل ماض ومضارع وأمر."
+        }
+      ]
+    },
+    {
+      "id": "r2",
+      "from": "c3",
+      "to": "c1",
+      "kind": "subtype",
+      "claim": "المضارع قسم من أقسام الفعل.",
+      "evidence": [
+        {
+          "start": 0,
+          "end": 22,
+          "quote": "الفعل ماض ومضارع وأمر."
+        }
+      ]
+    },
+    {
+      "id": "r3",
+      "from": "c4",
+      "to": "c1",
+      "kind": "subtype",
+      "claim": "الأمر قسم من أقسام الفعل.",
+      "evidence": [
+        {
+          "start": 0,
+          "end": 22,
+          "quote": "الفعل ماض ومضارع وأمر."
+        }
+      ]
+    },
+    {
+      "id": "r4",
+      "from": "c5",
+      "to": "c3",
+      "kind": "grammatical_government",
+      "claim": "لم تجزم الفعل المضارع بحسب التصحيح الصريح للمدرس.",
+      "evidence": [
+        {
+          "start": 120,
+          "end": 185,
+          "quote": "قلت سابقا إن لم تنصب الفعل المضارع، وهذا خطأ؛ والصواب أنها تجزمه."
+        }
+      ]
+    }
+  ],
+  "cross_references": [],
+  "corrections": [
+    {
+      "id": "x1",
+      "old_unit_id": "u6",
+      "new_unit_id": "u7",
+      "evidence": [
+        {
+          "start": 120,
+          "end": 185,
+          "quote": "قلت سابقا إن لم تنصب الفعل المضارع، وهذا خطأ؛ والصواب أنها تجزمه."
+        }
+      ]
+    }
+  ],
+  "source_accounting": [
+    {
+      "start": 0,
+      "end": 22,
+      "kind": "scientific",
+      "units": [
+        "u1"
+      ]
+    },
+    {
+      "start": 23,
+      "end": 66,
+      "kind": "scientific",
+      "units": [
+        "u2",
+        "u3"
+      ]
+    },
+    {
+      "start": 67,
+      "end": 119,
+      "kind": "scientific",
+      "units": [
+        "u4",
+        "u5"
+      ]
+    },
+    {
+      "start": 120,
+      "end": 185,
+      "kind": "scientific",
+      "units": [
+        "u6",
+        "u7"
+      ]
+    },
+    {
+      "start": 186,
+      "end": 244,
+      "kind": "scientific",
+      "units": [
+        "u8",
+        "u9",
+        "u10",
+        "u11"
+      ]
+    }
+  ]
+}

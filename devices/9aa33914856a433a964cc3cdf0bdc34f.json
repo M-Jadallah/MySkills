@@ -1,0 +1,295 @@
+{
+  "id": "9aa33914856a433a964cc3cdf0bdc34f",
+  "last_seen": "2026-10-16T22:39:00.305374+00:00",
+  "name": "MJ",
+  "skills": {
+    "ai-evasion": {
+      "agents": {
+        "original": "1.0.0"
+      },
+      "workspace": "1.0.0"
+    },
+    "altayf-3d-lessons": {
+      "agents": {
+        "original": "1.0.0"
+      },
+      "workspace": "1.0.0"
+    },
+    "altayf-chemistry-word": {
+      "agents": {
+        "original": "1.0.0"
+      },
+      "workspace": "1.0.0"
+    },
+    "arabic-course-maps": {
+      "agents": {
+        "original": "1.0.0"
+      },
+      "workspace": "1.0.0"
+    },
+    "arabic-lesson-maps": {
+      "agents": {
+        "original": "1.0.0"
+      },
+      "workspace": "1.0.0"
+    },
+    "canvas-design": {
+      "agents": {
+        "original": "1.0.0"
+      },
+      "workspace": "1.0.0"
+    },
+    "chem-spectrum-lab": {
+      "agents": {
+        "original": "1.0.0"
+      },
+      "workspace": "1.0.0"
+    },
+    "chem-spectrum-lab-01-pdf-to-md": {
+      "agents": {
+        "original": "1.0.0"
+      },
+      "workspace": "1.0.0"
+    },
+    "chem-spectrum-lab-02-interactive-design": {
+      "agents": {
+        "original": "1.0.0"
+      },
+      "workspace": "1.0.0"
+    },
+    "chem-spectrum-lab-03-lab-build": {
+      "agents": {
+        "original": "1.0.0"
+      },
+      "workspace": "1.0.0"
+    },
+    "chem-spectrum-lab-04-integration": {
+      "agents": {
+        "original": "1.0.0"
+      },
+      "workspace": "1.0.0"
+    },
+    "chem-spectrum-lab-05-powerpoint": {
+      "agents": {
+        "original": "1.0.0"
+      },
+      "workspace": "1.0.0"
+    },
+    "chem-spectrum-lab-06-word": {
+      "agents": {
+        "original": "1.0.0"
+      },
+      "workspace": "1.0.0"
+    },
+    "chemistry-3d-lesson-website": {
+      "agents": {
+        "original": "1.0.0"
+      },
+      "workspace": "1.0.0"
+    },
+    "design-taste-frontend": {
+      "agents": {
+        "original": "1.0.0"
+      },
+      "workspace": "1.0.0"
+    },
+    "frontend-design": {
+      "agents": {
+        "original": "1.0.0"
+      },
+      "workspace": "1.0.0"
+    },
+    "gpt-taste": {
+      "agents": {
+        "original": "1.0.0"
+      },
+      "workspace": "1.0.0"
+    },
+    "humanize-writing": {
+      "agents": {
+        "original": "1.0.0"
+      },
+      "workspace": "1.0.0"
+    },
+    "impeccable": {
+      "agents": {
+        "original": "1.0.0"
+      },
+      "workspace": "1.0.0"
+    },
+    "neumorphism": {
+      "agents": {
+        "original": "1.0.0"
+      },
+      "workspace": "1.0.0"
+    },
+    "pdf": {
+      "agents": {
+        "original": "1.0.0"
+      },
+      "workspace": "1.0.0"
+    },
+    "pptx": {
+      "agents": {
+        "original": "1.0.0"
+      },
+      "workspace": "1.0.0"
+    },
+    "redesign-existing-projects": {
+      "agents": {
+        "original": "1.0.0"
+      },
+      "workspace": "1.0.0"
+    },
+    "threejs-atmosphere-aerial-perspective": {
+      "agents": {
+        "original": "1.0.0"
+      },
+      "workspace": "1.0.0"
+    },
+    "threejs-bloom": {
+      "agents": {
+        "original": "1.0.0"
+      },
+      "workspace": "1.0.0"
+    },
+    "threejs-camera-direction": {
+      "agents": {
+        "original": "1.0.0"
+      },
+      "workspace": "1.0.0"
+    },
+    "threejs-exposure-color-grading": {
+      "agents": {
+        "original": "1.0.0"
+      },
+      "workspace": "1.0.0"
+    },
+    "threejs-image-pipeline": {
+      "agents": {
+        "original": "1.0.0"
+      },
+      "workspace": "1.0.0"
+    },
+    "threejs-parallax-occlusion-mapping": {
+      "agents": {
+        "original": "1.0.0"
+      },
+      "workspace": "1.0.0"
+    },
+    "threejs-precipitation-surfaces": {
+      "agents": {
+        "original": "1.0.0"
+      },
+      "workspace": "1.0.0"
+    },
+    "threejs-procedural-animation": {
+      "agents": {
+        "original": "1.0.0"
+      },
+      "workspace": "1.0.0"
+    },
+    "threejs-procedural-architecture": {
+      "agents": {
+        "original": "1.0.0"
+      },
+      "workspace": "1.0.0"
+    },
+    "threejs-procedural-fields": {
+      "agents": {
+        "original": "1.0.0"
+      },
+      "workspace": "1.0.0"
+    },
+    "threejs-procedural-geometry": {
+      "agents": {
+        "original": "1.0.0"
+      },
+      "workspace": "1.0.0"
+    },
+    "threejs-procedural-materials": {
+      "agents": {
+        "original": "1.0.0"
+      },
+      "workspace": "1.0.0"
+    },
+    "threejs-procedural-planets": {
+      "agents": {
+        "original": "1.0.0"
+      },
+      "workspace": "1.0.0"
+    },
+    "threejs-procedural-vegetation": {
+      "agents": {
+        "original": "1.0.0"
+      },
+      "workspace": "1.0.0"
+    },
+    "threejs-procedural-vfx": {
+      "agents": {
+        "original": "1.0.0"
+      },
+      "workspace": "1.0.0"
+    },
+    "threejs-raymarched-space-effects": {
+      "agents": {
+        "original": "1.0.0"
+      },
+      "workspace": "1.0.0"
+    },
+    "threejs-screen-space-ambient-occlusion": {
+      "agents": {
+        "original": "1.0.0"
+      },
+      "workspace": "1.0.0"
+    },
+    "threejs-shadow-systems": {
+      "agents": {
+        "original": "1.0.0"
+      },
+      "workspace": "1.0.0"
+    },
+    "threejs-skill-router": {
+      "agents": {
+        "original": "1.0.0"
+      },
+      "workspace": "1.0.0"
+    },
+    "threejs-spectral-ocean": {
+      "agents": {
+        "original": "1.0.0"
+      },
+      "workspace": "1.0.0"
+    },
+    "threejs-temporal-surfaces": {
+      "agents": {
+        "original": "1.0.0"
+      },
+      "workspace": "1.0.0"
+    },
+    "threejs-visual-validation": {
+      "agents": {
+        "original": "1.0.0"
+      },
+      "workspace": "1.0.0"
+    },
+    "threejs-volumetric-clouds": {
+      "agents": {
+        "original": "1.0.0"
+      },
+      "workspace": "1.0.0"
+    },
+    "threejs-water-optics": {
+      "agents": {
+        "original": "1.0.0"
+      },
+      "workspace": "1.0.0"
+    },
+    "xlsx": {
+      "agents": {
+        "original": "1.0.0"
+      },
+      "workspace": "1.0.0"
+    }
+  }
+}

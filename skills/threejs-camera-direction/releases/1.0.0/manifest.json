@@ -1,0 +1,16 @@
+{
+  "created_at": "2026-10-15T14:26:25.913763+00:00",
+  "description": "Direct advanced Three.js camera systems. Use for scale-aware chase rigs, thrust lag, side/orbit cameras, body-relative up vectors, quaternion handoffs, authored cinematic framing, floating origins, pointer-look controls, camera collision constraints, projection ownership, and lifecycle restoration.",
+  "device_id": "9aa33914856a433a964cc3cdf0bdc34f",
+  "device_name": "MJ",
+  "files": {
+    "SKILL.md": "2cb2432eda6c33cd1a6462df7db4f7fa41eea0a17c129d8b4e3930dd24a97248"
+  },
+  "hash": "5bb4948bb2a959e4e5caba4963dde8625819f85b51a4d65b07298cd49e559820",
+  "id": "threejs-camera-direction",
+  "name": "threejs-camera-direction",
+  "note": "أرشفة أولية",
+  "size": 2426,
+  "title": "Camera Direction",
+  "version": "1.0.0"
+}

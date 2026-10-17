@@ -1,0 +1,9 @@
+{
+  "category": "عام",
+  "current": "1.0.0",
+  "description": "Build view-aligned and screen-space surface effects in Three.js. Use for touch-history frost and thaw, ping-pong accumulation, reduced-resolution blur, crystalline masks, two-scale refraction, and procedural rain droplets that refract and blur a background through wet glass.",
+  "id": "threejs-temporal-surfaces",
+  "name": "threejs-temporal-surfaces",
+  "title": "Temporal Surfaces",
+  "updated_at": "2026-10-15T14:26:52.147715+00:00"
+}

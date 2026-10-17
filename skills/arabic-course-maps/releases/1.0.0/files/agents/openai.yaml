@@ -1,0 +1,6 @@
+interface:
+  display_name: "خرائط الدروس المترابطة"
+  short_description: "دمج تفريغات متعددة في Word بخرائط SmartArt مترابطة"
+  default_prompt: "استخدم $arabic-course-maps لتحليل هذه التفريغات بوكلاء فرعيين ودمجها في ملف Word واحد مترابط بالقالب المعتمد والتشكيل الكامل دون طلب قرارات مني."
+policy:
+  allow_implicit_invocation: true

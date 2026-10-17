@@ -1,0 +1,20 @@
+{
+  "version": "2.0-smartart",
+  "font": "Traditional Arabic",
+  "colors": {"primary": "17324D", "secondary": "247C78", "accent": "B58A35", "tint": "F2F5F7", "note": "F8F1E3", "ink": "252525", "line": "D5DDE3", "white": "FFFFFF"},
+  "page": {"width_mm": 210, "height_mm": 297, "margin_mm": 16, "top_mm": 15, "bottom_mm": 16},
+  "frame": {"outer_inset_pt": 10, "inner_inset_pt": 17, "outer_weight_pt": 1.25, "inner_weight_pt": 0.65},
+  "sizes_pt": {"title": 32, "topic": 23, "section": 21, "body": 18, "table": 17, "diagram": 20, "small": 15, "footer": 14},
+  "smartart": {
+    "required": true,
+    "quick_style_id": "urn:microsoft.com/office/officeart/2005/8/quickstyle/simple1",
+    "layouts": {
+      "tree": "urn:microsoft.com/office/officeart/2005/8/layout/orgChart1",
+      "decision": "urn:microsoft.com/office/officeart/2005/8/layout/orgChart1",
+      "sequence": "urn:microsoft.com/office/officeart/2005/8/layout/process2",
+      "cycle": "urn:microsoft.com/office/officeart/2005/8/layout/cycle2"
+    }
+  },
+  "diagram": {"max_display_levels": 4, "max_leaf_columns": 5, "max_height_pt": 390, "node_padding_pt": 7, "level_gap_pt": 29},
+  "fixed_labels": {"header": "خَرَائِطُ الدَّرْسِ وَجَدَاوِلُهُ", "summary": "خُلَاصَةُ الدَّرْسِ", "continuation": "تَفْصِيلٌ", "part": "جُزْءٌ", "related": "يَتَفَرَّعُ عَنْ"}
+}

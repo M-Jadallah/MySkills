@@ -1,0 +1,16 @@
+{
+  "created_at": "2026-10-15T14:26:22.468088+00:00",
+  "description": "Implement physically motivated sky and aerial-perspective systems in Three.js. Use for planetary atmospheres, ground-to-space transitions, Rayleigh/Mie scattering, precomputed LUTs, depth-based transmittance and inscattering, sun/moon discs, and atmosphere-aware lighting.",
+  "device_id": "9aa33914856a433a964cc3cdf0bdc34f",
+  "device_name": "MJ",
+  "files": {
+    "SKILL.md": "2df416285dee75bd65f6d725dc7e4166ad50652530990b2b1509dd6f824e8ed3"
+  },
+  "hash": "59332ed708a089dbe5f36381019a872d11c1771502de5edd057065bcba791c3c",
+  "id": "threejs-atmosphere-aerial-perspective",
+  "name": "threejs-atmosphere-aerial-perspective",
+  "note": "أرشفة أولية",
+  "size": 2448,
+  "title": "Atmosphere and Aerial Perspective",
+  "version": "1.0.0"
+}

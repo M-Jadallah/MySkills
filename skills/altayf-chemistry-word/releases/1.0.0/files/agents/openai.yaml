@@ -1,0 +1,8 @@
+interface:
+  display_name: "الطيف لبناء دروس الكيمياء"
+  short_description: "خمسة ملفات Word بهوية الطيف وتغطية علمية وحلول موثقة"
+  brand_color: "#082C5A"
+  default_prompt: "استخدم $altayf-chemistry-word لبناء الملفات الخمسة من ملف Word المصدر المرفق مع الحفاظ على جميع المعلومات والهوية المعتمدة."
+policy:
+  allow_implicit_invocation: true
+

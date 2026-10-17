@@ -1,0 +1,17 @@
+{
+  "name": "chemistry-3d-lesson-website",
+  "version": "1.0.0",
+  "entrypoint": "SKILL.md",
+  "language": "en",
+  "user_documentation_language": "ar",
+  "capabilities": [
+    "chemistry-lesson-analysis",
+    "arabic-rtl-web-design",
+    "scientific-3d-visualization",
+    "desktop-mobile-responsive-design",
+    "offline-standalone-build",
+    "scientific-validation",
+    "browser-regression-testing",
+    "release-quality-gate"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "created_at": "2026-10-15T14:26:12.471321+00:00",
+  "description": "Build a complete interactive 3D lesson landing page from an attached chemistry lesson PDF (Tawjihi Jordan curriculum), branded for دوسية الطيف في الكيمياء — المهندس معتصم جادالله. Triggers when the user attaches a chemistry lesson PDF (درس كيمياء، توجيهي الأردن، الطيف في الكيمياء) and asks for an interactive 3D lesson page/site (موقع تفاعلي، صفحة هبوط ثلاثية الأبعاد، 3D lesson site) deployable to Coolify via Docker Compose. The skill deeply analyzes the PDF, writes a gradual Arabic explanation with zero information loss, renders parameter-driven pseudo-3D crystal/molecule simulations on a single adaptive stage with sliders, adds HUD, stats bar, interactive quiz, verifies rendering responsively, and outputs a Docker-ready zero-dependency project.",
+  "device_id": "9aa33914856a433a964cc3cdf0bdc34f",
+  "device_name": "MJ",
+  "files": {
+    "SKILL.md": "f650b9dd20648759f67ba3fe6eae0f8cf9195cc281f49c62ed62ef07c68590f7",
+    "assets/example-solid-state/app.js": "ea60eef817a16829f3c3fd484c386c9ecb07ee4691bce4f7970a57a9f2594aa1",
+    "assets/example-solid-state/index.html": "c9c4058bb5fa270e67d57688609c7614f872f66186bd941e11d14a74498ae5da",
+    "assets/example-solid-state/styles.css": "fd3a1fc1c25c344a03f29a3675eeb79dc8f28fea85979d3ca3291b32c256c663",
+    "assets/template/Dockerfile": "3586ab62c85846564b5e591071dd9398d3239abb78dd44f6f29b5121aeebe390",
+    "assets/template/docker-compose.yml": "990d40204a0c920e22faa96b1d7b3ced14a3ccd8c1e1a431782c9661d4633478",
+    "assets/template/index.html": "cab9ac0d427a283bea83a51865bc7cbb99e39c108df9994a6d55f84720071dce",
+    "assets/template/js/app.js": "823a25bd8174931460e49a9a738c3947441d869592dcdd2738ced6b1b7f58d43",
+    "assets/template/js/engine.js": "84fba5baaba128df579aec3ca70968781740d44acf99851556777358e5aab8a3",
+    "assets/template/nginx.conf": "4dbc7f5f6bc1351d218309a9cb67a9a5ff1f433d7cc57525d59318a564538076",
+    "assets/template/styles.css": "fd3a1fc1c25c344a03f29a3675eeb79dc8f28fea85979d3ca3291b32c256c663",
+    "references/deployment.md": "db9f9da92303114f41f1dfe98bcb765d92121c389cf2f5bafaef302f2171fbac",
+    "references/design-system.md": "bf99b395398251f9e292382441960749f66bb6457c706ebcbadcfcf57955837c",
+    "references/lesson-analysis.md": "73a63637b7c908ba77ddb2971cfd9efa67fb7f83d2e8fd92b9e014004dbacdd2",
+    "references/stage-engine.md": "743949b6a086c5928911f862e0bc1a5e9dee56ddf163c263a16c094e6376d1b9"
+  },
+  "hash": "b36e1482d6992e6f5bdd6b17836efa350ea7486d9cff91068792195ff90b72e9",
+  "id": "altayf-3d-lessons",
+  "name": "altayf-3d-lessons",
+  "note": "أرشفة أولية",
+  "size": 242399,
+  "title": "Al-Tayf 3D Chemistry Lessons",
+  "version": "1.0.0"
+}

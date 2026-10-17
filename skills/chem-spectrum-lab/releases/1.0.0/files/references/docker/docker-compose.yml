@@ -1,0 +1,14 @@
+version: '3.8'
+
+# بناء قائم على image — آمن لـ Coolify (لا bind mounts محلية)
+services:
+  frontend:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile.frontend
+    image: chem-spectrum-lab:latest
+    container_name: chem-spectrum-lab
+    ports:
+      - "3000:80"
+    restart: unless-stopped
+    # لا تستخدم volumes محلية للإنتاج؛ الملفات داخل الصورة عبر Dockerfile

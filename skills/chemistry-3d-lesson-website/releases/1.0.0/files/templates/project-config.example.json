@@ -1,0 +1,58 @@
+{
+  "skill_version": "1.0.0",
+  "project_name": "interactive-chemistry-lesson",
+  "paths": {
+    "project_root": ".",
+    "source_dir": "src",
+    "build_dir": "dist",
+    "standalone_html": "dist/lesson-standalone.html",
+    "content_map": "lesson-content-map.json",
+    "interaction_map": "interaction-map.json",
+    "reports_dir": "reports",
+    "screenshots_dir": "screenshots",
+    "footer_lock": "templates/footer-lock.json"
+  },
+  "quality_gate": {
+    "required_files": [
+      "README.md",
+      "lesson-content-map.json",
+      "interaction-map.json",
+      "reports/SCIENTIFIC_VALIDATION_REPORT.md",
+      "reports/FUNCTIONAL_TEST_REPORT.md",
+      "reports/RESPONSIVE_TEST_REPORT.md",
+      "reports/ACCESSIBILITY_REPORT.md",
+      "reports/PERFORMANCE_REPORT.md",
+      "reports/CODE_QUALITY_REPORT.md",
+      "dist/lesson-standalone.html"
+    ],
+    "strict_rtl": true,
+    "fail_on_remote_urls": true,
+    "fail_on_missing_assets": true,
+    "commands": [
+      {
+        "name": "lint",
+        "cwd": ".",
+        "command": ["npm", "run", "lint"],
+        "optional": false
+      },
+      {
+        "name": "typecheck",
+        "cwd": ".",
+        "command": ["npm", "run", "typecheck"],
+        "optional": true
+      },
+      {
+        "name": "unit-tests",
+        "cwd": ".",
+        "command": ["npm", "run", "test:unit"],
+        "optional": false
+      },
+      {
+        "name": "build",
+        "cwd": ".",
+        "command": ["npm", "run", "build"],
+        "optional": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "category": "عام",
+  "current": "1.0.0",
+  "description": "Implement volumetric cloud systems in Three.js. Use for weather-driven density, bounded raymarching, shape/detail erosion, vertical profiles, lighting cones, silver lining, temporal reconstruction, cloud shadows, multiple layers, and scalable quality modes.",
+  "id": "threejs-volumetric-clouds",
+  "name": "threejs-volumetric-clouds",
+  "title": "Volumetric Clouds",
+  "updated_at": "2026-10-15T14:26:55.157438+00:00"
+}

@@ -1,0 +1,411 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#061d35">
+  <meta name="description" content="درس عربي تفاعلي ثلاثي الأبعاد عن الحالة الصلبة: خصائص المواد الصلبة، البلورية وغير البلورية، والأنواع الأربعة: الجزيئية والشبكية التساهمية والفلزية والأيونية.">
+  <title>الحالة الصلبة | الطيف في الكيمياء</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="ambient ambient-a" aria-hidden="true"></div>
+  <div class="ambient ambient-b" aria-hidden="true"></div>
+  <div class="noise" aria-hidden="true"></div>
+  <div class="reading-progress" aria-hidden="true"><span id="readingProgress"></span></div>
+
+  <header class="topbar" id="topbar">
+    <a class="brand" href="#hero" aria-label="العودة إلى بداية الدرس">
+      <span class="brand-mark" aria-hidden="true">
+        <svg viewBox="0 0 48 48" fill="none"><path d="M14 8h20M20 8v10L10 36c-1 2 0 4 3 4h22c3 0 4-2 3-4L28 18V8" stroke="currentColor" stroke-width="2.8" stroke-linecap="round"/><path d="M15 31c6-3 12 4 18 0" stroke="currentColor" stroke-width="2.8" stroke-linecap="round"/><circle cx="19" cy="27" r="2" fill="currentColor"/><circle cx="29" cy="25" r="1.7" fill="currentColor"/></svg>
+      </span>
+      <span class="brand-copy"><strong>الطيف في الكيمياء</strong><small>كيمياء التوجيهي - الثاني عشر الأكاديمي</small></span>
+    </a>
+    <button class="mobile-nav-toggle" id="mobileNavToggle" data-control-id="mobile-navigation" type="button" aria-label="فتح قائمة أقسام الدرس" aria-expanded="false" aria-controls="mobileNav"><span></span><span></span><span></span></button>
+    <nav class="desktop-nav" aria-label="أقسام الدرس">
+      <a href="#properties">الخصائص</a>
+      <a href="#molecular">الجزيئية</a>
+      <a href="#network">الشبكية</a>
+      <a href="#metallic">الفلزية</a>
+      <a href="#ionic">الأيونية</a>
+      <a href="#identify">التصنيف</a>
+      <a href="#assessment">المراجعة</a>
+    </nav>
+    <div class="header-actions">
+      <button class="icon-button" id="motionToggle" type="button" aria-label="إيقاف الحركة" title="إيقاف أو تشغيل الحركة">
+        <svg class="pause-icon" viewBox="0 0 24 24" fill="none"><path d="M8 5v14M16 5v14" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/></svg>
+        <svg class="play-icon" viewBox="0 0 24 24" fill="none"><path d="m8 5 11 7-11 7V5Z" stroke="currentColor" stroke-width="2.2" stroke-linejoin="round"/></svg>
+      </button>
+      <button class="icon-button" id="resetAll" type="button" aria-label="إعادة ضبط المحاكاة" title="إعادة ضبط جميع المحاكيات">
+        <svg viewBox="0 0 24 24"><path d="M20 11a8 8 0 1 0-2.3 5.7M20 5v6h-6" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" fill="none"/></svg>
+      </button>
+    </div>
+  </header>
+
+  <nav class="mobile-nav" id="mobileNav" data-mobile-nav aria-label="أقسام الدرس للهاتف">
+    <a href="#properties">الخصائص العامة</a><a href="#molecular">الجزيئية</a><a href="#network">الشبكية التساهمية</a><a href="#metallic">الفلزية</a><a href="#ionic">الأيونية</a><a href="#identify">تحديد الأنواع</a><a href="#assessment">المراجعة</a>
+  </nav>
+
+  <aside class="section-rail" id="sectionRail" aria-label="التنقل السريع بين الأقسام">
+    <a href="#hero" data-label="البداية" aria-label="البداية" class="active"></a>
+    <a href="#properties" data-label="الخصائص العامة" aria-label="الخصائص العامة"></a>
+    <a href="#molecular" data-label="الجزيئية" aria-label="المواد الصلبة الجزيئية"></a>
+    <a href="#network" data-label="الشبكية التساهمية" aria-label="المواد الشبكية التساهمية"></a>
+    <a href="#metallic" data-label="الفلزية" aria-label="المواد الصلبة الفلزية"></a>
+    <a href="#ionic" data-label="الأيونية" aria-label="المواد الصلبة الأيونية"></a>
+    <a href="#identify" data-label="تحديد الأنواع" aria-label="تحديد أنواع المواد الصلبة"></a>
+    <a href="#assessment" data-label="المراجعة" aria-label="مراجعة الدرس"></a>
+  </aside>
+
+  <section class="hero" id="hero" data-title="الحالة الصلبة" data-kicker="النموذج الجسيمي للمادة الصلبة" data-mode="solid">
+    <div class="hero-copy">
+      <div class="eyebrow"><span></span>الدرس 3 - Solid State</div>
+      <h1>الحالة <em>الصلبة</em></h1>
+      <p class="hero-lead">استكشف كيف يحدد ترتيب الجسيمات ونوع الروابط بينها خصائص المواد الصلبة؛ من البلورية وغير البلورية إلى الأنواع الأربعة: الجزيئية والشبكية التساهمية والفلزية والأيونية، عبر نماذج بلورية ثلاثية الأبعاد ومحاكيات مترابطة.</p>
+      <div class="hero-actions">
+        <a class="primary-button" href="#properties">ابدأ الاستكشاف <span aria-hidden="true">←</span></a>
+        <button class="ghost-button" type="button" id="heroDemo">شغّل جولة سريعة</button>
+      </div>
+      <div class="hero-stat-grid" aria-label="محتويات الدرس">
+        <div><strong>7</strong><span>محاور علمية مترابطة</span></div>
+        <div><strong>6</strong><span>محاكيات بلورية فورية</span></div>
+        <div><strong>8</strong><span>أسئلة مراجعة وتحقق</span></div>
+      </div>
+    </div>
+
+    <div class="hero-visual">
+      <div class="stage-shell hero-stage-shell" id="stageShell" data-science-sim="solid-state-crystal-model">
+        <div class="stage-grid" aria-hidden="true"></div>
+        <canvas id="solidCanvas" data-simulation-canvas="solid-state" aria-label="محاكاة ثلاثية الأبعاد لشبكة بلورية تهتز جسيماتها في أماكنها"></canvas>
+        <div class="stage-vignette" aria-hidden="true"></div>
+        <div class="stage-hud">
+          <div><span id="stageKicker">النموذج الجسيمي للمادة الصلبة</span><strong id="stageTitle">الحالة الصلبة</strong></div>
+          <div class="hud-metrics" id="hudMetrics"><span><i></i>جسيمات متقاربة</span><span><i></i>حركة اهتزازية</span></div>
+        </div>
+        <div class="stage-bottom">
+          <div class="live-metric"><span>درجة الحرارة</span><strong id="hudTemp" dir="ltr">25 °C</strong></div>
+          <div class="live-metric"><span>النموذج</span><strong id="hudType">شبكة بلورية</strong></div>
+          <div class="live-metric"><span>الحالة</span><strong id="hudState">صلبة - اهتزاز</strong></div>
+        </div>
+        <div class="canvas-hint"><span aria-hidden="true"></span>اسحب لتدوير المشهد</div>
+        <button class="stage-tool" id="fullscreenToggle" data-control-id="simulation-fullscreen" type="button" aria-label="عرض المحاكاة بملء الشاشة" title="عرض المحاكاة بملء الشاشة">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 3H3v5M16 3h5v5M8 21H3v-5M16 21h5v-5" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          <span>ملء الشاشة</span>
+        </button>
+        <p class="sr-only" data-simulation-summary aria-live="polite" id="simSummary">شبكة بلورية منتظمة تهتز جسيماتها في أماكنها عند 25 درجة مئوية.</p>
+      </div>
+    </div>
+  </section>
+
+  <main class="lesson-layout">
+    <aside class="sticky-stage" id="stickyStage" aria-label="المشهد العلمي للقسم الحالي"><button class="mobile-stage-toggle" id="stageCollapseToggle" data-control-id="mobile-simulation-collapse" type="button" aria-expanded="true" aria-controls="stageShell">طي المجسم</button></aside>
+    <div class="lesson-content">
+
+      <section class="content-section" id="properties" data-lesson-section="general-properties" data-title="الخصائص العامة" data-kicker="جسيمات متقاربة تهتز في أماكنها" data-mode="properties">
+        <article class="lesson-card">
+          <span class="section-number">01</span>
+          <div class="section-tag">General Properties of Solids</div>
+          <h2>جسيمات مثبتة <em>تهتز في أماكنها</em></h2>
+          <p class="section-intro">تتسم جسيمات المادة في الحالة الصلبة (ذرات، جزيئات، أيونات) بأنها متقاربة جدًا وأن قوى التجاذب بينها كبيرة؛ لذلك تترتب في أماكن محددة لا تغادرها وتتحرك في أماكنها حركة اهتزازية. المادة الصلبة كثافتها عالية، وغير قابلة للانضغاط أو الجريان؛ فهي ذات شكل وحجم ثابتين.</p>
+
+          <div class="concept-grid three">
+            <div class="concept-card"><span class="concept-icon vibrate-icon" aria-hidden="true"></span><h3>حركة اهتزازية</h3><p>الجسيمات لا تغادر أماكنها في الحالة الصلبة؛ بل تهتز حول مواضعها، وتزداد سرعة اهتزازها كلما ارتفعت درجة الحرارة.</p></div>
+            <div class="concept-card"><span class="concept-icon fixed-icon" aria-hidden="true"></span><h3>شكل وحجم ثابتان</h3><p>لأن الجسيمات متقاربة جدًا وقوى التجاذب بينها كبيرة، فالمادة الصلبة غير قابلة للانضغاط أو الجريان، وكثافتها عالية.</p></div>
+            <div class="concept-card"><span class="concept-icon melt-icon" aria-hidden="true"></span><h3>درجة الانصهار</h3><p>عند التسخين تهتز الجسيمات أسرع، ومع زيادة طاقتها الحركية يضعف التجاذب بينها فتتحول المادة إلى سائل عند درجة حرارة تسمى درجة الانصهار.</p></div>
+          </div>
+
+          <div class="interaction-panel" data-science-sim="solid-particle-model">
+            <div class="interaction-heading"><div><span>محاكاة جسيمية فورية</span><strong>سخّن المادة وراقب اهتزاز الجسيمات</strong></div><output id="phaseStateOut">صلبة - اهتزاز في الأماكن</output></div>
+            <label class="range-row" for="temperatureControl"><span>درجة الحرارة</span><input id="temperatureControl" data-control-id="temperature" data-scientific-variable="T" type="range" min="-50" max="1400" step="5" value="25"><output id="temperatureOut" dir="ltr">25 °C</output></label>
+            <div class="segmented two" role="group" aria-label="اختيار طريقة ترتيب الجسيمات">
+              <button type="button" data-control-id="order-crystalline" data-order="0" class="active">بلورية - ترتيب منتظم</button>
+              <button type="button" data-control-id="order-amorphous" data-order="1">غير بلورية - عشوائية</button>
+            </div>
+            <div class="evidence-strip">
+              <div><span>الطاقة الحركية النسبية</span><b id="kineticOut" dir="ltr">1.00 ×</b></div>
+              <div><span>درجة الانصهار في النموذج</span><b dir="ltr">800 °C</b></div>
+              <div><span>حالة المادة</span><b id="phaseWordOut">صلبة</b></div>
+            </div>
+            <p class="model-note" data-verification-card="properties"><strong>تحقق علمي:</strong> <span id="propertiesInvariant">قبل درجة الانصهار تهتز الجسيمات حول مواضعها ولا تغادرها، ومتوسط طاقتها الحركية يتناسب مع درجة الحرارة المطلقة T(K).</span></p>
+          </div>
+
+          <div class="science-pair">
+            <div class="formula-card"><span>صلبة بلورية</span><strong>أشكال هندسية منتظمة</strong><p>مثل: الذهب، والماس، وكلوريد الصوديوم (الشكل 14).</p></div>
+            <div class="formula-card amorph"><span>صلبة غير بلورية</span><strong>ترتيب عشوائي</strong><p>ليس لها شكل هندسي منتظم، مثل: البلاستيك، والزجاج (الشكل 15).</p></div>
+          </div>
+
+          <div class="check-card">
+            <b>أتحقق:</b>
+            <p>ما الفرق بين المواد الصلبة البلورية وغير البلورية؟</p>
+            <details><summary>اعرض الإجابة</summary><p>المواد البلورية جسيماتها مترتبة بأشكال هندسية منتظمة، أما غير البلورية فجسيماتها مترتبة عشوائيًا وليس لها شكل هندسي منتظم.</p></details>
+          </div>
+        </article>
+      </section>
+
+      <section class="content-section" id="molecular" data-lesson-section="molecular-solids" data-title="المواد الجزيئية" data-kicker="جزيئات متعادلة بقوى تجاذب ضعيفة" data-mode="molecular">
+        <article class="lesson-card">
+          <span class="section-number">02</span>
+          <div class="section-tag purple">Molecular Solids</div>
+          <h2>المواد الصلبة <em>الجزيئية</em></h2>
+          <p class="section-intro">الجسيمات المكونة للمواد الصلبة الجزيئية هي ذرات أو جزيئات تترابط مع بعضها بقوى تجاذب ضعيفة نسبيًا؛ لذلك فهي مواد ذات درجات انصهار منخفضة، وغير موصلة للتيار الكهربائي لأن جسيماتها متعادلة الشحنة.</p>
+
+          <div class="concept-grid three">
+            <div class="concept-card"><span class="concept-icon iodine-icon" aria-hidden="true"></span><h3>بلورة اليود I₂</h3><p>تتكون من جزيئات يود متعادلة تترابط بقوى لندن الضعيفة؛ لذلك درجة انصهارها منخفضة وبلوراتها غير موصلة للكهرباء (الشكل 16).</p></div>
+            <div class="concept-card"><span class="concept-icon ice-icon" aria-hidden="true"></span><h3>الجليد H₂O</h3><p>تترابط جزيئاته بروابط هيدروجينية؛ إذ يرتبط كل جزيء بأربعة جزيئات أخرى، ويكون كل جزيء مركزًا لرباعي الأوجه منتظم (الشكل 17).</p></div>
+            <div class="concept-card"><span class="concept-icon bucky-icon" aria-hidden="true"></span><h3>بكمنسترفولرين C₆₀</h3><p>كرات باكي، اكتشفت عام 1985؛ جزيئات كروية مجوفة، ترتبط كل ذرة كربون فيها بثلاث ذرات مكونة حلقات خماسية وسداسية تشبه كرة القدم.</p></div>
+          </div>
+
+          <div class="interaction-panel molecular-panel" data-science-sim="molecular-solids">
+            <div class="interaction-heading"><div><span>نماذج ثلاثية الأبعاد</span><strong>بدّل المادة وقوة التجاذب بين جزيئاتها</strong></div><output id="molecularMaterialOut">بلورة اليود I₂</output></div>
+            <div class="segmented" role="group" aria-label="اختيار المادة الجزيئية">
+              <button type="button" data-control-id="mat-iodine" data-mat="0" class="active">اليود I₂</button>
+              <button type="button" data-control-id="mat-ice" data-mat="1">الجليد H₂O</button>
+              <button type="button" data-control-id="mat-c60" data-mat="2">كرات باكي C₆₀</button>
+            </div>
+            <label class="range-row" for="attractionControl"><span>قوة التجاذب بين الجزيئات</span><input id="attractionControl" data-control-id="attraction-strength" data-scientific-variable="strength" type="range" min="1" max="10" step="1" value="3"><output id="attractionOut">3 / 10</output></label>
+            <div class="evidence-strip">
+              <div><span>نوع القوى السائد</span><b id="forceKindOut">قوى لندن</b></div>
+              <div><span>درجة الانصهار المتوقعة</span><b id="mpEstimateOut">منخفضة</b></div>
+              <div><span>التوصيل الكهربائي</span><b>غير موصلة</b></div>
+            </div>
+            <p class="model-note" data-verification-card="molecular"><strong>تحقق علمي:</strong> <span id="molecularInvariant">جزيء C₆₀ يحقق معادلة أويلر: 60 رأسًا − 90 ضلعًا + 32 وجهًا = 2 (12 خماسيًا و20 سداسيًا)، والجسيمات متعادلة الشحنة فلا توصل الكهرباء.</span></p>
+          </div>
+
+          <div class="science-pair">
+            <div class="fact-card"><b>بلورات إبرية سوداء</b><p>تترابط جزيئات C₆₀ (الكرات) مع بعضها بقوى لندن الضعيفة مكوّنة بلورات إبرية الشكل سوداء اللون تسمى بكمنسترفولرين (الشكل 19)، وهي غير موصلة للكهرباء لأنها جزيئات متعادلة.</p></div>
+            <div class="fact-card violet-card"><b>لماذا درجة الانصهار منخفضة؟</b><p>لأن المطلوب عند الانصهار هو التغلب على قوى التجاذب الضعيفة بين الجزيئات، لا كسر الروابط القوية داخل الجزيء نفسه.</p></div>
+          </div>
+
+          <div class="check-card">
+            <b>أتحقق:</b>
+            <p>ما نوع الروابط بين ذرات الكربون داخل الجزيء الواحد من بكمنسترفولرين؟ وما نوع قوى التجاذب بين جزيئاته؟</p>
+            <details><summary>اعرض الإجابة</summary><p>داخل الجزيء: روابط تساهمية؛ إذ ترتبط كل ذرة كربون بثلاث ذرات أخرى. وبين الجزيئات: قوى لندن الضعيفة.</p></details>
+          </div>
+        </article>
+      </section>
+
+      <section class="content-section" id="network" data-lesson-section="covalent-network-solids" data-title="الشبكية التساهمية" data-kicker="ذرات مترابطة في بناء شبكي صلب" data-mode="network">
+        <article class="lesson-card">
+          <span class="section-number">03</span>
+          <div class="section-tag blue">Covalent Network Solids</div>
+          <h2>المواد الصلبة <em>الشبكية التساهمية</em></h2>
+          <p class="section-intro">جسيمات المواد الصلبة الشبكية التساهمية ذرات تترابط فيما بينها بروابط تساهمية في بناء شبكي صلب؛ لذا تتميز بالقساوة وبدرجات انصهار مرتفعة نظرًا إلى قوة الروابط التساهمية بين ذراتها، وهي غير موصلة للتيار الكهربائي في حالتي الصلابة والسيولة على نحو عام.</p>
+
+          <div class="concept-grid three">
+            <div class="concept-card"><span class="concept-icon diamond-icon" aria-hidden="true"></span><h3>الماس C</h3><p>ترتبط كل ذرة كربون بأربع روابط تساهمية مع أربع ذرات أخرى، وتكون كل ذرة مركزًا لرباعي الأوجه منتظم (الشكل 20). أكثر المواد الطبيعية قساوة؛ لذا يستخدم في أدوات القطع والقص.</p></div>
+            <div class="concept-card"><span class="concept-icon graphite-icon" aria-hidden="true"></span><h3>الغرافيت C</h3><p>ترتبط كل ذرة كربون بثلاث ذرات أخرى بحيث تشكل حلقات سداسية الشكل، وتشكل هذه الحلقات مع بعضها طبقات رقيقة (الشكل 21).</p></div>
+            <div class="concept-card"><span class="concept-icon quartz-icon" aria-hidden="true"></span><h3>الكوارتز SiO₂</h3><p>تشبه بلورته بلورة الماس (الشكل 22)؛ حيث ترتبط كل ذرة سليكون بأربع ذرات أكسجين. شديد القساوة لكنه أقل قساوة من الماس.</p></div>
+          </div>
+
+          <div class="interaction-panel network-panel" data-science-sim="covalent-network">
+            <div class="interaction-heading"><div><span>شبكة ثلاثية الأبعاد</span><strong>بدّل البناء الشبكي وسخّنه</strong></div><output id="networkMaterialOut">الماس - رباعي الأوجه</output></div>
+            <div class="segmented" role="group" aria-label="اختيار المادة الشبكية">
+              <button type="button" data-control-id="net-diamond" data-net="0" class="active">الماس</button>
+              <button type="button" data-control-id="net-graphite" data-net="1">الغرافيت</button>
+              <button type="button" data-control-id="net-quartz" data-net="2">الكوارتز</button>
+            </div>
+            <label class="range-row" for="networkTempControl"><span>درجة الحرارة</span><input id="networkTempControl" data-control-id="network-temperature" data-scientific-variable="T" type="range" min="25" max="3000" step="25" value="25"><output id="networkTempOut" dir="ltr">25 °C</output></label>
+            <div class="evidence-strip">
+              <div><span>العدد التناسقي</span><b id="coordinationOut" dir="ltr">4</b></div>
+              <div><span>القساوة</span><b id="hardnessWordOut">الأقسى طبيعيًا</b></div>
+              <div><span>التوصيل الكهربائي</span><b id="networkConductOut">غير موصلة</b></div>
+            </div>
+            <p class="model-note" data-verification-card="network"><strong>تحقق علمي:</strong> <span id="networkInvariant">الروابط التساهمية في البناء الشبكي لا تنفصل بالاهتزاز الحراري ضمن مجال العرض، والعدد التناسقي ثابت لكل مادة (الماس 4، الغرافيت 3، الكوارتز Si←O أربع روابط).</span></p>
+          </div>
+
+          <div class="enrich-note">
+            <span class="enrich-icon" aria-hidden="true">i</span>
+            <div><b>تنبيه إثرائي - الغرافيت استثناء</b><p>ورد في الكتاب أن المواد الشبكية التساهمية غير موصلة «على نحو عام»؛ والغرافيت أشهر استثناء: يوصل التيار على امتداد طبقاته لأن لكل ذرة كربون إلكترونًا رابعًا غير مرتبط يتحرك بحرية بين الطبقات، أما الماس فجميع إلكتروناته مقيدة في روابط تساهمية فلا يوصل.</p></div>
+          </div>
+
+          <div class="science-pair">
+            <div class="fact-card"><b>لماذا الماس غير موصل؟</b><p>لأن إلكتروناته مقيدة غير حرة الحركة في الروابط التساهمية الأربع.</p></div>
+            <div class="fact-card blue-card"><b>لماذا درجات الانصهار مرتفعة؟</b><p>لأن صهر المادة يتطلب كسر روابط تساهمية قوية ممتدة في البناء الشبكي كله.</p></div>
+          </div>
+        </article>
+      </section>
+
+      <section class="content-section" id="metallic" data-lesson-section="metallic-solids" data-title="المواد الفلزية" data-kicker="أيونات موجبة في بحر إلكترونات" data-mode="metallic">
+        <article class="lesson-card">
+          <span class="section-number">04</span>
+          <div class="section-tag orange">Metallic Solids</div>
+          <h2>المواد الصلبة <em>الفلزية</em></h2>
+          <p class="section-intro">ذرات الفلزات تكوّن المواد الصلبة الفلزية، وتشترك في صفات: متفاوتة في درجات انصهارها ومرتفعة بوجه عام، موصلة للتيار الكهربائي، وقابلة للطرق والسحب؛ ويرجع السبب في هذه الصفات إلى الرابطة الفلزية بين ذراتها. يمكن تخيل بلورة الفلز كأنها صفوف من الأيونات الموجبة مغمورة في بحر من الإلكترونات السالبة حرة الحركة (الشكلان 23 و24).</p>
+
+          <div class="interaction-panel metallic-panel" data-science-sim="metallic-bond">
+            <div class="interaction-heading"><div><span>بحر الإلكترونات</span><strong>شغّل مجالًا كهربائيًا ثم جرّب الطرق</strong></div><output id="currentOut" dir="ltr">التيار النسبي: 0.00</output></div>
+            <label class="range-row" for="fieldControl"><span>شدة المجال الكهربائي</span><input id="fieldControl" data-control-id="electric-field" data-scientific-variable="E" type="range" min="0" max="10" step="1" value="0"><output id="fieldOut">0 / 10</output></label>
+            <div class="experiment-actions"><button class="primary-button small" id="strikeMetal" data-control-id="hammer-strike" type="button">اطرق البلورة الفلزية</button><button class="ghost-button dark small" id="restoreMetal" type="button">إعادة البلورة</button></div>
+            <div class="evidence-strip">
+              <div><span>عند الطرق</span><b id="slipStateOut">الصفوف تنزلق وتبقى مترابطة</b></div>
+              <div><span>التوصيل</span><b>موصلة</b></div>
+              <div><span>درجات الانصهار</span><b>مرتفعة بوجه عام</b></div>
+            </div>
+            <p class="model-note" data-verification-card="metallic"><strong>تحقق علمي:</strong> <span id="metallicInvariant">عدد الإلكترونات في بحر الإلكترونات محفوظ أثناء الانجراف، ومجموع الشحنة الكلي صفر؛ والطرق يزلق صفوف الأيونات دون قطع الرابطة لأن الإلكترونات الحرة تعيد الترابط.</span></p>
+          </div>
+
+          <div class="concept-grid three">
+            <div class="concept-card"><span class="concept-icon conduct-icon" aria-hidden="true"></span><h3>موصلة للكهرباء</h3><p>بفضل بحر الإلكترونات السالبة حرة الحركة في البلورة، ومصاهيرها أيضًا موصلة للكهرباء.</p></div>
+            <div class="concept-card"><span class="concept-icon hammer-icon" aria-hidden="true"></span><h3>قابلة للطرق والسحب</h3><p>الطرق يجعل صفوف الأيونات الموجبة تنزلق مبتعدة عن بعضها، لكنها تبقى مترابطة بفعل تجاذبها مع الإلكترونات الحرة؛ فتشكل صفائح أو أسلاكًا أو قضبانًا.</p></div>
+            <div class="concept-card"><span class="concept-icon strongbond-icon" aria-hidden="true"></span><h3>صلبة ومرتفعة الانصهار</h3><p>سبب صلابتها ودرجات انصهارها المرتفعة بوجه عام عائد إلى قوة الرابطة الفلزية.</p></div>
+          </div>
+
+          <div class="life-link">
+            <span class="life-icon" aria-hidden="true">✚</span>
+            <div><b>الربط بالطب: الدعامات القلبية</b><p>طوّر باحثون جيلًا جديدًا من السبائك الفلزية للأغراض الطبية مخصصة لعمل الدعامات القلبية المستخدمة لفتح الشرايين. السبيكة المبتكرة مصنوعة من التيتانيوم <span dir="ltr">Ti</span> مضافًا إليه فلز التنتاليوم <span dir="ltr">Ta</span> بنسبة 17% والنيوبيوم <span dir="ltr">Nb</span> بنسبة 6%، وتمتاز بمرونة فائقة وقوة كبيرة، وهي خالية من العناصر السامة أو تلك التي تسبب التهابات عصبية أو حساسية.</p></div>
+          </div>
+
+          <div class="check-card">
+            <b>أتحقق:</b>
+            <p>أفسر قابلية المواد الصلبة الفلزية للطرق والسحب.</p>
+            <details><summary>اعرض الإجابة</summary><p>لأن الطرق على صفوف الأيونات الموجبة يجعلها تنزلق مبتعدة عن بعضها، ولكنها تبقى مترابطة بفعل تجاذبها مع الإلكترونات الحرة؛ ومن ثم يمكن تشكيلها صفائح أو أسلاكًا أو قضبانًا.</p></details>
+          </div>
+        </article>
+      </section>
+
+      <section class="content-section" id="ionic" data-lesson-section="ionic-solids" data-title="المواد الأيونية" data-kicker="أيونات موجبة وسالبة برابطة قوية" data-mode="ionic">
+        <article class="lesson-card">
+          <span class="section-number">05</span>
+          <div class="section-tag pink">Ionic Solids</div>
+          <h2>المواد الصلبة <em>الأيونية</em></h2>
+          <p class="section-intro">تتكون جسيمات المواد الأيونية من أيونات موجبة وسالبة تتجاذب وتترابط برابطة أيونية قوية؛ لذلك فإن المواد الصلبة الأيونية شديدة الصلابة ودرجات انصهارها مرتفعة. ومن أمثلتها كلوريد البوتاسيوم <span dir="ltr">KCl</span> وأكسيد الكالسيوم <span dir="ltr">CaO</span> (الشكلان 25 و26).</p>
+
+          <div class="interaction-panel ionic-panel" data-science-sim="ionic-lattice">
+            <div class="interaction-heading"><div><span>شبكة أيونية متعادلة</span><strong>سخّن حتى الانصهار أو اطرق البلورة</strong></div><output id="ionicStateOut">صلبة - غير موصلة</output></div>
+            <div class="segmented two" role="group" aria-label="اختيار المادة الأيونية">
+              <button type="button" data-control-id="ion-kcl" data-ion="0" class="active">كلوريد البوتاسيوم KCl</button>
+              <button type="button" data-control-id="ion-cao" data-ion="1">أكسيد الكالسيوم CaO</button>
+            </div>
+            <label class="range-row" for="ionicTempControl"><span>درجة الحرارة</span><input id="ionicTempControl" data-control-id="ionic-temperature" data-scientific-variable="T" type="range" min="25" max="2600" step="25" value="25"><output id="ionicTempOut" dir="ltr">25 °C</output></label>
+            <div class="experiment-actions"><button class="primary-button small" id="strikeIonic" data-control-id="ionic-strike" type="button">اطرق البلورة الأيونية</button><button class="ghost-button dark small" id="restoreIonic" type="button">إعادة البلورة</button></div>
+            <div class="evidence-strip">
+              <div><span>درجة الانصهار</span><b id="ionicMpOut" dir="ltr">770 °C</b></div>
+              <div><span>التوصيل الكهربائي</span><b id="ionicConductOut">غير موصلة (صلبة)</b></div>
+              <div><span>عند الطرق</span><b id="fractureStateOut">تتحطم (هشة)</b></div>
+            </div>
+            <p class="model-note" data-verification-card="ionic"><strong>تحقق علمي:</strong> <span id="ionicInvariant">الشبكة متعادلة الشحنة دائمًا؛ قبل درجة الانصهار الأيونات مثبتة فلا توصل، وبعدها تصبح حرة فتوصل. والطرق يزلق المستويات فتتقارب الأيونات المتشابهة في الشحنة وتتنافر فتتحطم البلورة.</span></p>
+          </div>
+
+          <div class="concept-grid three">
+            <div class="concept-card"><span class="concept-icon hard-icon" aria-hidden="true"></span><h3>شديدة الصلابة</h3><p>الرابطة الأيونية قوية؛ لذلك درجات انصهارها مرتفعة: كلوريد البوتاسيوم 770 °C وأكسيد الكالسيوم 2572 °C.</p></div>
+            <div class="concept-card"><span class="concept-icon brittle-icon" aria-hidden="true"></span><h3>هشة تتحطم بالطرق</h3><p>عند الطرق تنزلق الأيونات بالنسبة إلى بعضها، فتتقارب المتشابهة في الشحنة وتتنافر، فيؤدي ذلك إلى تحطم البلورة.</p></div>
+            <div class="concept-card"><span class="concept-icon meltconduct-icon" aria-hidden="true"></span><h3>مصاهيرها ومحاليلها موصلة</h3><p>لا توصل وهي صلبة لأن أيوناتها غير حرة الحركة، أما عند صهرها أو إذابتها في الماء فتصبح أيوناتها حرة فتوصل التيار.</p></div>
+          </div>
+
+          <div class="check-card">
+            <b>أتحقق:</b>
+            <p>أفسر: رغم صلابة المركبات الأيونية إلا أنها هشة.</p>
+            <details><summary>اعرض الإجابة</summary><p>لأن تعرض البلورة للطرق يجعل أيوناتها تنزلق بالنسبة إلى بعضها بعضًا، بحيث تتقارب الأيونات المتشابهة في الشحنة فتتنافر، وهو ما يؤدي إلى تحطم البلورة.</p></details>
+          </div>
+        </article>
+      </section>
+
+      <section class="content-section" id="identify" data-lesson-section="identifying-solids" data-title="تحديد الأنواع" data-kicker="الخصائص الفيزيائية تكشف نوع المادة" data-mode="identify">
+        <article class="lesson-card">
+          <span class="section-number">06</span>
+          <div class="section-tag green">Identifying Types of Solids</div>
+          <h2>تحديد أنواع <em>المواد الصلبة</em></h2>
+          <p class="section-intro">تستخدم الخصائص الفيزيائية للبلورة الصلبة في توقع نوع المادة ما إذا كانت جزيئية أو شبكية تساهمية أو فلزية أو أيونية، كما يمكن معرفة نوع المادة من خلال معرفة نوع الجسيمات المكونة لها والروابط بينها.</p>
+
+          <div class="table-wrap" role="region" aria-label="الجدول 5: أنواع المواد الصلبة والخصائص العامة لكل نوع" tabindex="0">
+            <table>
+              <thead><tr><th>نوع المادة الصلبة</th><th>نوع الجسيمات</th><th>الروابط أو قوى الترابط</th><th>خصائص عامة للمادة الصلبة</th><th>أمثلة</th></tr></thead>
+              <tbody>
+                <tr><td>جزيئية</td><td>جزيئات وذرات الغازات النبيلة</td><td>روابط هيدروجينية، ثنائية القطب، لندن</td><td>درجة انصهار منخفضة، غير موصلة للكهرباء.</td><td dir="ltr">Ne(s), CH₄(s), S₈, C₁₂H₂₂O₁₁</td></tr>
+                <tr><td>شبكية تساهمية</td><td>ذرات</td><td>تساهمية</td><td>صلبة جدًا، درجة انصهارها مرتفعة، غير موصلة للكهرباء بوجه عام.</td><td dir="ltr">SiO₂, Si, SiC, C ماس</td></tr>
+                <tr><td>فلزية</td><td>ذرات</td><td>فلزية</td><td>صلبة، متفاوتة في درجة الانصهار وبوجه عام مرتفعة، قابلة للطرق والسحب، موصلة للكهرباء ومصاهيرها أيضًا موصلة.</td><td dir="ltr">K, Al, Cu, Ag, Ni, Ba</td></tr>
+                <tr><td>أيونية</td><td>أيونات</td><td>أيونية</td><td>صلبة، هشة، درجة انصهار مرتفعة، غير موصلة للكهرباء، بينما محاليلها ومصاهيرها موصلة.</td><td dir="ltr">LiF, CaF₂, ZnS, NaCl</td></tr>
+              </tbody>
+            </table>
+          </div>
+
+          <div class="interaction-panel identify-panel" data-science-sim="classification-lab">
+            <div class="interaction-heading"><div><span>مختبر التصنيف</span><strong>أدخل خصائص مادة مجهولة وشاهد النوع المتوقع</strong></div><output id="predictedTypeOut">أيونية</output></div>
+            <label class="range-row" for="mpControl"><span>درجة الانصهار</span><input id="mpControl" data-control-id="mp-input" data-scientific-variable="mp" type="range" min="0" max="3000" step="10" value="730"><output id="mpOut" dir="ltr">730 °C</output></label>
+            <label class="range-row" for="hardnessControl"><span>القساوة</span><input id="hardnessControl" data-control-id="hardness-input" data-scientific-variable="hardness" type="range" min="1" max="10" step="1" value="5"><output id="hardnessOut">5 / 10</output></label>
+            <div class="toggle-grid">
+              <div class="toggle-block"><span class="toggle-label">التوصيل في الحالة الصلبة</span><div class="segmented two" role="group" aria-label="التوصيل في الحالة الصلبة"><button type="button" data-control-id="cs-no" data-cs="0" class="active">لا توصل</button><button type="button" data-control-id="cs-yes" data-cs="1">توصل</button></div></div>
+              <div class="toggle-block"><span class="toggle-label">توصيل المصهور أو المحلول</span><div class="segmented two" role="group" aria-label="توصيل المصهور أو المحلول"><button type="button" data-control-id="cm-no" data-cm="0">لا توصل</button><button type="button" data-control-id="cm-yes" data-cm="1" class="active">توصل</button></div></div>
+              <div class="toggle-block"><span class="toggle-label">الهشاشة</span><div class="segmented two" role="group" aria-label="الهشاشة"><button type="button" data-control-id="br-no" data-br="0">غير هشة</button><button type="button" data-control-id="br-yes" data-br="1" class="active">هشة</button></div></div>
+            </div>
+            <div class="preset-row" role="group" aria-label="حالات جاهزة من الدرس">
+              <span>جرّب حالات الدرس:</span>
+              <button type="button" class="preset" data-preset="ex11a">المثال 11 - أ</button>
+              <button type="button" class="preset" data-preset="ex11b">المثال 11 - ب</button>
+              <button type="button" class="preset" data-preset="q5a">س5 - أ</button>
+              <button type="button" class="preset" data-preset="q5b">س5 - ب</button>
+              <button type="button" class="preset" data-preset="q5c">س5 - ج</button>
+              <button type="button" class="preset" data-preset="q5d">س5 - د</button>
+            </div>
+            <div class="verification-card" data-verification-card="identify"><strong>النوع المتوقع والتعليل</strong><p id="classifyRationale">لا توصل وهي صلبة لكن مصهورها أو محلولها يوصل؛ وهذه الصفة مميزة للمركبات الأيونية، ودرجة انصهارها مرتفعة نسبيًا.</p></div>
+            <p class="model-note">عتبات تعليمية معلنة: انصهار منخفض أقل من 400 °C، وانصهار مرتفع جدًا من 1500 °C فأكثر، والقساوة الشديدة 8/10 فأكثر، وفق قواعد الجدول 5.</p>
+          </div>
+
+          <details class="worked-example"><summary><span>المثال 11</span> افتح لعرض المعطيات والحل</summary><div>
+            <p><b>أحدد نوع المادة الصلبة البلورية لكل مما يأتي:</b></p>
+            <ol>
+              <li>مادة (A) بيضاء اللون تنصهر على درجة حرارة 730 °C غير موصلة للكهرباء، بينما محلولها موصل للكهرباء.</li>
+              <li>مادة (B) شديدة الصلابة وشفافة وتنصهر عند درجة حرارة 3000 °C.</li>
+            </ol>
+            <p><b>المعطيات:</b> أ - درجة انصهار المادة A: 730 °C، التوصيل للكهرباء: غير موصلة في الحالة الصلبة ومحلولها موصل. ب - المادة B شديدة الصلابة، درجة انصهار المادة B: 3000 °C.</p>
+            <p><b>الحل:</b> أ - درجة انصهار المادة A مرتفعة نسبيًا، وتشترك المواد الفلزية والأيونية في هذه الصفة، وكذلك فإن المادة A غير موصلة للكهرباء في حالة الصلابة، بينما محلولها موصل للكهرباء وهذه الصفة مميزة للمركبات الأيونية؛ فالمادة A أيونية. ب - بما أن المادة B شديدة الصلابة ودرجة انصهارها مرتفعة وهي صفات المواد الشبكية التساهمية؛ فالمادة B شبكية تساهمية.</p>
+          </div></details>
+
+          <details class="worked-example"><summary><span>المثال 12</span> افتح لعرض الحل</summary><div>
+            <p><b>أحدد نوع كل من المواد الصلبة البلورية الآتية:</b> <span dir="ltr">HF(s), Fe, Na₂O, Si</span></p>
+            <p><b>الحل:</b></p>
+            <ul>
+              <li><span dir="ltr">HF</span>: جزيئية؛ لأنها تتكون من جزيئات تترابط بروابط هيدروجينية.</li>
+              <li><span dir="ltr">Fe</span>: فلزية؛ الحديد فلز تترابط ذراته بروابط فلزية.</li>
+              <li><span dir="ltr">Na₂O</span>: أيونية؛ لأن الرابطة بين أيونات <span dir="ltr">Na⁺</span> وأيونات <span dir="ltr">O²⁻</span> رابطة أيونية.</li>
+              <li><span dir="ltr">Si</span>: شبكية تساهمية؛ لأن ذراتها تترابط بروابط تساهمية في بناء شبكي صلب.</li>
+            </ul>
+          </div></details>
+        </article>
+      </section>
+
+      <section class="content-section" id="assessment" data-lesson-section="assessment" data-title="مراجعة الدرس" data-kicker="تحقق من الفهم" data-mode="solid">
+        <article class="lesson-card assessment-card">
+          <span class="section-number">07</span>
+          <div class="section-tag green">مراجعة الدرس</div>
+          <h2>اختبر فهمك <em>فورًا</em></h2>
+          <p class="section-intro">اختر الإجابة، ثم احصل على تفسير مختصر. يمكنك إعادة الاختبار دون تحديث الصفحة. الأسئلة من مراجعة الدرس في الكتاب.</p>
+
+          <form id="quizForm" class="quiz" novalidate data-final-assessment>
+            <fieldset data-answer="b"><legend>1. أي العبارات الآتية من خصائص المادة في الحالة الصلبة؟</legend><label><input type="radio" name="q1" value="a" aria-label="تتدفق وتأخذ شكل الإناء الذي توضع فيه">  تتدفق وتأخذ شكل الإناء الذي توضع فيه</label><label><input type="radio" name="q1" value="b" aria-label="جسيماتها تهتز في أماكنها، وشكلها وحجمها ثابتان">  جسيماتها تهتز في أماكنها، وشكلها وحجمها ثابتان</label><label><input type="radio" name="q1" value="c" aria-label="قابلة للانضغاط لتراص جسيماتها">  قابلة للانضغاط لتراص جسيماتها</label><label><input type="radio" name="q1" value="d" aria-label="كثافتها منخفضة لتباعد جسيماتها">  كثافتها منخفضة لتباعد جسيماتها</label><p class="quiz-feedback"></p></fieldset>
+            <fieldset data-answer="b"><legend>2. المادة الصلبة غير البلورية:</legend><label><input type="radio" name="q2" value="a" aria-label="جسيماتها مترتبة بأشكال هندسية منتظمة">  جسيماتها مترتبة بأشكال هندسية منتظمة</label><label><input type="radio" name="q2" value="b" aria-label="جسيماتها مترتبة عشوائيًا وليس لها شكل هندسي منتظم">  جسيماتها مترتبة عشوائيًا وليس لها شكل هندسي منتظم</label><label><input type="radio" name="q2" value="c" aria-label="من أمثلتها الماس وكلوريد الصوديوم">  من أمثلتها الماس وكلوريد الصوديوم</label><label><input type="radio" name="q2" value="d" aria-label="تسمى مادة بلورية أحيانًا">  تسمى مادة بلورية أحيانًا</label><p class="quiz-feedback"></p></fieldset>
+            <fieldset data-answer="a"><legend>3. ما نوع الروابط بين ذرات الكربون داخل الجزيء الواحد من بكمنسترفولرين، وما نوع قوى التجاذب بين جزيئاته؟</legend><label><input type="radio" name="q3" value="a" aria-label="روابط تساهمية داخل الجزيء، وقوى لندن بين الجزيئات">  روابط تساهمية داخل الجزيء، وقوى لندن بين الجزيئات</label><label><input type="radio" name="q3" value="b" aria-label="قوى لندن داخل الجزيء، وروابط تساهمية بين الجزيئات">  قوى لندن داخل الجزيء، وروابط تساهمية بين الجزيئات</label><label><input type="radio" name="q3" value="c" aria-label="روابط هيدروجينية داخل الجزيء، وقوى لندن بين الجزيئات">  روابط هيدروجينية داخل الجزيء، وقوى لندن بين الجزيئات</label><label><input type="radio" name="q3" value="d" aria-label="روابط أيونية في كلتا الحالتين">  روابط أيونية في كلتا الحالتين</label><p class="quiz-feedback"></p></fieldset>
+            <fieldset data-answer="c"><legend>4. إحدى المواد الآتية صلبة وهشة ودرجة انصهارها مرتفعة:</legend><label><input type="radio" name="q4" value="a" aria-label="SiF₄">  SiF₄</label><label><input type="radio" name="q4" value="b" aria-label="ماس C">  ماس C</label><label><input type="radio" name="q4" value="c" aria-label="KCl">  KCl</label><label><input type="radio" name="q4" value="d" aria-label="Cu">  Cu</label><p class="quiz-feedback"></p></fieldset>
+            <fieldset data-answer="b"><legend>5. إحدى العبارات الآتية ليست من صفات مادة بكمنسترفولرين:</legend><label><input type="radio" name="q5" value="a" aria-label="تكون بلورات إبرية الشكل">  تكون بلورات إبرية الشكل</label><label><input type="radio" name="q5" value="b" aria-label="تترابط ذراتها مكونة حلقات سداسية مرتبطة ببعضها">  تترابط ذراتها مكونة حلقات سداسية مرتبطة ببعضها</label><label><input type="radio" name="q5" value="c" aria-label="غير موصلة للتيار الكهربائي">  غير موصلة للتيار الكهربائي</label><label><input type="radio" name="q5" value="d" aria-label="تتكون من ذرات الكربون">  تتكون من ذرات الكربون</label><p class="quiz-feedback"></p></fieldset>
+            <fieldset data-answer="a"><legend>6. المادة الصلبة التي لها أعلى درجة انصهار:</legend><label><input type="radio" name="q6" value="a" aria-label="MgO">  MgO</label><label><input type="radio" name="q6" value="b" aria-label="NO₂">  NO₂</label><label><input type="radio" name="q6" value="c" aria-label="Cl₂O">  Cl₂O</label><label><input type="radio" name="q6" value="d" aria-label="SO₃">  SO₃</label><p class="quiz-feedback"></p></fieldset>
+            <fieldset data-answer="d"><legend>7. إحدى المواد الآتية صلبة جزيئية:</legend><label><input type="radio" name="q7" value="a" aria-label="Al">  Al</label><label><input type="radio" name="q7" value="b" aria-label="BaCl₂">  BaCl₂</label><label><input type="radio" name="q7" value="c" aria-label="Si">  Si</label><label><input type="radio" name="q7" value="d" aria-label="P₄">  P₄</label><p class="quiz-feedback"></p></fieldset>
+            <fieldset data-answer="d"><legend>8. مادة شديدة الصلابة، درجة انصهارها 2730 °C، ولا يوصل مصهورها الكهرباء. ما نوعها؟</legend><label><input type="radio" name="q8" value="a" aria-label="فلزية">  فلزية</label><label><input type="radio" name="q8" value="b" aria-label="أيونية">  أيونية</label><label><input type="radio" name="q8" value="c" aria-label="جزيئية">  جزيئية</label><label><input type="radio" name="q8" value="d" aria-label="شبكية تساهمية">  شبكية تساهمية</label><p class="quiz-feedback"></p></fieldset>
+            <div class="quiz-actions"><button class="primary-button" type="submit">صحح الإجابات</button><button class="ghost-button dark" id="resetQuiz" type="button">إعادة الاختبار</button><output id="quizScore" aria-live="polite">لم يتم التصحيح بعد</output></div>
+          </form>
+
+          <div class="review-grid">
+            <details><summary>أوضح الأنواع الرئيسة للمواد الصلبة البلورية (سؤال 1).</summary><p>أربعة أنواع: المواد الصلبة الجزيئية، والمواد الصلبة الشبكية التساهمية، والمواد الصلبة الفلزية، والمواد الصلبة الأيونية.</p></details>
+            <details><summary>ما المقصود بالمادة الصلبة البلورية وغير البلورية؟ (سؤال 2)</summary><p>البلورية: مادة صلبة جسيماتها مترتبة بأشكال هندسية منتظمة. غير البلورية: مادة صلبة جسيماتها مترتبة عشوائيًا وليس لها شكل هندسي منتظم.</p></details>
+            <details><summary>أحدد الروابط أو قوى الترابط في كل نوع (سؤال 3).</summary><p>الجزيئية: روابط هيدروجينية أو ثنائية القطب أو قوى لندن. الشبكية التساهمية: روابط تساهمية. الفلزية: روابط فلزية. الأيونية: روابط أيونية.</p></details>
+            <details><summary>أحدد نوع كل من NH₃ وSiC وNi وKI (سؤال 4).</summary><p>NH₃ جزيئية؛ لأن جزيئاتها تترابط بروابط هيدروجينية. SiC شبكية تساهمية؛ ذراتها مرتبطة بروابط تساهمية في بناء شبكي. Ni فلزية؛ النيكل فلز ذراته مرتبطة بروابط فلزية. KI أيونية؛ الرابطة بين أيوناته أيونية.</p></details>
+          </div>
+        </article>
+      </section>
+    </div>
+  </main>
+
+  <!-- FOOTER_LOCK_START -->
+  <footer>
+    <div class="footer-brand">
+      <strong>الطيف في الكيمياء</strong>
+      <span>الحالة الصلبة — تجربة تدريسية تفاعلية</span>
+    </div>
+    <p>إعداد وتقديم: المهندس معتصم جادالله</p>
+    <a href="#hero">العودة إلى الأعلى ↑</a>
+  </footer>
+  <!-- FOOTER_LOCK_END -->
+
+  <noscript><div class="noscript">يلزم تفعيل JavaScript لتشغيل المحاكيات التفاعلية.</div></noscript>
+  <script src="app.js"></script>
+</body>
+</html>

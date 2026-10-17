@@ -1,0 +1,23 @@
+{
+  "created_at": "2026-10-15T14:26:17.748222+00:00",
+  "description": "Integrate single-lesson labs into the full lab site.",
+  "device_id": "9aa33914856a433a964cc3cdf0bdc34f",
+  "device_name": "MJ",
+  "files": {
+    "SKILL.md": "992edb9d4504a0781f669c407256df0baf3f294a79090ef2110a1de990057d80",
+    "references/brand.md": "af847586fedb546580e55e98f9420a330872b08d5b782e0b264e4a64bd97546d",
+    "references/deploy.md": "09f66738e7e73a04388360a71e0fc4d005daefafabd6e64a1009a4e819987701",
+    "references/docker/Dockerfile.frontend": "f5162d1fa1543585b52a599cb1ab1d37f31104d8959dde0845d5ecf737bde46c",
+    "references/docker/docker-compose.yml": "71373a3156f2f7967575b75b5492c769c73161c8f71fad7342df8835ca60d8c6",
+    "references/docker/nginx.conf": "ae4f6449290109a812d09fb1cccbe8c6d6eefac9dd89c1a61d4cb80a0f55b454",
+    "references/template.md": "e7662f6ae8f8bb922edfe0aba3426fc4efe9878067b540149e6331287f9c4d7e",
+    "scripts/scaffold.py": "44f8cfbe6b9b67e2acd0f4d7ae08223cbb7926d009e27731e5ebe3ae077fa9d2"
+  },
+  "hash": "a2a3f9611bd66db7720ee68056ccbf6bcc4e2c405a001f8f6585926b8a127c96",
+  "id": "chem-spectrum-lab-04-integration",
+  "name": "chem-spectrum-lab-04-integration",
+  "note": "أرشفة أولية",
+  "size": 30596,
+  "title": "Chem Spectrum Lab — Step 04: Integration",
+  "version": "1.0.0"
+}
