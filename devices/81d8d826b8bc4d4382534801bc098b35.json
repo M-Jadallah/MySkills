@@ -1,8 +1,14 @@
 {
   "id": "81d8d826b8bc4d4382534801bc098b35",
-  "last_seen": "2026-10-17T14:40:37.910857+00:00",
+  "last_seen": "2026-10-17T15:09:56.253964+00:00",
   "name": "victusamd",
   "skills": {
+    "arabic-lesson-formatter-sequential": {
+      "agents": {
+        "shared": "1.0.0"
+      },
+      "workspace": null
+    },
     "arabic-lesson-maps": {
       "agents": {
         "shared": "1.0.0"
