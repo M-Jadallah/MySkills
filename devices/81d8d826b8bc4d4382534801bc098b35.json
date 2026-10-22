@@ -1,11 +1,24 @@
 {
   "id": "81d8d826b8bc4d4382534801bc098b35",
-  "last_seen": "2026-10-03T14:23:05.675186+00:00",
+  "last_seen": "2026-10-18T13:42:26.255948+00:00",
   "name": "victusamd",
   "skills": {
+    "arabic-lesson-formatter-sequential": {
+      "agents": {
+        "shared": "1.0.0"
+      },
+      "workspace": null
+    },
+    "arabic-lesson-maps": {
+      "agents": {
+        "shared": "1.0.0"
+      },
+      "workspace": null
+    },
     "arabic-lesson-rewriter": {
       "agents": {
-        "codex": "1.0.0"
+        "codex": "1.0.0",
+        "shared": "1.0.0"
       },
       "workspace": null
     },
@@ -17,7 +30,8 @@
     },
     "nahw-sarf-lesson-rewriter": {
       "agents": {
-        "codex": "1.0.0"
+        "codex": "1.0.0",
+        "shared": "1.0.0"
       },
       "workspace": null
     }
