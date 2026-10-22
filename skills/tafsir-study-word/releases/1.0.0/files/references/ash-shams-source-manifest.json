@@ -1,0 +1,1430 @@
+[
+  {
+    "id": 1,
+    "file_name": "01_التحرير والتنوير لابن عاشور.txt",
+    "name": "التحرير والتنوير لابن عاشور",
+    "author": "Muhammad al-Tahir ibn Ashur",
+    "blocks": [
+      {
+        "label": "الآية 1",
+        "verses": [
+          1
+        ],
+        "sha256_prefix": "cc0f40ac89",
+        "characters": 9850
+      },
+      {
+        "label": "الآية 2",
+        "verses": [
+          2
+        ],
+        "sha256_prefix": "cc0f40ac89",
+        "characters": 9850
+      },
+      {
+        "label": "الآية 3",
+        "verses": [
+          3
+        ],
+        "sha256_prefix": "cc0f40ac89",
+        "characters": 9850
+      },
+      {
+        "label": "الآية 4",
+        "verses": [
+          4
+        ],
+        "sha256_prefix": "cc0f40ac89",
+        "characters": 9850
+      },
+      {
+        "label": "الآية 5",
+        "verses": [
+          5
+        ],
+        "sha256_prefix": "cc0f40ac89",
+        "characters": 9850
+      },
+      {
+        "label": "الآية 6",
+        "verses": [
+          6
+        ],
+        "sha256_prefix": "cc0f40ac89",
+        "characters": 9850
+      },
+      {
+        "label": "الآية 7",
+        "verses": [
+          7
+        ],
+        "sha256_prefix": "cc0f40ac89",
+        "characters": 9850
+      },
+      {
+        "label": "الآية 8",
+        "verses": [
+          8
+        ],
+        "sha256_prefix": "cc0f40ac89",
+        "characters": 9850
+      },
+      {
+        "label": "الآية 9",
+        "verses": [
+          9
+        ],
+        "sha256_prefix": "210c8a0279",
+        "characters": 2802
+      },
+      {
+        "label": "الآية 10",
+        "verses": [
+          10
+        ],
+        "sha256_prefix": "210c8a0279",
+        "characters": 2802
+      },
+      {
+        "label": "الآية 11",
+        "verses": [
+          11
+        ],
+        "sha256_prefix": "fc1a55220b",
+        "characters": 6438
+      },
+      {
+        "label": "الآية 12",
+        "verses": [
+          12
+        ],
+        "sha256_prefix": "fc1a55220b",
+        "characters": 6438
+      },
+      {
+        "label": "الآية 13",
+        "verses": [
+          13
+        ],
+        "sha256_prefix": "fc1a55220b",
+        "characters": 6438
+      },
+      {
+        "label": "الآية 14",
+        "verses": [
+          14
+        ],
+        "sha256_prefix": "fbb0ee3f4f",
+        "characters": 3119
+      },
+      {
+        "label": "الآية 15",
+        "verses": [
+          15
+        ],
+        "sha256_prefix": "fbb0ee3f4f",
+        "characters": 3119
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "file_name": "02_تفسير الطبري.txt",
+    "name": "تفسير الطبري",
+    "author": "Tabari",
+    "blocks": [
+      {
+        "label": "الآية 1",
+        "verses": [
+          1
+        ],
+        "sha256_prefix": "41f7039e6c",
+        "characters": 759
+      },
+      {
+        "label": "الآية 2",
+        "verses": [
+          2
+        ],
+        "sha256_prefix": "eb93cd139d",
+        "characters": 1163
+      },
+      {
+        "label": "الآية 3",
+        "verses": [
+          3
+        ],
+        "sha256_prefix": "28d59408b7",
+        "characters": 611
+      },
+      {
+        "label": "الآية 4",
+        "verses": [
+          4
+        ],
+        "sha256_prefix": "d9487208cc",
+        "characters": 241
+      },
+      {
+        "label": "الآية 5",
+        "verses": [
+          5
+        ],
+        "sha256_prefix": "c5f6856c19",
+        "characters": 880
+      },
+      {
+        "label": "الآية 6",
+        "verses": [
+          6
+        ],
+        "sha256_prefix": "cce3e6e459",
+        "characters": 920
+      },
+      {
+        "label": "الآية 7",
+        "verses": [
+          7
+        ],
+        "sha256_prefix": "ae8fcf5537",
+        "characters": 254
+      },
+      {
+        "label": "الآية 8",
+        "verses": [
+          8
+        ],
+        "sha256_prefix": "a3f4e1550e",
+        "characters": 2598
+      },
+      {
+        "label": "الآية 9",
+        "verses": [
+          9
+        ],
+        "sha256_prefix": "95bbb7339b",
+        "characters": 1213
+      },
+      {
+        "label": "الآية 10",
+        "verses": [
+          10
+        ],
+        "sha256_prefix": "08c542bfd3",
+        "characters": 1683
+      },
+      {
+        "label": "الآية 11",
+        "verses": [
+          11
+        ],
+        "sha256_prefix": "5cc3680c91",
+        "characters": 1646
+      },
+      {
+        "label": "الآية 12",
+        "verses": [
+          12
+        ],
+        "sha256_prefix": "6b9f5920b8",
+        "characters": 477
+      },
+      {
+        "label": "الآية 13",
+        "verses": [
+          13
+        ],
+        "sha256_prefix": "0abac1384b",
+        "characters": 495
+      },
+      {
+        "label": "الآية 14",
+        "verses": [
+          14
+        ],
+        "sha256_prefix": "bda7085e75",
+        "characters": 1703
+      },
+      {
+        "label": "الآية 15",
+        "verses": [
+          15
+        ],
+        "sha256_prefix": "3a790d9615",
+        "characters": 2976
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "file_name": "03_التفسير الميسر.txt",
+    "name": "التفسير الميسر",
+    "author": "المیسر",
+    "blocks": [
+      {
+        "label": "الآية 1",
+        "verses": [
+          1
+        ],
+        "sha256_prefix": "78d9bb6997",
+        "characters": 345
+      },
+      {
+        "label": "الآية 2",
+        "verses": [
+          2
+        ],
+        "sha256_prefix": "78d9bb6997",
+        "characters": 345
+      },
+      {
+        "label": "الآية 3",
+        "verses": [
+          3
+        ],
+        "sha256_prefix": "78d9bb6997",
+        "characters": 345
+      },
+      {
+        "label": "الآية 4",
+        "verses": [
+          4
+        ],
+        "sha256_prefix": "78d9bb6997",
+        "characters": 345
+      },
+      {
+        "label": "الآية 5",
+        "verses": [
+          5
+        ],
+        "sha256_prefix": "78d9bb6997",
+        "characters": 345
+      },
+      {
+        "label": "الآية 6",
+        "verses": [
+          6
+        ],
+        "sha256_prefix": "78d9bb6997",
+        "characters": 345
+      },
+      {
+        "label": "الآية 7",
+        "verses": [
+          7
+        ],
+        "sha256_prefix": "78d9bb6997",
+        "characters": 345
+      },
+      {
+        "label": "الآية 8",
+        "verses": [
+          8
+        ],
+        "sha256_prefix": "78d9bb6997",
+        "characters": 345
+      },
+      {
+        "label": "الآية 9",
+        "verses": [
+          9
+        ],
+        "sha256_prefix": "78d9bb6997",
+        "characters": 345
+      },
+      {
+        "label": "الآية 10",
+        "verses": [
+          10
+        ],
+        "sha256_prefix": "78d9bb6997",
+        "characters": 345
+      },
+      {
+        "label": "الآية 11",
+        "verses": [
+          11
+        ],
+        "sha256_prefix": "a56aa44bd1",
+        "characters": 448
+      },
+      {
+        "label": "الآية 12",
+        "verses": [
+          12
+        ],
+        "sha256_prefix": "431c3c5732",
+        "characters": 448
+      },
+      {
+        "label": "الآية 13",
+        "verses": [
+          13
+        ],
+        "sha256_prefix": "431c3c5732",
+        "characters": 448
+      },
+      {
+        "label": "الآية 14",
+        "verses": [
+          14
+        ],
+        "sha256_prefix": "431c3c5732",
+        "characters": 448
+      },
+      {
+        "label": "الآية 15",
+        "verses": [
+          15
+        ],
+        "sha256_prefix": "431c3c5732",
+        "characters": 448
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "file_name": "04_تفسير البغوي‎.txt",
+    "name": "تفسير البغوي‎",
+    "author": "Baghawy",
+    "blocks": [
+      {
+        "label": "الآية 1",
+        "verses": [
+          1
+        ],
+        "sha256_prefix": "e6be065946",
+        "characters": 187
+      },
+      {
+        "label": "الآية 2",
+        "verses": [
+          2
+        ],
+        "sha256_prefix": "15931c215a",
+        "characters": 208
+      },
+      {
+        "label": "الآية 3",
+        "verses": [
+          3
+        ],
+        "sha256_prefix": "e752690fce",
+        "characters": 75
+      },
+      {
+        "label": "الآية 4",
+        "verses": [
+          4
+        ],
+        "sha256_prefix": "ce5ecdf6f7",
+        "characters": 59
+      },
+      {
+        "label": "الآية 5",
+        "verses": [
+          5
+        ],
+        "sha256_prefix": "6e0a141d8d",
+        "characters": 218
+      },
+      {
+        "label": "الآية 6",
+        "verses": [
+          6
+        ],
+        "sha256_prefix": "6a4d0da366",
+        "characters": 26
+      },
+      {
+        "label": "الآية 7",
+        "verses": [
+          7
+        ],
+        "sha256_prefix": "f82b59de82",
+        "characters": 84
+      },
+      {
+        "label": "الآية 8",
+        "verses": [
+          8
+        ],
+        "sha256_prefix": "e67331b2fe",
+        "characters": 2210
+      },
+      {
+        "label": "الآية 9",
+        "verses": [
+          9
+        ],
+        "sha256_prefix": "a6e07366d0",
+        "characters": 108
+      },
+      {
+        "label": "الآية 10",
+        "verses": [
+          10
+        ],
+        "sha256_prefix": "4303d8ead0",
+        "characters": 877
+      },
+      {
+        "label": "الآية 11",
+        "verses": [
+          11
+        ],
+        "sha256_prefix": "76797e3bc9",
+        "characters": 82
+      },
+      {
+        "label": "الآية 12",
+        "verses": [
+          12
+        ],
+        "sha256_prefix": "60203f51ba",
+        "characters": 578
+      },
+      {
+        "label": "الآية 13",
+        "verses": [
+          13
+        ],
+        "sha256_prefix": "4843c30985",
+        "characters": 210
+      },
+      {
+        "label": "الآية 14",
+        "verses": [
+          14
+        ],
+        "sha256_prefix": "f74f5a6105",
+        "characters": 336
+      },
+      {
+        "label": "الآية 15",
+        "verses": [
+          15
+        ],
+        "sha256_prefix": "a6bf973bbf",
+        "characters": 365
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "file_name": "05_الـتـفـسـيـر الـوسـيـط.txt",
+    "name": "الـتـفـسـيـر الـوسـيـط",
+    "author": "Waseet",
+    "blocks": [
+      {
+        "label": "الآية 1",
+        "verses": [
+          1
+        ],
+        "sha256_prefix": "21efd6e6f0",
+        "characters": 719
+      },
+      {
+        "label": "الآية 2",
+        "verses": [
+          2
+        ],
+        "sha256_prefix": "6b651ec488",
+        "characters": 662
+      },
+      {
+        "label": "الآية 3",
+        "verses": [
+          3
+        ],
+        "sha256_prefix": "109da9e430",
+        "characters": 490
+      },
+      {
+        "label": "الآية 4",
+        "verses": [
+          4
+        ],
+        "sha256_prefix": "231e037045",
+        "characters": 454
+      },
+      {
+        "label": "الآية 5",
+        "verses": [
+          5
+        ],
+        "sha256_prefix": "8ad7ae4394",
+        "characters": 603
+      },
+      {
+        "label": "الآية 6",
+        "verses": [
+          6
+        ],
+        "sha256_prefix": "a64e83b5f9",
+        "characters": 158
+      },
+      {
+        "label": "الآية 7",
+        "verses": [
+          7
+        ],
+        "sha256_prefix": "2d5ed6599b",
+        "characters": 341
+      },
+      {
+        "label": "الآية 8",
+        "verses": [
+          8
+        ],
+        "sha256_prefix": "d71518b138",
+        "characters": 1059
+      },
+      {
+        "label": "الآية 9",
+        "verses": [
+          9
+        ],
+        "sha256_prefix": "f20fdcb8c1",
+        "characters": 203
+      },
+      {
+        "label": "الآية 10",
+        "verses": [
+          10
+        ],
+        "sha256_prefix": "8ad7e73661",
+        "characters": 973
+      },
+      {
+        "label": "الآية 11",
+        "verses": [
+          11
+        ],
+        "sha256_prefix": "a14d56beb4",
+        "characters": 1374
+      },
+      {
+        "label": "الآية 12",
+        "verses": [
+          12
+        ],
+        "sha256_prefix": "0e87deb494",
+        "characters": 1505
+      },
+      {
+        "label": "الآية 13",
+        "verses": [
+          13
+        ],
+        "sha256_prefix": "4c1f67c5d1",
+        "characters": 994
+      },
+      {
+        "label": "الآية 14",
+        "verses": [
+          14
+        ],
+        "sha256_prefix": "b4b2961de3",
+        "characters": 641
+      },
+      {
+        "label": "الآية 15",
+        "verses": [
+          15
+        ],
+        "sha256_prefix": "2587396bc9",
+        "characters": 580
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "file_name": "06_تفسير القرطبي‎.txt",
+    "name": "تفسير القرطبي‎",
+    "author": "Qurtubi",
+    "blocks": [
+      {
+        "label": "الآية 1",
+        "verses": [
+          1
+        ],
+        "sha256_prefix": "f3acf71730",
+        "characters": 1224
+      },
+      {
+        "label": "الآية 2",
+        "verses": [
+          2
+        ],
+        "sha256_prefix": "a9896beb7e",
+        "characters": 427
+      },
+      {
+        "label": "الآية 3",
+        "verses": [
+          3
+        ],
+        "sha256_prefix": "e4f1db1882",
+        "characters": 491
+      },
+      {
+        "label": "الآية 4",
+        "verses": [
+          4
+        ],
+        "sha256_prefix": "83049e9182",
+        "characters": 161
+      },
+      {
+        "label": "الآية 5",
+        "verses": [
+          5
+        ],
+        "sha256_prefix": "cd94f924f4",
+        "characters": 294
+      },
+      {
+        "label": "الآية 6",
+        "verses": [
+          6
+        ],
+        "sha256_prefix": "ee142fef79",
+        "characters": 704
+      },
+      {
+        "label": "الآية 7",
+        "verses": [
+          7
+        ],
+        "sha256_prefix": "561a2d8751",
+        "characters": 335
+      },
+      {
+        "label": "الآية 8",
+        "verses": [
+          8
+        ],
+        "sha256_prefix": "8e964dcb9d",
+        "characters": 1719
+      },
+      {
+        "label": "الآية 9",
+        "verses": [
+          9
+        ],
+        "sha256_prefix": "e5017d0979",
+        "characters": 598
+      },
+      {
+        "label": "الآية 10",
+        "verses": [
+          10
+        ],
+        "sha256_prefix": "0fcc2984ec",
+        "characters": 1057
+      },
+      {
+        "label": "الآية 11",
+        "verses": [
+          11
+        ],
+        "sha256_prefix": "905293ed6f",
+        "characters": 566
+      },
+      {
+        "label": "الآية 12",
+        "verses": [
+          12
+        ],
+        "sha256_prefix": "d2fc1efdaa",
+        "characters": 402
+      },
+      {
+        "label": "الآية 13",
+        "verses": [
+          13
+        ],
+        "sha256_prefix": "69e3d28dd7",
+        "characters": 488
+      },
+      {
+        "label": "الآية 14",
+        "verses": [
+          14
+        ],
+        "sha256_prefix": "317b6982fb",
+        "characters": 1410
+      },
+      {
+        "label": "الآية 15",
+        "verses": [
+          15
+        ],
+        "sha256_prefix": "1f4c60560a",
+        "characters": 941
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "file_name": "07_تفسیر ابنِ کثیر.txt",
+    "name": "تفسیر ابنِ کثیر",
+    "author": "Hafiz Ibn Kathir",
+    "blocks": [
+      {
+        "label": "الآية 1",
+        "verses": [
+          1
+        ],
+        "sha256_prefix": "397c0467a5",
+        "characters": 370
+      },
+      {
+        "label": "الآية 2",
+        "verses": [
+          2
+        ],
+        "sha256_prefix": "e34ca2583a",
+        "characters": 336
+      },
+      {
+        "label": "الآية 3",
+        "verses": [
+          3
+        ],
+        "sha256_prefix": "85210086ce",
+        "characters": 537
+      },
+      {
+        "label": "الآية 4",
+        "verses": [
+          4
+        ],
+        "sha256_prefix": "d489517583",
+        "characters": 267
+      },
+      {
+        "label": "الآية 5",
+        "verses": [
+          5
+        ],
+        "sha256_prefix": "b4fc73b161",
+        "characters": 326
+      },
+      {
+        "label": "الآية 6",
+        "verses": [
+          6
+        ],
+        "sha256_prefix": "90926cb040",
+        "characters": 389
+      },
+      {
+        "label": "الآية 7",
+        "verses": [
+          7
+        ],
+        "sha256_prefix": "24946dace7",
+        "characters": 547
+      },
+      {
+        "label": "الآية 8",
+        "verses": [
+          8
+        ],
+        "sha256_prefix": "e67ec06fa9",
+        "characters": 1297
+      },
+      {
+        "label": "الآية 9",
+        "verses": [
+          9
+        ],
+        "sha256_prefix": "a1f4474b9c",
+        "characters": 261
+      },
+      {
+        "label": "الآية 10",
+        "verses": [
+          10
+        ],
+        "sha256_prefix": "807aeb4d24",
+        "characters": 2167
+      },
+      {
+        "label": "الآية 11",
+        "verses": [
+          11
+        ],
+        "sha256_prefix": "b8145ed14f",
+        "characters": 235
+      },
+      {
+        "label": "الآية 12",
+        "verses": [
+          12
+        ],
+        "sha256_prefix": "5f402b680a",
+        "characters": 1020
+      },
+      {
+        "label": "الآية 13",
+        "verses": [
+          13
+        ],
+        "sha256_prefix": "1cce4ac2b8",
+        "characters": 176
+      },
+      {
+        "label": "الآية 14",
+        "verses": [
+          14
+        ],
+        "sha256_prefix": "7cc6463946",
+        "characters": 393
+      },
+      {
+        "label": "الآية 15",
+        "verses": [
+          15
+        ],
+        "sha256_prefix": "c23406acef",
+        "characters": 325
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "file_name": "08_تفسير السعدي.txt",
+    "name": "تفسير السعدي",
+    "author": "Saddi",
+    "blocks": [
+      {
+        "label": "الآية 1",
+        "verses": [
+          1
+        ],
+        "sha256_prefix": "135ea5cecb",
+        "characters": 139
+      },
+      {
+        "label": "الآية 2",
+        "verses": [
+          2
+        ],
+        "sha256_prefix": "49659186c1",
+        "characters": 59
+      },
+      {
+        "label": "الآية 3",
+        "verses": [
+          3
+        ],
+        "sha256_prefix": "e00993a105",
+        "characters": 65
+      },
+      {
+        "label": "الآية 4",
+        "verses": [
+          4
+        ],
+        "sha256_prefix": "ae9ce866b8",
+        "characters": 264
+      },
+      {
+        "label": "الآية 5",
+        "verses": [
+          5
+        ],
+        "sha256_prefix": "9f3bcfcf97",
+        "characters": 218
+      },
+      {
+        "label": "الآية 6",
+        "verses": [
+          6
+        ],
+        "sha256_prefix": "60ffed3a2c",
+        "characters": 103
+      },
+      {
+        "label": "الآية 7",
+        "verses": [
+          7
+        ],
+        "sha256_prefix": "64bc2b0a56",
+        "characters": 451
+      },
+      {
+        "label": "الآية 8",
+        "verses": [
+          8
+        ],
+        "sha256_prefix": "93caa4fc21",
+        "characters": 37
+      },
+      {
+        "label": "الآية 9",
+        "verses": [
+          9
+        ],
+        "sha256_prefix": "0641ad0ce5",
+        "characters": 136
+      },
+      {
+        "label": "الآية 10",
+        "verses": [
+          10
+        ],
+        "sha256_prefix": "051a3fc8bb",
+        "characters": 193
+      },
+      {
+        "label": "الآية 11",
+        "verses": [
+          11
+        ],
+        "sha256_prefix": "1fa1a166b3",
+        "characters": 88
+      },
+      {
+        "label": "الآية 12",
+        "verses": [
+          12
+        ],
+        "sha256_prefix": "9d45366da8",
+        "characters": 113
+      },
+      {
+        "label": "الآية 13",
+        "verses": [
+          13
+        ],
+        "sha256_prefix": "9720905480",
+        "characters": 216
+      },
+      {
+        "label": "الآية 14",
+        "verses": [
+          14
+        ],
+        "sha256_prefix": "3a23db7d36",
+        "characters": 236
+      },
+      {
+        "label": "الآية 15",
+        "verses": [
+          15
+        ],
+        "sha256_prefix": "64c657ea3e",
+        "characters": 133
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "file_name": "09_المختصر في تفسير القرآن الكريم.txt",
+    "name": "المختصر في تفسير القرآن الكريم",
+    "author": "مركز تفسير للدراسات القرآنية",
+    "blocks": [
+      {
+        "label": "الآية 1",
+        "verses": [
+          1
+        ],
+        "sha256_prefix": "c4b0f08ce9",
+        "characters": 59
+      },
+      {
+        "label": "الآية 2",
+        "verses": [
+          2
+        ],
+        "sha256_prefix": "0bb41e4db2",
+        "characters": 38
+      },
+      {
+        "label": "الآية 3",
+        "verses": [
+          3
+        ],
+        "sha256_prefix": "cc1495460c",
+        "characters": 45
+      },
+      {
+        "label": "الآية 4",
+        "verses": [
+          4
+        ],
+        "sha256_prefix": "c493845800",
+        "characters": 46
+      },
+      {
+        "label": "الآية 5",
+        "verses": [
+          5
+        ],
+        "sha256_prefix": "33c5eff22e",
+        "characters": 36
+      },
+      {
+        "label": "الآية 6",
+        "verses": [
+          6
+        ],
+        "sha256_prefix": "99a8e55869",
+        "characters": 46
+      },
+      {
+        "label": "الآية 7",
+        "verses": [
+          7
+        ],
+        "sha256_prefix": "f2092a05da",
+        "characters": 40
+      },
+      {
+        "label": "الآية 8",
+        "verses": [
+          8
+        ],
+        "sha256_prefix": "d27cbe4bc3",
+        "characters": 58
+      },
+      {
+        "label": "الآية 9",
+        "verses": [
+          9
+        ],
+        "sha256_prefix": "07f08418fb",
+        "characters": 67
+      },
+      {
+        "label": "الآية 10",
+        "verses": [
+          10
+        ],
+        "sha256_prefix": "ceb81d4721",
+        "characters": 54
+      },
+      {
+        "label": "الآية 11",
+        "verses": [
+          11
+        ],
+        "sha256_prefix": "ae7851ace8",
+        "characters": 77
+      },
+      {
+        "label": "الآية 12",
+        "verses": [
+          12
+        ],
+        "sha256_prefix": "f532558534",
+        "characters": 34
+      },
+      {
+        "label": "الآية 13",
+        "verses": [
+          13
+        ],
+        "sha256_prefix": "c495c30cb4",
+        "characters": 95
+      },
+      {
+        "label": "الآية 14",
+        "verses": [
+          14
+        ],
+        "sha256_prefix": "0973ccce7e",
+        "characters": 172
+      },
+      {
+        "label": "الآية 15",
+        "verses": [
+          15
+        ],
+        "sha256_prefix": "605322105d",
+        "characters": 121
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "file_name": "10_النكت والعيون.txt",
+    "name": "النكت والعيون",
+    "author": "الماوردي",
+    "blocks": [
+      {
+        "label": "الآيات 1–10 (نطاق المصدر)",
+        "verses": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "sha256_prefix": "5c1a3e7e39",
+        "characters": 3523
+      },
+      {
+        "label": "الآيات 11–15 (نطاق المصدر)",
+        "verses": [
+          11,
+          12,
+          13,
+          14,
+          15
+        ],
+        "sha256_prefix": "8ce5a3de9e",
+        "characters": 809
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "file_name": "11_جامع البيان في تفسير القرآن.txt",
+    "name": "جامع البيان في تفسير القرآن",
+    "author": "الطبري",
+    "blocks": [
+      {
+        "label": "الآيات 1–8 (نطاق المصدر)",
+        "verses": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "sha256_prefix": "c81f469e81",
+        "characters": 6647
+      },
+      {
+        "label": "الآيات 9–15 (نطاق المصدر)",
+        "verses": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
+        ],
+        "sha256_prefix": "ba668e2c5d",
+        "characters": 9095
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "file_name": "12_روح المعاني في تفسير القرآن العظيم والسبع المثاني.txt",
+    "name": "روح المعاني في تفسير القرآن العظيم والسبع المثاني",
+    "author": "الالوسي",
+    "blocks": [
+      {
+        "label": "الآية 1",
+        "verses": [
+          1
+        ],
+        "sha256_prefix": "81728935bb",
+        "characters": 730
+      },
+      {
+        "label": "الآية 2",
+        "verses": [
+          2
+        ],
+        "sha256_prefix": "6da582de1e",
+        "characters": 1709
+      },
+      {
+        "label": "الآية 3",
+        "verses": [
+          3
+        ],
+        "sha256_prefix": "051afd3c5b",
+        "characters": 513
+      },
+      {
+        "label": "الآية 4",
+        "verses": [
+          4
+        ],
+        "sha256_prefix": "4bae6e4c91",
+        "characters": 3012
+      },
+      {
+        "label": "الآية 5",
+        "verses": [
+          5
+        ],
+        "sha256_prefix": "8e6ebac9db",
+        "characters": 317
+      },
+      {
+        "label": "الآية 6",
+        "verses": [
+          6
+        ],
+        "sha256_prefix": "4ce63e4bd6",
+        "characters": 237
+      },
+      {
+        "label": "الآية 7",
+        "verses": [
+          7
+        ],
+        "sha256_prefix": "e0b9e01713",
+        "characters": 391
+      },
+      {
+        "label": "الآية 8",
+        "verses": [
+          8
+        ],
+        "sha256_prefix": "1d289b4a44",
+        "characters": 2302
+      },
+      {
+        "label": "الآية 9",
+        "verses": [
+          9
+        ],
+        "sha256_prefix": "853b650215",
+        "characters": 223
+      },
+      {
+        "label": "الآية 10",
+        "verses": [
+          10
+        ],
+        "sha256_prefix": "739e492081",
+        "characters": 859
+      },
+      {
+        "label": "الآية 11",
+        "verses": [
+          11
+        ],
+        "sha256_prefix": "b1670737cd",
+        "characters": 4383
+      },
+      {
+        "label": "الآية 12",
+        "verses": [
+          12
+        ],
+        "sha256_prefix": "51a4c9517b",
+        "characters": 404
+      },
+      {
+        "label": "الآية 13",
+        "verses": [
+          13
+        ],
+        "sha256_prefix": "4187e2065c",
+        "characters": 883
+      },
+      {
+        "label": "الآية 14",
+        "verses": [
+          14
+        ],
+        "sha256_prefix": "ca0f47ec75",
+        "characters": 1268
+      },
+      {
+        "label": "الآية 15",
+        "verses": [
+          15
+        ],
+        "sha256_prefix": "fb8fe8b309",
+        "characters": 2342
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "file_name": "13_زاد المسير في علم التفسير.txt",
+    "name": "زاد المسير في علم التفسير",
+    "author": "ابن الجوزي",
+    "blocks": [
+      {
+        "label": "الآيات 1–10 (نطاق المصدر)",
+        "verses": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "sha256_prefix": "8e4c53ef3d",
+        "characters": 2824
+      },
+      {
+        "label": "الآيات 11–15 (نطاق المصدر)",
+        "verses": [
+          11,
+          12,
+          13,
+          14,
+          15
+        ],
+        "sha256_prefix": "c34935ba5d",
+        "characters": 1682
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "file_name": "14_نظم الدرر في تناسب الآيات والسور.txt",
+    "name": "نظم الدرر في تناسب الآيات والسور",
+    "author": "البقاعي",
+    "blocks": [
+      {
+        "label": "الآيات 1–8 (نطاق المصدر)",
+        "verses": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "sha256_prefix": "456e63dbe8",
+        "characters": 8080
+      },
+      {
+        "label": "الآيات 9–15 (نطاق المصدر)",
+        "verses": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
+        ],
+        "sha256_prefix": "469a1e1807",
+        "characters": 6227
+      }
+    ]
+  }
+]

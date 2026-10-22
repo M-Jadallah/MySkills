@@ -1,0 +1,59 @@
+{
+  "updated_utc": "2026-10-09T18:30:28.347854+00:00",
+  "skill": "tafsir-study-word",
+  "installed_at": "C:\\Users\\asala\\.agents\\skills\\tafsir-study-word",
+  "frontmatter": "Skill is valid!",
+  "relative_reference_links": "pass",
+  "original_user_instructions_sha256": "8503dca77d672b0deb9690b63edb3911b7628c339b18c90c3c6c0a75db2fedb9",
+  "original_instructions_preserved_verbatim": true,
+  "reference_word_and_five_designs_unchanged": true,
+  "requirements_matrix": {
+    "original_instruction_clauses": 40,
+    "conversation_decisions": 8
+  },
+  "automated_tests": {
+    "total": 63,
+    "passed": true,
+    "includes": "Source integrity, vowels, exact printed fields, correct verse/axis, hadith grading, multi-surah scope, template inheritance, design, review freshness and omissions"
+  },
+  "full_data_replay": {
+    "verses": 15,
+    "opinions": 138,
+    "printed_fields_checked": 1144,
+    "errors": 0,
+    "warnings": 2,
+    "warnings_resolved_by_review": [
+      "Only [ ص: 67 ] and (ص-٣٧٤) source page markers were removed; exact gaps are recorded as footnote omissions."
+    ],
+    "scope": "Literal source tracing and preservation of display fields; no claim of independently re-inventorying all original tafsir meanings."
+  },
+  "rendered_trial": {
+    "verses": [
+      "91:1",
+      "91:8",
+      "91:13",
+      "91:14"
+    ],
+    "sources": 14,
+    "word_pages": 37,
+    "fields_updated_with": "Microsoft Word COM",
+    "layout_audit_passed_after_Word_save": true,
+    "all_pages_visually_reviewed": true,
+    "record": "visual-validation.json",
+    "reproducible_layout_input": "assets/layout-validation-study.json"
+  },
+  "standard_renderer": {
+    "available": false,
+    "reason": "LibreOffice soffice.exe not found on PATH",
+    "validated_fallback": "Microsoft Word COM export and pypdfium2 PNG rendering"
+  },
+  "delegation": {
+    "protocol_preserved": true,
+    "current_audit": "Primary agent continued sequentially because the existing two agents were unavailable at their usage limit; no new independent-agent pass is claimed."
+  },
+  "limitations": [
+    "Structural passing tests and truthful review records cannot mechanically prove scholarly exhaustiveness, accurate Arabic vocalization, correct interpretations or religious authenticity. Future studies must perform and record their own scientific reviews.",
+    "The layout validation dataset is internal test material, not a new completed scientific study or a substitute for the user supplied TXT sources."
+  ],
+  "issues": []
+}

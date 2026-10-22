@@ -1,0 +1,193 @@
+{
+  "scope": "Layout review of all 37 pages, at original readable resolution. Pages 26-28 re-reviewed after keep-with-next refinement; remaining 34 final PNGs are byte-identical to reviewed first-pass pages.",
+  "word_sha256": "3f173e87e619cf8810e952373eb22ffb3c555a7b00f5917d49d5c1fe925fe0a8",
+  "pdf_sha256": "72af134dcf04f173dba15059e459326669d74ccc329fb55653649796ea687984",
+  "pages": [
+    {
+      "number": 1,
+      "sha256": "c9a279dc433e6c8c640c3d7a66dffc747813fb3282487fdfabe21e3c09ff1b00",
+      "review": "pass"
+    },
+    {
+      "number": 2,
+      "sha256": "960b3075a80769ebd2c2b4198eb1ceed87d505fb1a38b93648fc160f12a01393",
+      "review": "pass"
+    },
+    {
+      "number": 3,
+      "sha256": "3de42d8d41fbe527a1bd36da02e0a2b6b486930aeb1829152048f524e50ff000",
+      "review": "pass"
+    },
+    {
+      "number": 4,
+      "sha256": "f0d84eac84f87ea75601b9a9e9a334cd8868681829de1551ac91a33b5086eec9",
+      "review": "pass"
+    },
+    {
+      "number": 5,
+      "sha256": "068fbbfd9956ff751cda59f62ef14720ef18d6a80de9a3b40699d7e9a19958e8",
+      "review": "pass"
+    },
+    {
+      "number": 6,
+      "sha256": "580b62f9ebacfa440b5201b4745da3fe656d5dcb9330c3f9ddb6c79c894650b1",
+      "review": "pass"
+    },
+    {
+      "number": 7,
+      "sha256": "a07186c9bd747bd1794cd0445ac4cb57db12f61d77580dbe128a79f24f3ea192",
+      "review": "pass"
+    },
+    {
+      "number": 8,
+      "sha256": "e1cbd9823bb93d7f4f00471655b84f1d5a79a9c886157ecca23c8f5fdad22fdb",
+      "review": "pass"
+    },
+    {
+      "number": 9,
+      "sha256": "b1cc7547b0a52ef08a50b64b25a4ef4b8ddc2c2b7fcfc610cfabe00e3c7a1164",
+      "review": "pass"
+    },
+    {
+      "number": 10,
+      "sha256": "bc27483e8cdd19d2540c1a8bae07cf01fc1071fd5deff6a146dbbc39fbd72b31",
+      "review": "pass"
+    },
+    {
+      "number": 11,
+      "sha256": "9543c9c1e46e82fc157eb3f5ac250d62a2770bc2a07acf1d99bd723c704fa515",
+      "review": "pass"
+    },
+    {
+      "number": 12,
+      "sha256": "845e75ae553ecab6c92edcca41691f33e87e3a919a1f910831224fc2c3ece644",
+      "review": "pass"
+    },
+    {
+      "number": 13,
+      "sha256": "86b13efc56b564e86fe41af1ab45b598638e7f9cd56c91b03d1746e546c8b63f",
+      "review": "pass"
+    },
+    {
+      "number": 14,
+      "sha256": "0b0f67168866237fc5ee9ca07b426a06038536ba4582ae62a386854314f1ef69",
+      "review": "pass"
+    },
+    {
+      "number": 15,
+      "sha256": "d98a6b5c52fbec62abc16e793421d94905673476834fc2f861e18049b93afde1",
+      "review": "pass"
+    },
+    {
+      "number": 16,
+      "sha256": "5905370322ea89518784bcb15109f37a295ddb6853231c921749da8e9df4aae6",
+      "review": "pass"
+    },
+    {
+      "number": 17,
+      "sha256": "152491f84908749d1514b79ffe27770b28b13593c65b14ac0f7ba316e98d8530",
+      "review": "pass"
+    },
+    {
+      "number": 18,
+      "sha256": "7eb8980f0485781ffb91f6eb7a4c56aa59b80ef3699f79e094d193e296801378",
+      "review": "pass"
+    },
+    {
+      "number": 19,
+      "sha256": "322816580581e9117718a14d303ead13e6e5fc05e0828203981db9adddda2428",
+      "review": "pass"
+    },
+    {
+      "number": 20,
+      "sha256": "e71803a0a958dd4b204aa29dd9c963cbc8ecf360829467b402815380d9895d00",
+      "review": "pass"
+    },
+    {
+      "number": 21,
+      "sha256": "4674a80c0431f4055e432db004f2273d3ae982867f79ed78fbc338b9f7ecd891",
+      "review": "pass"
+    },
+    {
+      "number": 22,
+      "sha256": "8b65e05c8cf1acfc84d2c066d27c93804bfef34c8ab315b3b5910753b2cfbf52",
+      "review": "pass"
+    },
+    {
+      "number": 23,
+      "sha256": "9dc01dbe1f52d161fba6a4d1fbb8968eb7d945a10066d9dc8db0125e915c828a",
+      "review": "pass"
+    },
+    {
+      "number": 24,
+      "sha256": "be452bf04e1a8488fce0465e07aad371fd57e214d5945be9c86c1bbbefaa0d1a",
+      "review": "pass"
+    },
+    {
+      "number": 25,
+      "sha256": "d59b333d1f5f2c17f0a64ad34792047e4fd7963985cf65862d881ea44f636d7c",
+      "review": "pass"
+    },
+    {
+      "number": 26,
+      "sha256": "c80aafdab8412db4fc2df887153937ceb0bc2d2e22bf4722ca78bf604c0e9eb2",
+      "review": "pass"
+    },
+    {
+      "number": 27,
+      "sha256": "358255752f5c649d1b7a758dc386242847945b13e2666f5c25bd2964e08ebc38",
+      "review": "pass"
+    },
+    {
+      "number": 28,
+      "sha256": "77ad375c421f22b486511c5d1923dae6e51cfaa94b2e10522531a2964b62cf5a",
+      "review": "pass"
+    },
+    {
+      "number": 29,
+      "sha256": "d7777ae84b81a35ee40282733209349e9bd1b80b6b2638cd65508badc4e6936b",
+      "review": "pass"
+    },
+    {
+      "number": 30,
+      "sha256": "6ce60f32c599f160afb16408302f3e63da2b6183b00188bd061b83abcae17888",
+      "review": "pass"
+    },
+    {
+      "number": 31,
+      "sha256": "ed42ebc4d33b0cc85ab3211fbb7997d111a486a9c7150025fef6a014dd8fd732",
+      "review": "pass"
+    },
+    {
+      "number": 32,
+      "sha256": "4370ee2078d9b49d34ca8419070d57325ca36ff0d62b4c80ed9bae97906f5c60",
+      "review": "pass"
+    },
+    {
+      "number": 33,
+      "sha256": "78a425d86fa5587c003cfaf5aab77d8515f3af98cbbf3e76ac3074cc12ba2154",
+      "review": "pass"
+    },
+    {
+      "number": 34,
+      "sha256": "5ce24cbebfe037aa36dab360c9f0f825ba5bf16ed3d4e91fb691b858e366c031",
+      "review": "pass"
+    },
+    {
+      "number": 35,
+      "sha256": "f2364440e79db3c78b598b60dcb868f08c276363a773c485c2164fe792a13ec3",
+      "review": "pass"
+    },
+    {
+      "number": 36,
+      "sha256": "911272f0c65057f6be4a92b153157e26a22edab44e8b44f7cba0e7922ecaf38d",
+      "review": "pass"
+    },
+    {
+      "number": 37,
+      "sha256": "603effc520cd8779d3cc7680cdb5d8011d0ff182583dd0eb6970061dae423a02",
+      "review": "pass"
+    }
+  ],
+  "issues": []
+}

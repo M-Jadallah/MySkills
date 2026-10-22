@@ -1,0 +1,236 @@
+{
+  "skill": "tafsir-study-word",
+  "updated_utc": "2026-10-09T18:30:28.347854+00:00",
+  "files": [
+    {
+      "path": "SKILL.md",
+      "bytes": 17046,
+      "sha256": "a6136224080b449504193701e4cfb90a62ba27376c5cfc2efcab749f0e692ffd"
+    },
+    {
+      "path": "agents/openai.yaml",
+      "bytes": 436,
+      "sha256": "7bf01ff07a625166cca85f95d6614209352fee6958024c9206ed5648b4961cd7"
+    },
+    {
+      "path": "assets/corner--1--1.png",
+      "bytes": 1930,
+      "sha256": "316a7c6cab8c227171247a0a7e91aa611985525f95e378a7c94199ea19e95629"
+    },
+    {
+      "path": "assets/corner--1-1.png",
+      "bytes": 1912,
+      "sha256": "ed287956cdea5c09614a36a845ca6d513d698b24eeef774819d329832f6fca14"
+    },
+    {
+      "path": "assets/corner-1--1.png",
+      "bytes": 1874,
+      "sha256": "2031a8f65713ea457b57572097b87e6064e8d13adbaf306eb244fa5236e57bb3"
+    },
+    {
+      "path": "assets/corner-1-1.png",
+      "bytes": 1917,
+      "sha256": "635d7e9b9850427268df1406889d171a992acaaf4437d563eb6c40f6e5bed012"
+    },
+    {
+      "path": "assets/interior-preview.png",
+      "bytes": 218888,
+      "sha256": "dad0ac69b6200c7fd633f4fa8645994657838e6d189a755301ae678509a014a7"
+    },
+    {
+      "path": "assets/layout-validation-study.json",
+      "bytes": 112508,
+      "sha256": "899d0d1c4e53f645d2d989a8e311aa691451ce58515baf1f10bd949f7b09da78"
+    },
+    {
+      "path": "assets/preview.png",
+      "bytes": 67575,
+      "sha256": "352cca5ce811a775319f4f1973cbdcf62689c92bfb33e7acded185bc6d852d82"
+    },
+    {
+      "path": "assets/quran-simple-1.1.txt",
+      "bytes": 1301949,
+      "sha256": "019ccefa8d822f6088d8a659aff3e92998df901e3c53201aeab824fbffe1344d"
+    },
+    {
+      "path": "assets/quran-source.json",
+      "bytes": 487,
+      "sha256": "54a282a6963e7b2a7bdab16fc4d73e8488277a1e88655618f97371ac510824c2"
+    },
+    {
+      "path": "assets/reference.docx",
+      "bytes": 124429,
+      "sha256": "114ada279a29ed1a95fb7e2b015bf0a9b897aba244725e5caeb4c2d4b78ada1e"
+    },
+    {
+      "path": "assets/style-spec.json",
+      "bytes": 808,
+      "sha256": "3945c83ffecf0c53dd8119cca99e1de26da5e3f8f540f3fdfd79556bc2acb47f"
+    },
+    {
+      "path": "assets/tafsir-design-1.png",
+      "bytes": 1345706,
+      "sha256": "aedbc5c7995c96ca7ab7c5171abc94b00e3069bc0fb035f3e0714db1709258bc"
+    },
+    {
+      "path": "assets/tafsir-design-2.png",
+      "bytes": 1376551,
+      "sha256": "7087d10daad8bc9b8a911b8b80f423f6d317f40e1bc6eb131099558623045e76"
+    },
+    {
+      "path": "assets/tafsir-design-3.png",
+      "bytes": 1482598,
+      "sha256": "97f65e2362f15581ef937b8231904085a49f6019b0049aa245ad7d3257c50c0a"
+    },
+    {
+      "path": "assets/tafsir-design-4.png",
+      "bytes": 1374521,
+      "sha256": "8d9e5f7f830170133d835d08162c76d16119ce02ad1ea5b6a0951f23687c784c"
+    },
+    {
+      "path": "assets/tafsir-design-5.png",
+      "bytes": 1233570,
+      "sha256": "1cb0249d6263a7f91020bea65c9bf66ce838e5b71c7e1bc1b280b3a3d22f56d3"
+    },
+    {
+      "path": "assets/validated-interior-preview.png",
+      "bytes": 144462,
+      "sha256": "068fbbfd9956ff751cda59f62ef14720ef18d6a80de9a3b40699d7e9a19958e8"
+    },
+    {
+      "path": "references/acceptance-and-review.md",
+      "bytes": 15794,
+      "sha256": "2ac75935459bcf80919314d8240fbe767d82936fe6d09338b10ae09d21e11191"
+    },
+    {
+      "path": "references/alnahj-verified-file-urls.json",
+      "bytes": 1120,
+      "sha256": "538668f41be86a142d7b110793414333764b9c77e01cc2691395304d65f17901"
+    },
+    {
+      "path": "references/ash-shams-audit.json",
+      "bytes": 114,
+      "sha256": "da8005385f03f9a08eacb9ad954c1c36c5a32b22a861f86a6c798bf0661d4d94"
+    },
+    {
+      "path": "references/ash-shams-source-manifest.json",
+      "bytes": 30328,
+      "sha256": "9b1612a74c4e3e635eb698a2ed4aa6264dc5317bea445c8d6625755f794b3de4"
+    },
+    {
+      "path": "references/ash-shams-visual-qa.txt",
+      "bytes": 485,
+      "sha256": "f4d5046c4bb00661dca30f8ddcc11f394eeb64e4f8a19392bbc5e80dc66d63a2"
+    },
+    {
+      "path": "references/case-study-ash-shams.md",
+      "bytes": 21959,
+      "sha256": "945515928e1962fc1bf394c4d3a98ce6c5876a0314496adc065c82b64e92258c"
+    },
+    {
+      "path": "references/data-contract.md",
+      "bytes": 30404,
+      "sha256": "4a47340b34a1ef7ad36040a7327c618d625dfbfd5072485ea8130c0f9987282d"
+    },
+    {
+      "path": "references/design-prompts.md",
+      "bytes": 17650,
+      "sha256": "8adf1df544a55540d54b9f04adb4b45ad4d230f0203692eceb3c7c1253c44b25"
+    },
+    {
+      "path": "references/design-selection.md",
+      "bytes": 3100,
+      "sha256": "b3c3e5497a31837c2f3ca60caefeb59d70a4d33b8a1139b5c55c44e701d5e1ff"
+    },
+    {
+      "path": "references/original-user-instructions.md",
+      "bytes": 13307,
+      "sha256": "8503dca77d672b0deb9690b63edb3911b7628c339b18c90c3c6c0a75db2fedb9"
+    },
+    {
+      "path": "references/seven-axes.md",
+      "bytes": 28771,
+      "sha256": "80b0ee27bf60b5a17732b5b06a084609558eb5ee20e4d60ef3ae2f77fc7ac295"
+    },
+    {
+      "path": "references/sources-and-verification.md",
+      "bytes": 16138,
+      "sha256": "ef617caea63b514d1789aa005ffe905a1090fda24ff329d9036e592fa2e29e55"
+    },
+    {
+      "path": "references/validation-report.json",
+      "bytes": 2581,
+      "sha256": "638458c3e1104a8bf82c0d73a529de9078065cac5b9040072ccf663821a9f703"
+    },
+    {
+      "path": "references/visual-validation.json",
+      "bytes": 5775,
+      "sha256": "5417c370cd7b6f0d54e13c07b801c3446397dcdc474e3a00b20a88485d7d7533"
+    },
+    {
+      "path": "references/word-design-and-qa.md",
+      "bytes": 14569,
+      "sha256": "eaea6e144c1c31a848c955b0a7b6265a7d849747217cff086f259d7506f31b01"
+    },
+    {
+      "path": "references/workflow-and-agents.md",
+      "bytes": 12827,
+      "sha256": "9b50ead468fc09b0b6e4a4fb82f986696f183085ce490ddbc23bfc0cd7e37bec"
+    },
+    {
+      "path": "scripts/audit_layout.py",
+      "bytes": 6664,
+      "sha256": "c2c0434c92e06fc889b2ae7ac920c2b45b8823b0217f1bb0657770225fd3008b"
+    },
+    {
+      "path": "scripts/audit_study.py",
+      "bytes": 45662,
+      "sha256": "ecbba3cd4bb65c9c727325554e7c9e854d68f0e5a2039209042f3843dc966ed6"
+    },
+    {
+      "path": "scripts/build_docx.py",
+      "bytes": 22126,
+      "sha256": "3e182b321a89742f6004d06d0875e2b11b4100e44ccbeefaef7da5ebdb9351d7"
+    },
+    {
+      "path": "scripts/check_release.py",
+      "bytes": 9435,
+      "sha256": "570a3fe10576dd4d44512b6557bf1d3034ae673e84d05f36e4aed155ba62cb4e"
+    },
+    {
+      "path": "scripts/export_word.ps1",
+      "bytes": 2114,
+      "sha256": "96cbe4a5071f921b2dba3cc4fdefa64397719c899b2b72475d71ac28e96b2d09"
+    },
+    {
+      "path": "scripts/ingest_sources.py",
+      "bytes": 8828,
+      "sha256": "42cbcfb44278dd64191589604165261f937e6b2c8675368cdfc2470991d4a2b3"
+    },
+    {
+      "path": "scripts/prepare_quran.py",
+      "bytes": 3363,
+      "sha256": "617d0966559f6462838d7be075aec3966403cfc79a90ebb99bc478da83fed63a"
+    },
+    {
+      "path": "scripts/render_pdf.py",
+      "bytes": 1550,
+      "sha256": "2ab3b1a6dbb2d73dfc83dcb58645394e7e5c5db8ad6ef842c670ac24265ca722"
+    },
+    {
+      "path": "scripts/test_layout.py",
+      "bytes": 3822,
+      "sha256": "dc766f9ee02689ad3dedb2356a4a0e2bb940b5c64768d98a0c6a941ac463c677"
+    },
+    {
+      "path": "scripts/test_release.py",
+      "bytes": 7098,
+      "sha256": "2ab1c523765d6541c394d302ee9a238e5dae671a1a6067c86a16a654bdc835ef"
+    },
+    {
+      "path": "scripts/test_tools.py",
+      "bytes": 21600,
+      "sha256": "b3cbcc18945c532dd5a7ddb663fcade8999b234c645195f35bf60b169b5044ed"
+    }
+  ]
+}

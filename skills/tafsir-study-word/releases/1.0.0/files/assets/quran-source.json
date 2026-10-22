@@ -1,0 +1,8 @@
+{
+  "source": "https://tanzil.net/download/",
+  "download_url": "https://tanzil.net/pub/download/index.php?quranType=simple&outType=txt&agree=true",
+  "version": "1.1",
+  "format": "simple text, 6236 lines, opening basmala joined to first verse except 1 and 9",
+  "sha256": "019ccefa8d822f6088d8a659aff3e92998df901e3c53201aeab824fbffe1344d",
+  "notice": "Original copyright and attribution notice is retained in the source file. Preserve it and cite Tanzil when using the text."
+}
