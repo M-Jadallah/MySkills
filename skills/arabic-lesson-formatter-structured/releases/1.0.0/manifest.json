@@ -1,0 +1,23 @@
+{
+  "created_at": "2026-10-22T19:26:15.564909+00:00",
+  "description": "تحويل تفريغات الدروس العربية TXT إلى Word مشكول كاملًا، بعناوين مظللة بيج ورمادية وزرقاء، وفقرات هرمية بشرطة ثم دائرة، وإبراز انتقائي أحمر وعريض وأخضر داخل النص. تستخدم عند طلب هذا التنسيق أو استدعاء المهارة، مع معالجة الملفات المتعددة بوكلاء فرعيين بالتوالي.",
+  "device_id": "8603efad5f5a494ebf07d82145e20df0",
+  "device_name": "LAPTOP-46FJ83M6",
+  "files": {
+    "SKILL.md": "dc42aa460eb38467b2352ed9ec370261aa794c2892848caf36f671b81810f6c0",
+    "agents/openai.yaml": "589e73bf2688d55a73bc2be8fef26fb4026ae360565fac8f3803f78343d09cfd",
+    "batch.js": "ac597fe762ef473a9a2484f02779ee6444dae0cbe9d6dca91261e2c955dc6aee",
+    "formatter.js": "acedc1f071d910b8d00a9f20c36468ef27826da23f941245d4cdc0553f6e1bc7",
+    "package-lock.json": "4ecf27e5942cefbec4b642b61a31a2d230799cc341e6dabfeba0096dab454989",
+    "package.json": "c9bfdd15e0962c4d8bea80f33790626432ad352e731ca8589df54ec9b411ee61",
+    "references/example.json": "a59b9e0fb84f3ad5a0e141799a1039b1e1ce382789c99f29723103b337232fed",
+    "references/schema.md": "c785e0fbfc34c1803c5da934cd58c43532d9b7ee1dbb8a287fd8bd8b7fc78088"
+  },
+  "hash": "7ac96d36472a5c7d6595ca73d6c152fe60d4f019d855402f2855ac5c1425defd",
+  "id": "arabic-lesson-formatter-structured",
+  "name": "arabic-lesson-formatter-structured",
+  "note": "أرشفة أولية",
+  "size": 38977,
+  "title": "منسق الدروس العربية الهرمي المتوالي",
+  "version": "1.0.0"
+}
