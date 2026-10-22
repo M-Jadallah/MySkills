@@ -1,0 +1,12 @@
+{
+  "font": "Traditional Arabic",
+  "body_pt": 24,
+  "relation_pt": 18,
+  "citation_pt": 16,
+  "witness_bold": true,
+  "colors": {"text": "000000", "evidence": "800020", "witness": "526359", "citation": "526359", "title_fill": "F7E7EB", "evidence_fill": "F9F2F4", "evidence_border": "EADDE2"},
+  "page": {"width": 11906, "height": 16838, "top": 850, "bottom": 850, "left": 900, "right": 900},
+  "line_spacing": 276,
+  "heading_line_size": 8,
+  "title_line_size": 20
+}

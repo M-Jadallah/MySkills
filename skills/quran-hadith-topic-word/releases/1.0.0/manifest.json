@@ -1,0 +1,31 @@
+{
+  "created_at": "2026-10-22T19:26:19.639613+00:00",
+  "description": "جمع الآيات القرآنية والأحاديث الصحيحة والحسنة والمختلف في صحتها حول موضوع، وتنظيم النصوص كاملة في صناديق هادئة مع التوثيق وتمييز الشاهد، وإخراج نسختَي Word عربيتين بوجه الارتباط وبدونه.",
+  "device_id": "8603efad5f5a494ebf07d82145e20df0",
+  "device_name": "LAPTOP-46FJ83M6",
+  "files": {
+    "SKILL.md": "5752c22574e759131609d3d63d7c68ac8649b13239e7dfb6d11b8f1cf67729f6",
+    "agents/openai.yaml": "92f8bbdde819ede73c6c55fe6f9504579da4913b3c458174b751a4a657385dc6",
+    "assets/design-07.png": "d197628ac3e1b864d1ad5d97e7c9b1d2061e2563897f4e5095b848b517f6043e",
+    "assets/design.json": "7578a12a87e439eb5ba305854923bd903c1c4eb62c46669924649d96e9d5e5e5",
+    "assets/template.docx": "f70a942678523aeac0bd708732de7721642faafe3f60b2b43ae0934d16584dba",
+    "integrations/opencode-command.md": "f4b3d894f63f98289ce32e7c8f34a4d8d9baf1029d31328d779e1e32c5d45051",
+    "package-lock.json": "5974c16f31850f8a817bcb4faf5695122f10b9799f1c8b4f946c2c9591ce0652",
+    "package.json": "351f6bd654f5d6ac34f937dc870ab2ab0975c1d0754b6ddf21c1dfdf3eb6a1f5",
+    "references/data-format.md": "86552e55aff4d8e46929cbac33cf8359c7626f409a4c19055497edd87bf97379",
+    "references/design.md": "0e0104b2893b8556f5da1c55abf699b09c4a5f44fba17d7f366bdfa97174ad19",
+    "references/portability.md": "1bd5c2ae4db7c98188af75468c003f23c855ee8939d503dab2fcfec515086bfe",
+    "references/research.md": "64d53d59a0fa6ac26a7d2f5dcd709a744200e240a812f21b1c24f5e767c8ed75",
+    "references/sample.json": "536504341b2c00831c9f4e33d7105d0f8b37d22d104143bcabc8b151bcddec52",
+    "scripts/build_docx.cjs": "61c45c70ae74222dca14fb436f64adfa58e833fd627ab55b520241c420f1c172",
+    "scripts/validate_data.cjs": "e10e0e9f669ab9edc05925a0b6f2d18e8f1dd187f6f2ebebfaf3056b7fb7f7f1",
+    "scripts/verify_docx.py": "469c9c94ca576b35169c5999d90b34740ea6df11480213e336455ddd2411bc08"
+  },
+  "hash": "fcd08286e536aca5fe92ecc0e3fa267fbb245632c9f087500b6a94530dcd17e0",
+  "id": "quran-hadith-topic-word",
+  "name": "quran-hadith-topic-word",
+  "note": "أرشفة أولية",
+  "size": 1465021,
+  "title": "جمع الأدلة القرآنية والحديثية في Word",
+  "version": "1.0.0"
+}

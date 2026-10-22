@@ -1,0 +1,8 @@
+{
+  "name": "quran-hadith-topic-word",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Portable Quran and hadith research skill with paired Word output",
+  "dependencies": {"docx": "9.6.1"},
+  "engines": {"node": ">=18"}
+}
