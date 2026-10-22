@@ -1,0 +1,4 @@
+interface:
+  display_name: "منسق الدروس المحقق"
+  short_description: "دروس مشكولة بعناوين مظللة وتعداد هرمي وإبراز دقيق"
+  default_prompt: "استخدم $arabic-lesson-formatter-verified لتنسيق تفريغات الدروس وفق النموذج الهرمي مع التشكيل الكامل."

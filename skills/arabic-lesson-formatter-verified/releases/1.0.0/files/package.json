@@ -1,0 +1,12 @@
+{
+  "name": "arabic-lesson-formatter-verified",
+  "version": "4.0.0",
+  "private": true,
+  "dependencies": {
+    "docx": "8.5.0",
+    "jszip": "3.10.1"
+  },
+  "scripts": {
+    "test": "node test-v4.js"
+  }
+}

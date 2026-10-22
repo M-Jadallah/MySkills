@@ -1,0 +1,34 @@
+{
+  "title": "دَرْسٌ",
+  "paragraphs": [
+    {
+      "type": "heading2",
+      "text": "مَسْأَلَةٌ"
+    },
+    {
+      "type": "paragraph",
+      "level": 0,
+      "sourceIds": [
+        "u1"
+      ],
+      "runs": [
+        {
+          "text": "قَالَ الْعَالِمُ: ",
+          "bold": true
+        },
+        {
+          "text": "«نَصٌّ»",
+          "color": "EE0000"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "level": 1,
+      "text": "قَيْدٌ مُهِمٌّ.",
+      "sourceIds": [
+        "u1"
+      ]
+    }
+  ]
+}
