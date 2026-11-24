@@ -1,0 +1,4 @@
+interface:
+  display_name: "صائدي الكنوز"
+  short_description: "مقررات تفسير السعدي المشكلة في Word مع أسئلة وهوية ثابتة"
+  default_prompt: "استخدم $treasure-hunters-tafsir لإعداد مقرر صائدي الكنوز من تفسير السعدي للسور أو الآيات أو الصفحات التي أحددها."

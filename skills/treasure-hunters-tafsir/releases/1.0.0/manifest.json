@@ -1,0 +1,26 @@
+{
+  "created_at": "2026-11-24T18:00:17.256409+00:00",
+  "description": "إعداد مقرر صائدي الكنوز من تفسير السعدي للسور أو الآيات أو الصفحات المحددة في Word عربي مشكول كاملًا، بآيات خمرية عريضة وتفسير أسود وفواصل وإطار أخضر وذهبي، مع ١٠ اختيار من متعدد و١٠ صح وخطأ ومفتاح موثق. تستخدم لإنشاء هذه المقررات أو تعديلها، لا لتلخيص التفسير أو إنشاء تفسير جديد.",
+  "device_id": "8603efad5f5a494ebf07d82145e20df0",
+  "device_name": "LAPTOP-46FJ83M6",
+  "files": {
+    "SKILL.md": "1b07bbe91eafcea9ebb83e678d34a0dd7da642dc05aa9610b643a18f00cceec3",
+    "agents/openai.yaml": "1b213696f0ea50f790e9cb570e4ff468709e17bf24dfe8824c99c6440ab1d559",
+    "assets/template.docx": "12e1d963e5caab29238744025b2452828929503cc5d9cc54ac3af074d6a6134d",
+    "references/content.md": "dee2abe8bffe0d2f7a82bc3460cb576acd8be3fff4f531b1482911a2fea25c44",
+    "references/sources.md": "de704859dae452e9520245a838426717eff114efecbf943876824806ea869c8a",
+    "scripts/audit_docx.py": "8f270c0cac6acf575e4bdc27d0373591b4ffd55e7913c4146d82d07249060739",
+    "scripts/build_course.py": "5bf9152d6ca862001989664550df761c4ae2b6bdfcf3255fdd14cdd0f7d4a72c",
+    "scripts/export_word.ps1": "e4eb37ebe7d1bd521da1025d76c193f1699f5f9c6420f5528439346a2d792a86",
+    "scripts/fetch_tafsir.py": "8c507ce976c8a881d69987d6372b62c34de3671551b3348083b7e233d1101641",
+    "scripts/render_from_pdf.py": "a8519306e8ca1771823473ed519958311c05890b8feff8a904767774dfc7501d",
+    "scripts/validate_course.py": "b5d2caad70dab4f6823d37b440aeef73c78f42d825163655da6d966a0fdb8fea"
+  },
+  "hash": "23bf7921f4bc221c90c68d596d81dab76ddd76506a0ff17e0af1e235c1948910",
+  "id": "treasure-hunters-tafsir",
+  "name": "treasure-hunters-tafsir",
+  "note": "أرشفة أولية",
+  "size": 83242,
+  "title": "صائدي الكنوز",
+  "version": "1.0.0"
+}
