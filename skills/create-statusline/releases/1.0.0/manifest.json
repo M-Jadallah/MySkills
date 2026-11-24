@@ -1,0 +1,19 @@
+{
+  "created_at": "2026-11-24T18:00:07.609267+00:00",
+  "description": "Build and enable a custom MCP statusline for the Codex CLI. Use when someone wants a provider that displays information in the terminal footer.",
+  "device_id": "8603efad5f5a494ebf07d82145e20df0",
+  "device_name": "LAPTOP-46FJ83M6",
+  "files": {
+    "SKILL.md": "5fd8c685666fe64182b5531f26bebbab3722cae3acbbba93e4ff140af365d88f",
+    "agents/openai.yaml": "3bf863a8856d04a6a1c4f23b3aae6cbf5388544129662c55cc733c2d9c23bbbf",
+    "assets/statusline.py": "2c63f7bf996fc65ed1be9dabc19df548601528554bf6b1b843d39a37f9c54af6",
+    "references/statusline.d.ts": "b716c3c55a38105ab81c111386a410a681ab9b72558934b2b153a771776eee71"
+  },
+  "hash": "57ef17bdaa3432153742e44f5f5b67b1f263156b0946273234e8bbb52abbe45f",
+  "id": "create-statusline",
+  "name": "create-statusline",
+  "note": "أرشفة أولية",
+  "size": 11764,
+  "title": "create-statusline",
+  "version": "1.0.0"
+}
