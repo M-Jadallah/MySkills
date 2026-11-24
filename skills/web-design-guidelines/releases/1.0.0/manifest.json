@@ -1,0 +1,17 @@
+{
+  "created_at": "2026-11-24T18:00:20.119354+00:00",
+  "description": "Review UI code for Web Interface Guidelines compliance. Use when asked to \"review my UI\", \"check accessibility\", \"audit design\", \"review UX\", or \"check my site against best practices\".",
+  "device_id": "8603efad5f5a494ebf07d82145e20df0",
+  "device_name": "LAPTOP-46FJ83M6",
+  "files": {
+    "SKILL.md": "360b1240acfffa95e76373db9f837a1f28aba8f6d4c361e3d588be0eaefaa070",
+    "references/command.md": "d246b026f4f29b5823a9cc857f9edf3d2507002e055e32040cadeaf3b38e0234"
+  },
+  "hash": "65705a889023075fd442ea6b0f3e13d20ba2b17a24fd1f123c1350da8baa90d1",
+  "id": "web-design-guidelines",
+  "name": "web-design-guidelines",
+  "note": "أرشفة أولية",
+  "size": 10132,
+  "title": "Web Interface Guidelines",
+  "version": "1.0.0"
+}

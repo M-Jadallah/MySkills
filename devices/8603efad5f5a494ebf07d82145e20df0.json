@@ -1,10 +1,12 @@
 {
   "id": "8603efad5f5a494ebf07d82145e20df0",
-  "last_seen": "2026-11-24T18:00:18.770143+00:00",
+  "last_seen": "2026-11-24T18:00:20.156185+00:00",
   "name": "LAPTOP-46FJ83M6",
   "skills": {
     "apple-design": {
-      "agents": {},
+      "agents": {
+        "original": "1.0.0"
+      },
       "workspace": "1.0.0"
     },
     "arabic-course-maps": {
@@ -242,6 +244,10 @@
       "agents": {
         "original": "1.0.0"
       },
+      "workspace": "1.0.0"
+    },
+    "web-design-guidelines": {
+      "agents": {},
       "workspace": "1.0.0"
     }
   }
