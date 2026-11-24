@@ -1,0 +1,24 @@
+{
+  "created_at": "2026-11-24T18:00:13.694061+00:00",
+  "description": "Use when a user requests an Excel Quran memorization or revision plan for a named student, with chosen surahs, juzs or pages and a cumulative page interval. تُستخدم لخطط القرآن التراكمية للطلاب بالقالب الأصلي وعمود id فارغ.",
+  "device_id": "8603efad5f5a494ebf07d82145e20df0",
+  "device_name": "LAPTOP-46FJ83M6",
+  "files": {
+    "SKILL.md": "15cf57d6223da62e53c82a22bc0b6dce1488e3edb24c283bc13cdc4924ba72e6",
+    "agents/openai.yaml": "2e7785a73511fb43c2488ea8ad87f7b821163a0f4c226c5eafff1c98ed3db86d",
+    "assets/catalog.json": "ea92520befcbbcda4e99dbf7c5cb731d17b4c8292ed7c1f59264da68c3278b77",
+    "assets/plan-template.xlsx": "8a181288532726cf38e13d6d0f370ccd93fed220532b3a8c362f72e422577c88",
+    "references/rules.md": "baae01b6b4307a08c60d969de8b3eb4b7c50d4dd7650d839f94d194aa192583d",
+    "scripts/build_plan.py": "ba248589682c32a9338201f72d3a75048b4a9de8a5a3a2dc6caa082cc2369998",
+    "scripts/planner.py": "9242b930a8e66569d98b5c2ec0c4c9e1b08d5ed5b2c47e7b505df0edfea4205b",
+    "scripts/render_workbook.mjs": "ff4b7ddc150fda86ae983bd92f06fa09666d6d9189410acda8e8c6084017037e",
+    "scripts/test_planner.py": "d1fe57d65448cba34fef995f68dcb7a19b35949f2748dd0b594237aadf5760ba"
+  },
+  "hash": "d1843c77d1cce1edf88f3908582a7e960a9284aca473329f48d034a57c78683b",
+  "id": "quran-cumulative-plan",
+  "name": "quran-cumulative-plan",
+  "note": "أرشفة أولية",
+  "size": 157809,
+  "title": "خطط القرآن التراكمية للطلاب",
+  "version": "1.0.0"
+}

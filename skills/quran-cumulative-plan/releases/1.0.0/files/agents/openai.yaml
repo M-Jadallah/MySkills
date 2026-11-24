@@ -1,0 +1,4 @@
+interface:
+  display_name: "خطط القرآن التراكمية للطلاب"
+  short_description: "خطة Excel باسم الطالب، بتراكمي مخصص وقالب ثابت"
+  default_prompt: "استخدم $quran-cumulative-plan لإنشاء خطة للطالب محمد أحمد تشمل سورة البقرة وجزء عم، بتراكمي كل 5 صفحات، وعمود id فارغ."

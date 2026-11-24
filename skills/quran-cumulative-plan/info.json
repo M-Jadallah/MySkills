@@ -1,0 +1,9 @@
+{
+  "category": "عام",
+  "current": "1.0.0",
+  "description": "Use when a user requests an Excel Quran memorization or revision plan for a named student, with chosen surahs, juzs or pages and a cumulative page interval. تُستخدم لخطط القرآن التراكمية للطلاب بالقالب الأصلي وعمود id فارغ.",
+  "id": "quran-cumulative-plan",
+  "name": "quran-cumulative-plan",
+  "title": "خطط القرآن التراكمية للطلاب",
+  "updated_at": "2026-11-24T18:00:13.701401+00:00"
+}
