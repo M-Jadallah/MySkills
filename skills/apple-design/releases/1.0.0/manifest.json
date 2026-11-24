@@ -1,0 +1,16 @@
+{
+  "created_at": "2026-11-24T18:00:18.746972+00:00",
+  "description": "Apple's approach to interface design and fluid, physical motion, translated for the web. Use when building or reviewing gesture-driven UI, spring animations, drag/swipe/sheet interactions, momentum and interruptible transitions, translucent materials and depth, typography (optical sizing, tracking, leading), reduced-motion, or the design foundations (feedback, spatial consistency, restraint) behind Apple-style interfaces.",
+  "device_id": "8603efad5f5a494ebf07d82145e20df0",
+  "device_name": "LAPTOP-46FJ83M6",
+  "files": {
+    "SKILL.md": "7fcbc33e46cc7a5451fbd82a883218bd466645ccbba7e20ac1f2cc31fa31c5d9"
+  },
+  "hash": "acd38e111327fd679067ceb5af1b301b62df8df75eadfdb815076f1ab4a6900b",
+  "id": "apple-design",
+  "name": "apple-design",
+  "note": "أرشفة أولية",
+  "size": 23139,
+  "title": "Apple Design",
+  "version": "1.0.0"
+}
