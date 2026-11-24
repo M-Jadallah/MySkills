@@ -1,0 +1,6 @@
+interface:
+  display_name: "تقرير سير العمل اليومي بالعربية"
+  short_description: "إنشاء تقارير عربية RTL بصيغة Word"
+  default_prompt: "استخدم $arabic-daily-work-report لجمع تعليماتي خطوة بخطوة ثم إعداد التقرير عند صدور الأمر المباشر."
+policy:
+  allow_implicit_invocation: true

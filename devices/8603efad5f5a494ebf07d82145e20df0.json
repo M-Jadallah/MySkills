@@ -1,6 +1,6 @@
 {
   "id": "8603efad5f5a494ebf07d82145e20df0",
-  "last_seen": "2026-11-24T18:00:07.625518+00:00",
+  "last_seen": "2026-11-24T18:00:09.902667+00:00",
   "name": "LAPTOP-46FJ83M6",
   "skills": {
     "arabic-course-maps": {
@@ -8,6 +8,10 @@
         "shared": "1.0.0"
       },
       "workspace": null
+    },
+    "arabic-daily-work-report": {
+      "agents": {},
+      "workspace": "1.0.0"
     },
     "arabic-lesson-condenser": {
       "agents": {
@@ -73,7 +77,9 @@
       "workspace": "1.0.0"
     },
     "create-statusline": {
-      "agents": {},
+      "agents": {
+        "original": "1.0.0"
+      },
       "workspace": "1.0.0"
     },
     "deploy-to-vercel": {

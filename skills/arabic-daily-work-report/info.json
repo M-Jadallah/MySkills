@@ -1,0 +1,9 @@
+{
+  "category": "عام",
+  "current": "1.0.0",
+  "description": "Create polished Arabic RTL daily work reports in Word from incrementally supplied notes. Use when the user wants to log operational updates first and generate the final management report only after a direct command.",
+  "id": "arabic-daily-work-report",
+  "name": "arabic-daily-work-report",
+  "title": "Arabic Daily Work Report",
+  "updated_at": "2026-11-24T18:00:09.887079+00:00"
+}
