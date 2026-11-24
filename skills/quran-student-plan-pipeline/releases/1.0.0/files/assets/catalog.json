@@ -1,0 +1,4471 @@
+{
+  "version": 1,
+  "headers": [
+    "id",
+    "sort_order",
+    "خطة التسميع",
+    "النقاط",
+    "الوزن",
+    "منفرد",
+    "أخذ الشهادة",
+    "اسم السورة",
+    "اسم الجزء",
+    "رقم الثلاث أجزاء",
+    "اسم الكتاب (السُنّة)"
+  ],
+  "surahs": [
+    {
+      "number": 1,
+      "name": "الفاتحة",
+      "first_page": 1,
+      "last_page": 1,
+      "test_row": null
+    },
+    {
+      "number": 2,
+      "name": "البقرة",
+      "first_page": 2,
+      "last_page": 49,
+      "test_row": [
+        603,
+        603,
+        "تسميع سورة البقرة",
+        1500,
+        3.0,
+        1,
+        1,
+        "البقرة",
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "number": 3,
+      "name": "آل عمران",
+      "first_page": 50,
+      "last_page": 76,
+      "test_row": [
+        656,
+        656,
+        "تسميع سورة آل عمران",
+        1000,
+        5.0,
+        null,
+        1,
+        "آل عمران",
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "number": 4,
+      "name": "النساء",
+      "first_page": 77,
+      "last_page": 106,
+      "test_row": [
+        713,
+        713,
+        "تسميع السورة النساء",
+        1000,
+        5.0,
+        null,
+        1,
+        "النساء",
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "number": 5,
+      "name": "المائدة",
+      "first_page": 106,
+      "last_page": 127,
+      "test_row": [
+        756,
+        756,
+        "تسميع السورة المائدة",
+        500,
+        4.0,
+        null,
+        1,
+        "المائدة",
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "number": 6,
+      "name": "الأنعام",
+      "first_page": 128,
+      "last_page": 150,
+      "test_row": [
+        801,
+        801,
+        "تسميع سورة الأنعام",
+        500,
+        4.0,
+        null,
+        1,
+        "الأنعام",
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "number": 7,
+      "name": "الأعراف",
+      "first_page": 151,
+      "last_page": 176,
+      "test_row": [
+        852,
+        852,
+        "تسميع سورة الأعراف",
+        1000,
+        5.0,
+        null,
+        1,
+        "الأعراف",
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "number": 8,
+      "name": "الأنفال",
+      "first_page": 177,
+      "last_page": 186,
+      "test_row": [
+        871,
+        871,
+        "تسميع سورة الأنفال",
+        100,
+        1.0,
+        null,
+        1,
+        "الأنفال",
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "number": 9,
+      "name": "التوبة",
+      "first_page": 187,
+      "last_page": 207,
+      "test_row": [
+        912,
+        912,
+        "تسميع سورة التوبة",
+        500,
+        4.0,
+        null,
+        1,
+        "التوبة",
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "number": 10,
+      "name": "يونس",
+      "first_page": 208,
+      "last_page": 221,
+      "test_row": [
+        934,
+        934,
+        "سورة يونس تراكمي",
+        140,
+        2.0,
+        null,
+        1,
+        "يونس",
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "number": 11,
+      "name": "هود",
+      "first_page": 221,
+      "last_page": 235,
+      "test_row": [
+        957,
+        957,
+        "سورة هود تراكمي",
+        140,
+        2.0,
+        null,
+        1,
+        "هود",
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "number": 12,
+      "name": "يوسف",
+      "first_page": 235,
+      "last_page": 248,
+      "test_row": [
+        979,
+        979,
+        "سورة يوسف تراكمي",
+        130,
+        2.0,
+        null,
+        1,
+        "يوسف",
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "number": 13,
+      "name": "الرعد",
+      "first_page": 249,
+      "last_page": 255,
+      "test_row": [
+        989,
+        989,
+        "سورة الرعد تراكمي",
+        60,
+        1.0,
+        null,
+        1,
+        "الرعد",
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "number": 14,
+      "name": "ابراهيم",
+      "first_page": 255,
+      "last_page": 261,
+      "test_row": [
+        1000,
+        1000,
+        "سورة إبراهيم تراكمي",
+        70,
+        1.0,
+        null,
+        1,
+        "إبراهيم",
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "number": 15,
+      "name": "الحجر",
+      "first_page": 262,
+      "last_page": 267,
+      "test_row": [
+        1011,
+        1011,
+        "سورة الحجر تراكمي",
+        60,
+        1.0,
+        null,
+        1,
+        "الحجر",
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "number": 16,
+      "name": "النحل",
+      "first_page": 267,
+      "last_page": 281,
+      "test_row": [
+        1033,
+        1033,
+        "سورة النحل تراكمي",
+        140,
+        2.0,
+        null,
+        1,
+        "النحل",
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "number": 17,
+      "name": "الإسراء",
+      "first_page": 282,
+      "last_page": 293,
+      "test_row": [
+        1053,
+        1053,
+        "سورة الإسراء تراكمي",
+        120,
+        2.0,
+        null,
+        1,
+        "الإسراء",
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "number": 18,
+      "name": "الكهف",
+      "first_page": 293,
+      "last_page": 304,
+      "test_row": [
+        1072,
+        1072,
+        "سورة الكهف تراكمي",
+        110,
+        2.0,
+        null,
+        1,
+        "الكهف",
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "number": 19,
+      "name": "مريم",
+      "first_page": 305,
+      "last_page": 312,
+      "test_row": [
+        115,
+        115,
+        "سورة مريم تراكمي",
+        73,
+        2.0,
+        null,
+        1,
+        "مريم",
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "number": 20,
+      "name": "طه",
+      "first_page": 312,
+      "last_page": 321,
+      "test_row": [
+        131,
+        131,
+        "سورة طه تراكمي",
+        97,
+        2.0,
+        null,
+        1,
+        "طه",
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "number": 21,
+      "name": "الأنبياء",
+      "first_page": 322,
+      "last_page": 331,
+      "test_row": [
+        148,
+        148,
+        "سورة الأنبياء تراكمي",
+        100,
+        2.0,
+        null,
+        1,
+        "الأنبياء",
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "number": 22,
+      "name": "الحج",
+      "first_page": 332,
+      "last_page": 341,
+      "test_row": [
+        164,
+        164,
+        "سورة الحج تراكمي",
+        100,
+        2.0,
+        null,
+        1,
+        "الحج",
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "number": 23,
+      "name": "المؤمنون",
+      "first_page": 342,
+      "last_page": 349,
+      "test_row": [
+        178,
+        178,
+        "سورة المؤمنون تراكمي",
+        80,
+        2.0,
+        null,
+        1,
+        "المؤمنون",
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "number": 24,
+      "name": "النور",
+      "first_page": 350,
+      "last_page": 359,
+      "test_row": [
+        194,
+        194,
+        "سورة النور تراكمي",
+        97,
+        2.0,
+        null,
+        1,
+        "النور",
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "number": 25,
+      "name": "الفرقان",
+      "first_page": 359,
+      "last_page": 366,
+      "test_row": [
+        207,
+        207,
+        "سورة الفرقان تراكمي",
+        73,
+        1.0,
+        null,
+        1,
+        "الفرقان",
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "number": 26,
+      "name": "الشعراء",
+      "first_page": 367,
+      "last_page": 376,
+      "test_row": [
+        223,
+        223,
+        "سورة الشعراء تراكمي",
+        100,
+        2.0,
+        null,
+        1,
+        "الشعراء",
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "number": 27,
+      "name": "النمل",
+      "first_page": 377,
+      "last_page": 385,
+      "test_row": [
+        238,
+        238,
+        "سورة النمل تراكمي",
+        85,
+        2.0,
+        null,
+        1,
+        "النمل",
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "number": 28,
+      "name": "القصص",
+      "first_page": 385,
+      "last_page": 396,
+      "test_row": [
+        255,
+        255,
+        "سورة القصص تراكمي",
+        110,
+        2.0,
+        null,
+        1,
+        "القصص",
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "number": 29,
+      "name": "العنكبوت",
+      "first_page": 396,
+      "last_page": 404,
+      "test_row": [
+        269,
+        269,
+        "سورة العنكبوت تراكمي",
+        82,
+        2.0,
+        null,
+        1,
+        "العنكبوت",
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "number": 30,
+      "name": "الروم",
+      "first_page": 404,
+      "last_page": 410,
+      "test_row": [
+        279,
+        279,
+        "سورة الروم تراكمي",
+        63,
+        1.0,
+        null,
+        1,
+        "الروم",
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "number": 31,
+      "name": "لقمان",
+      "first_page": 411,
+      "last_page": 414,
+      "test_row": [
+        286,
+        286,
+        "سورة لقمان تراكمي",
+        40,
+        1.0,
+        null,
+        1,
+        "لقمان",
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "number": 32,
+      "name": "السجدة",
+      "first_page": 415,
+      "last_page": 417,
+      "test_row": [
+        291,
+        291,
+        "سورة السجدة تراكمي",
+        30,
+        1.0,
+        null,
+        1,
+        "السجدة",
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "number": 33,
+      "name": "الأحزاب",
+      "first_page": 418,
+      "last_page": 427,
+      "test_row": [
+        309,
+        309,
+        "سورة الأحزاب تراكمي",
+        100,
+        2.0,
+        null,
+        1,
+        "الأحزاب",
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "number": 34,
+      "name": "سبإ",
+      "first_page": 428,
+      "last_page": 434,
+      "test_row": [
+        320,
+        320,
+        "سورة سبأ تراكمي",
+        65,
+        1.0,
+        null,
+        1,
+        "سبأ",
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "number": 35,
+      "name": "فاطر",
+      "first_page": 434,
+      "last_page": 440,
+      "test_row": [
+        328,
+        328,
+        "سورة فاطر تراكمي",
+        57,
+        1.0,
+        null,
+        1,
+        "فاطر",
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "number": 36,
+      "name": "يس",
+      "first_page": 440,
+      "last_page": 445,
+      "test_row": [
+        339,
+        339,
+        "سورة يس تراكمي",
+        58,
+        1.0,
+        null,
+        1,
+        "يس",
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "number": 37,
+      "name": "الصافات",
+      "first_page": 446,
+      "last_page": 452,
+      "test_row": [
+        350,
+        350,
+        "سورة الصافات تراكمي",
+        70,
+        2.0,
+        null,
+        1,
+        "الصافات",
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "number": 38,
+      "name": "ص",
+      "first_page": 453,
+      "last_page": 458,
+      "test_row": [
+        358,
+        358,
+        "سورة ص تراكمي",
+        52,
+        1.0,
+        null,
+        1,
+        "ص",
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "number": 39,
+      "name": "الزمر",
+      "first_page": 458,
+      "last_page": 467,
+      "test_row": [
+        373,
+        373,
+        "سورة الزمر تراكمي",
+        90,
+        2.0,
+        null,
+        1,
+        "الزمر",
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "number": 40,
+      "name": "غافر",
+      "first_page": 467,
+      "last_page": 476,
+      "test_row": [
+        389,
+        389,
+        "سورة غافر تراكمي",
+        100,
+        2.0,
+        null,
+        1,
+        "غافر",
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "number": 41,
+      "name": "فصلت",
+      "first_page": 477,
+      "last_page": 482,
+      "test_row": [
+        401,
+        401,
+        "سورة فصلت تراكمي",
+        60,
+        1.0,
+        null,
+        1,
+        "فصلت",
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "number": 42,
+      "name": "الشورى",
+      "first_page": 483,
+      "last_page": 489,
+      "test_row": [
+        411,
+        411,
+        "سورة الشورى تراكمي",
+        64,
+        1.0,
+        null,
+        1,
+        "الشورى",
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "number": 43,
+      "name": "الزخرف",
+      "first_page": 489,
+      "last_page": 495,
+      "test_row": [
+        422,
+        422,
+        "سورة الزخرف تراكمي",
+        66,
+        1.0,
+        null,
+        1,
+        "الزخرف",
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "number": 44,
+      "name": "الدخان",
+      "first_page": 496,
+      "last_page": 498,
+      "test_row": [
+        427,
+        427,
+        "سورة الدخان تراكمي",
+        30,
+        1.0,
+        null,
+        1,
+        "الدخان",
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "number": 45,
+      "name": "الجاثية",
+      "first_page": 499,
+      "last_page": 502,
+      "test_row": [
+        434,
+        434,
+        "سورة الجاثية تراكمي",
+        35,
+        1.0,
+        null,
+        1,
+        "الجاثية",
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "number": 46,
+      "name": "الأحقاف",
+      "first_page": 502,
+      "last_page": 506,
+      "test_row": [
+        442,
+        442,
+        "سورة الأحقاف تراكمي",
+        45,
+        1.0,
+        null,
+        1,
+        "الأحقاف",
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "number": 47,
+      "name": "محمد",
+      "first_page": 507,
+      "last_page": 510,
+      "test_row": [
+        449,
+        449,
+        "سورة محمد تراكمي",
+        40,
+        1.0,
+        null,
+        1,
+        "محمد",
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "number": 48,
+      "name": "الفتح",
+      "first_page": 511,
+      "last_page": 515,
+      "test_row": [
+        457,
+        457,
+        "سورة الفتح تراكمي",
+        45,
+        1.0,
+        null,
+        1,
+        "الفتح",
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "number": 49,
+      "name": "الحجرات",
+      "first_page": 515,
+      "last_page": 517,
+      "test_row": [
+        461,
+        461,
+        "سورة الحجرات تراكمي",
+        25,
+        1.0,
+        null,
+        1,
+        "الحجرات",
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "number": 50,
+      "name": "ق",
+      "first_page": 518,
+      "last_page": 520,
+      "test_row": [
+        466,
+        466,
+        "سورة ق تراكمي",
+        28,
+        1.0,
+        null,
+        1,
+        "ق",
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "number": 51,
+      "name": "الذاريات",
+      "first_page": 520,
+      "last_page": 523,
+      "test_row": [
+        472,
+        472,
+        "سورة الذاريات تراكمي",
+        27,
+        1.0,
+        null,
+        1,
+        "الذاريات",
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "number": 52,
+      "name": "الطور",
+      "first_page": 523,
+      "last_page": 525,
+      "test_row": [
+        476,
+        476,
+        "سورة الطور تراكمي",
+        25,
+        1.0,
+        null,
+        1,
+        "الطور",
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "number": 53,
+      "name": "النجم",
+      "first_page": 526,
+      "last_page": 528,
+      "test_row": [
+        481,
+        481,
+        "سورة النجم تراكمي",
+        25,
+        1.0,
+        null,
+        1,
+        "النجم",
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "number": 54,
+      "name": "القمر",
+      "first_page": 528,
+      "last_page": 531,
+      "test_row": [
+        485,
+        485,
+        "سورة القمر تراكمي",
+        28,
+        1.0,
+        null,
+        1,
+        "القمر",
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "number": 55,
+      "name": "الرحمن",
+      "first_page": 531,
+      "last_page": 534,
+      "test_row": [
+        492,
+        492,
+        "سورة الرحمن تراكمي",
+        32,
+        1.0,
+        null,
+        1,
+        "الرحمن",
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "number": 56,
+      "name": "الواقعة",
+      "first_page": 534,
+      "last_page": 537,
+      "test_row": [
+        497,
+        497,
+        "سورة الواقعة تراكمي",
+        35,
+        1.0,
+        null,
+        1,
+        "الواقعة",
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "number": 57,
+      "name": "الحديد",
+      "first_page": 537,
+      "last_page": 541,
+      "test_row": [
+        504,
+        504,
+        "سورة الحديد تراكمي",
+        40,
+        1.0,
+        null,
+        1,
+        "الحديد",
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "number": 58,
+      "name": "المجادلة",
+      "first_page": 542,
+      "last_page": 545,
+      "test_row": null
+    },
+    {
+      "number": 59,
+      "name": "الحشر",
+      "first_page": 545,
+      "last_page": 548,
+      "test_row": null
+    },
+    {
+      "number": 60,
+      "name": "الممتحنة",
+      "first_page": 549,
+      "last_page": 551,
+      "test_row": null
+    },
+    {
+      "number": 61,
+      "name": "الصف",
+      "first_page": 551,
+      "last_page": 552,
+      "test_row": null
+    },
+    {
+      "number": 62,
+      "name": "الجمعة",
+      "first_page": 553,
+      "last_page": 554,
+      "test_row": null
+    },
+    {
+      "number": 63,
+      "name": "المنافقون",
+      "first_page": 554,
+      "last_page": 555,
+      "test_row": null
+    },
+    {
+      "number": 64,
+      "name": "التغابن",
+      "first_page": 556,
+      "last_page": 557,
+      "test_row": null
+    },
+    {
+      "number": 65,
+      "name": "الطلاق",
+      "first_page": 558,
+      "last_page": 559,
+      "test_row": null
+    },
+    {
+      "number": 66,
+      "name": "التحريم",
+      "first_page": 560,
+      "last_page": 561,
+      "test_row": null
+    },
+    {
+      "number": 67,
+      "name": "الملك",
+      "first_page": 562,
+      "last_page": 564,
+      "test_row": null
+    },
+    {
+      "number": 68,
+      "name": "القلم",
+      "first_page": 564,
+      "last_page": 566,
+      "test_row": null
+    },
+    {
+      "number": 69,
+      "name": "الحاقة",
+      "first_page": 566,
+      "last_page": 568,
+      "test_row": null
+    },
+    {
+      "number": 70,
+      "name": "المعارج",
+      "first_page": 568,
+      "last_page": 570,
+      "test_row": null
+    },
+    {
+      "number": 71,
+      "name": "نوح",
+      "first_page": 570,
+      "last_page": 571,
+      "test_row": null
+    },
+    {
+      "number": 72,
+      "name": "الجن",
+      "first_page": 572,
+      "last_page": 573,
+      "test_row": null
+    },
+    {
+      "number": 73,
+      "name": "المزمل",
+      "first_page": 574,
+      "last_page": 575,
+      "test_row": null
+    },
+    {
+      "number": 74,
+      "name": "المدثر",
+      "first_page": 575,
+      "last_page": 577,
+      "test_row": null
+    },
+    {
+      "number": 75,
+      "name": "القيامة",
+      "first_page": 577,
+      "last_page": 578,
+      "test_row": null
+    },
+    {
+      "number": 76,
+      "name": "الانسان",
+      "first_page": 578,
+      "last_page": 580,
+      "test_row": null
+    },
+    {
+      "number": 77,
+      "name": "المرسلات",
+      "first_page": 580,
+      "last_page": 581,
+      "test_row": null
+    },
+    {
+      "number": 78,
+      "name": "النبإ",
+      "first_page": 582,
+      "last_page": 583,
+      "test_row": null
+    },
+    {
+      "number": 79,
+      "name": "النازعات",
+      "first_page": 583,
+      "last_page": 584,
+      "test_row": null
+    },
+    {
+      "number": 80,
+      "name": "عبس",
+      "first_page": 585,
+      "last_page": 585,
+      "test_row": null
+    },
+    {
+      "number": 81,
+      "name": "التكوير",
+      "first_page": 586,
+      "last_page": 586,
+      "test_row": null
+    },
+    {
+      "number": 82,
+      "name": "الإنفطار",
+      "first_page": 587,
+      "last_page": 587,
+      "test_row": null
+    },
+    {
+      "number": 83,
+      "name": "المطففين",
+      "first_page": 587,
+      "last_page": 589,
+      "test_row": null
+    },
+    {
+      "number": 84,
+      "name": "الإنشقاق",
+      "first_page": 589,
+      "last_page": 589,
+      "test_row": null
+    },
+    {
+      "number": 85,
+      "name": "البروج",
+      "first_page": 590,
+      "last_page": 590,
+      "test_row": null
+    },
+    {
+      "number": 86,
+      "name": "الطارق",
+      "first_page": 591,
+      "last_page": 591,
+      "test_row": null
+    },
+    {
+      "number": 87,
+      "name": "الأعلى",
+      "first_page": 591,
+      "last_page": 592,
+      "test_row": null
+    },
+    {
+      "number": 88,
+      "name": "الغاشية",
+      "first_page": 592,
+      "last_page": 592,
+      "test_row": null
+    },
+    {
+      "number": 89,
+      "name": "الفجر",
+      "first_page": 593,
+      "last_page": 594,
+      "test_row": null
+    },
+    {
+      "number": 90,
+      "name": "البلد",
+      "first_page": 594,
+      "last_page": 594,
+      "test_row": null
+    },
+    {
+      "number": 91,
+      "name": "الشمس",
+      "first_page": 595,
+      "last_page": 595,
+      "test_row": null
+    },
+    {
+      "number": 92,
+      "name": "الليل",
+      "first_page": 595,
+      "last_page": 596,
+      "test_row": null
+    },
+    {
+      "number": 93,
+      "name": "الضحى",
+      "first_page": 596,
+      "last_page": 596,
+      "test_row": null
+    },
+    {
+      "number": 94,
+      "name": "الشرح",
+      "first_page": 596,
+      "last_page": 596,
+      "test_row": null
+    },
+    {
+      "number": 95,
+      "name": "التين",
+      "first_page": 597,
+      "last_page": 597,
+      "test_row": null
+    },
+    {
+      "number": 96,
+      "name": "العلق",
+      "first_page": 597,
+      "last_page": 597,
+      "test_row": null
+    },
+    {
+      "number": 97,
+      "name": "القدر",
+      "first_page": 598,
+      "last_page": 598,
+      "test_row": null
+    },
+    {
+      "number": 98,
+      "name": "البينة",
+      "first_page": 598,
+      "last_page": 599,
+      "test_row": null
+    },
+    {
+      "number": 99,
+      "name": "الزلزلة",
+      "first_page": 599,
+      "last_page": 599,
+      "test_row": null
+    },
+    {
+      "number": 100,
+      "name": "العاديات",
+      "first_page": 599,
+      "last_page": 600,
+      "test_row": null
+    },
+    {
+      "number": 101,
+      "name": "القارعة",
+      "first_page": 600,
+      "last_page": 600,
+      "test_row": null
+    },
+    {
+      "number": 102,
+      "name": "التكاثر",
+      "first_page": 600,
+      "last_page": 600,
+      "test_row": null
+    },
+    {
+      "number": 103,
+      "name": "العصر",
+      "first_page": 601,
+      "last_page": 601,
+      "test_row": null
+    },
+    {
+      "number": 104,
+      "name": "الهمزة",
+      "first_page": 601,
+      "last_page": 601,
+      "test_row": null
+    },
+    {
+      "number": 105,
+      "name": "الفيل",
+      "first_page": 601,
+      "last_page": 601,
+      "test_row": null
+    },
+    {
+      "number": 106,
+      "name": "قريش",
+      "first_page": 602,
+      "last_page": 602,
+      "test_row": null
+    },
+    {
+      "number": 107,
+      "name": "الماعون",
+      "first_page": 602,
+      "last_page": 602,
+      "test_row": null
+    },
+    {
+      "number": 108,
+      "name": "الكوثر",
+      "first_page": 602,
+      "last_page": 602,
+      "test_row": null
+    },
+    {
+      "number": 109,
+      "name": "الكافرون",
+      "first_page": 603,
+      "last_page": 603,
+      "test_row": null
+    },
+    {
+      "number": 110,
+      "name": "النصر",
+      "first_page": 603,
+      "last_page": 603,
+      "test_row": null
+    },
+    {
+      "number": 111,
+      "name": "المسد",
+      "first_page": 603,
+      "last_page": 603,
+      "test_row": null
+    },
+    {
+      "number": 112,
+      "name": "الإخلاص",
+      "first_page": 604,
+      "last_page": 604,
+      "test_row": null
+    },
+    {
+      "number": 113,
+      "name": "الفلق",
+      "first_page": 604,
+      "last_page": 604,
+      "test_row": null
+    },
+    {
+      "number": 114,
+      "name": "الناس",
+      "first_page": 604,
+      "last_page": 604,
+      "test_row": null
+    }
+  ],
+  "juzs": [
+    {
+      "number": 1,
+      "first_page": 1,
+      "last_page": 21,
+      "name": "الأول",
+      "test_row": null
+    },
+    {
+      "number": 2,
+      "first_page": 22,
+      "last_page": 41,
+      "name": "الثاني",
+      "test_row": null
+    },
+    {
+      "number": 3,
+      "first_page": 42,
+      "last_page": 61,
+      "name": "الثالث",
+      "test_row": null
+    },
+    {
+      "number": 4,
+      "first_page": 62,
+      "last_page": 81,
+      "name": "الرابع",
+      "test_row": null
+    },
+    {
+      "number": 5,
+      "first_page": 82,
+      "last_page": 101,
+      "name": "الخامس",
+      "test_row": null
+    },
+    {
+      "number": 6,
+      "first_page": 102,
+      "last_page": 120,
+      "name": "السادس",
+      "test_row": null
+    },
+    {
+      "number": 7,
+      "first_page": 121,
+      "last_page": 141,
+      "name": "السابع",
+      "test_row": null
+    },
+    {
+      "number": 8,
+      "first_page": 142,
+      "last_page": 161,
+      "name": "الثامن",
+      "test_row": null
+    },
+    {
+      "number": 9,
+      "first_page": 162,
+      "last_page": 181,
+      "name": "التاسع",
+      "test_row": null
+    },
+    {
+      "number": 10,
+      "first_page": 182,
+      "last_page": 200,
+      "name": "العاشر",
+      "test_row": null
+    },
+    {
+      "number": 11,
+      "first_page": 201,
+      "last_page": 221,
+      "name": "الحادي عشر",
+      "test_row": [
+        935,
+        935,
+        "جزء 11 تراكمي",
+        400,
+        2.0,
+        null,
+        1,
+        null,
+        "الحادي عشر",
+        null,
+        null
+      ]
+    },
+    {
+      "number": 12,
+      "first_page": 222,
+      "last_page": 241,
+      "name": "الثاني عشر",
+      "test_row": [
+        967,
+        967,
+        "جزء 12 تراكمي",
+        400,
+        2.0,
+        null,
+        1,
+        null,
+        "الثاني عشر",
+        null,
+        null
+      ]
+    },
+    {
+      "number": 13,
+      "first_page": 242,
+      "last_page": 261,
+      "name": "الثالث عشر",
+      "test_row": [
+        1001,
+        1001,
+        "جزء 13 تراكمي",
+        400,
+        2.0,
+        null,
+        1,
+        null,
+        "الثالث عشر",
+        null,
+        null
+      ]
+    },
+    {
+      "number": 14,
+      "first_page": 262,
+      "last_page": 281,
+      "name": "الرابع عشر",
+      "test_row": [
+        1034,
+        1034,
+        "جزء 14 تراكمي",
+        400,
+        2.0,
+        null,
+        1,
+        null,
+        "الرابع عشر",
+        null,
+        null
+      ]
+    },
+    {
+      "number": 15,
+      "first_page": 282,
+      "last_page": 301,
+      "name": "الخامس عشر",
+      "test_row": [
+        1066,
+        1066,
+        "جزء 15 تراكمي",
+        400,
+        2.0,
+        null,
+        1,
+        null,
+        "الخامس عشر",
+        null,
+        null
+      ]
+    },
+    {
+      "number": 16,
+      "first_page": 302,
+      "last_page": 321,
+      "name": "السادس عشر",
+      "test_row": [
+        132,
+        132,
+        "جزء 16 تركمي",
+        400,
+        2.0,
+        null,
+        1,
+        null,
+        "السادس عشر",
+        null,
+        null
+      ]
+    },
+    {
+      "number": 17,
+      "first_page": 322,
+      "last_page": 341,
+      "name": "السابع عشر",
+      "test_row": [
+        165,
+        165,
+        "جزء 17 تراكمي",
+        400,
+        2.0,
+        null,
+        1,
+        null,
+        "السابع عشر",
+        null,
+        null
+      ]
+    },
+    {
+      "number": 18,
+      "first_page": 342,
+      "last_page": 361,
+      "name": "الثامن عشر",
+      "test_row": [
+        198,
+        198,
+        "جزء 18 تراكمي",
+        400,
+        2.0,
+        null,
+        1,
+        null,
+        "الثامن عشر",
+        null,
+        null
+      ]
+    },
+    {
+      "number": 19,
+      "first_page": 362,
+      "last_page": 381,
+      "name": "التاسع عشر",
+      "test_row": [
+        231,
+        231,
+        "جزء 19 تراكمي",
+        400,
+        2.0,
+        null,
+        1,
+        null,
+        "التاسع عشر",
+        null,
+        null
+      ]
+    },
+    {
+      "number": 20,
+      "first_page": 382,
+      "last_page": 401,
+      "name": "العشرون",
+      "test_row": [
+        263,
+        263,
+        "جزء 20 تراكمي",
+        400,
+        2.0,
+        null,
+        1,
+        null,
+        "العشرون",
+        null,
+        null
+      ]
+    },
+    {
+      "number": 21,
+      "first_page": 402,
+      "last_page": 421,
+      "name": "الحادي والعشرون",
+      "test_row": [
+        298,
+        298,
+        "جزء 21 تراكمي",
+        400,
+        2.0,
+        null,
+        1,
+        null,
+        "الحادي والعشرون",
+        null,
+        null
+      ]
+    },
+    {
+      "number": 22,
+      "first_page": 422,
+      "last_page": 441,
+      "name": "الثاني والعشرون",
+      "test_row": [
+        332,
+        332,
+        "جزء 22 تراكمي",
+        400,
+        2.0,
+        null,
+        1,
+        null,
+        "الثاني والعشرون",
+        null,
+        null
+      ]
+    },
+    {
+      "number": 23,
+      "first_page": 442,
+      "last_page": 461,
+      "name": "الثالث والعشرون",
+      "test_row": [
+        365,
+        365,
+        "جزء 23 تراكمي",
+        400,
+        2.0,
+        null,
+        1,
+        null,
+        "الثالث والعشرون",
+        null,
+        null
+      ]
+    },
+    {
+      "number": 24,
+      "first_page": 462,
+      "last_page": 481,
+      "name": "الرابع والعشرون",
+      "test_row": [
+        397,
+        397,
+        "جزء 24 تراكمي",
+        400,
+        2.0,
+        null,
+        1,
+        null,
+        "الرابع والعشرون",
+        null,
+        null
+      ]
+    },
+    {
+      "number": 25,
+      "first_page": 482,
+      "last_page": 501,
+      "name": "الخامس والعشرون",
+      "test_row": [
+        435,
+        435,
+        "جزء 25 تراكمي",
+        400,
+        2.0,
+        null,
+        1,
+        null,
+        "الخامس والعشرون",
+        null,
+        null
+      ]
+    },
+    {
+      "number": 26,
+      "first_page": 502,
+      "last_page": 521,
+      "name": "السادس والعشرون",
+      "test_row": [
+        468,
+        468,
+        "جزء 26 تراكمي",
+        400,
+        2.0,
+        null,
+        1,
+        null,
+        "السادس والعشرين",
+        null,
+        null
+      ]
+    },
+    {
+      "number": 27,
+      "first_page": 522,
+      "last_page": 541,
+      "name": "السابع والعشرون",
+      "test_row": [
+        505,
+        505,
+        "جزء 27 تراكمي",
+        400,
+        2.0,
+        null,
+        1,
+        null,
+        "السابع والعشرون",
+        null,
+        null
+      ]
+    },
+    {
+      "number": 28,
+      "first_page": 542,
+      "last_page": 561,
+      "name": "قد سمع",
+      "test_row": [
+        103,
+        103,
+        "تسميع جزء قد سمع تراكمي",
+        600,
+        2.0,
+        null,
+        1,
+        null,
+        "قد سمع",
+        null,
+        null
+      ]
+    },
+    {
+      "number": 29,
+      "first_page": 562,
+      "last_page": 581,
+      "name": "تبارك",
+      "test_row": [
+        69,
+        69,
+        "تسميع جزء تبارك تراكمي",
+        600,
+        2.0,
+        null,
+        1,
+        null,
+        "تبارك",
+        null,
+        null
+      ]
+    },
+    {
+      "number": 30,
+      "first_page": 582,
+      "last_page": 604,
+      "name": "عم",
+      "test_row": [
+        36,
+        36,
+        "تسميع جزء عم تراكمي",
+        600,
+        2.0,
+        null,
+        1,
+        null,
+        "عمَّ",
+        null,
+        null
+      ]
+    }
+  ],
+  "pages": {
+    "582": {
+      "points": 10,
+      "weight": 1
+    },
+    "583": {
+      "points": 30,
+      "weight": 1
+    },
+    "584": {
+      "points": 30,
+      "weight": 1
+    },
+    "585": {
+      "points": 30,
+      "weight": 1
+    },
+    "586": {
+      "points": 30,
+      "weight": 1
+    },
+    "587": {
+      "points": 30,
+      "weight": 1
+    },
+    "588": {
+      "points": 30,
+      "weight": 1
+    },
+    "589": {
+      "points": 30,
+      "weight": 1
+    },
+    "590": {
+      "points": 30,
+      "weight": 1
+    },
+    "591": {
+      "points": 30,
+      "weight": 1
+    },
+    "592": {
+      "points": 30,
+      "weight": 1
+    },
+    "593": {
+      "points": 30,
+      "weight": 1
+    },
+    "594": {
+      "points": 30,
+      "weight": 1
+    },
+    "595": {
+      "points": 30,
+      "weight": 1
+    },
+    "596": {
+      "points": 30,
+      "weight": 1
+    },
+    "597": {
+      "points": 30,
+      "weight": 1
+    },
+    "598": {
+      "points": 30,
+      "weight": 1
+    },
+    "599": {
+      "points": 30,
+      "weight": 1
+    },
+    "600": {
+      "points": 30,
+      "weight": 1
+    },
+    "601": {
+      "points": 30,
+      "weight": 1
+    },
+    "602": {
+      "points": 30,
+      "weight": 1
+    },
+    "603": {
+      "points": 30,
+      "weight": 1
+    },
+    "604": {
+      "points": 30,
+      "weight": 1
+    },
+    "562": {
+      "points": 30,
+      "weight": 1
+    },
+    "563": {
+      "points": 30,
+      "weight": 1
+    },
+    "564": {
+      "points": 30,
+      "weight": 1
+    },
+    "565": {
+      "points": 30,
+      "weight": 1
+    },
+    "566": {
+      "points": 30,
+      "weight": 1
+    },
+    "567": {
+      "points": 30,
+      "weight": 1
+    },
+    "568": {
+      "points": 30,
+      "weight": 1
+    },
+    "569": {
+      "points": 30,
+      "weight": 1
+    },
+    "570": {
+      "points": 30,
+      "weight": 1
+    },
+    "571": {
+      "points": 30,
+      "weight": 1
+    },
+    "572": {
+      "points": 30,
+      "weight": 1
+    },
+    "573": {
+      "points": 30,
+      "weight": 1
+    },
+    "574": {
+      "points": 30,
+      "weight": 1
+    },
+    "575": {
+      "points": 30,
+      "weight": 1
+    },
+    "576": {
+      "points": 30,
+      "weight": 1
+    },
+    "577": {
+      "points": 30,
+      "weight": 1
+    },
+    "578": {
+      "points": 30,
+      "weight": 1
+    },
+    "579": {
+      "points": 30,
+      "weight": 1
+    },
+    "580": {
+      "points": 30,
+      "weight": 1
+    },
+    "581": {
+      "points": 30,
+      "weight": 1
+    },
+    "542": {
+      "points": 30,
+      "weight": 1
+    },
+    "543": {
+      "points": 30,
+      "weight": 1
+    },
+    "544": {
+      "points": 30,
+      "weight": 1
+    },
+    "545": {
+      "points": 30,
+      "weight": 1
+    },
+    "546": {
+      "points": 30,
+      "weight": 1
+    },
+    "547": {
+      "points": 30,
+      "weight": 1
+    },
+    "548": {
+      "points": 30,
+      "weight": 1
+    },
+    "549": {
+      "points": 30,
+      "weight": 1
+    },
+    "550": {
+      "points": 30,
+      "weight": 1
+    },
+    "551": {
+      "points": 30,
+      "weight": 1
+    },
+    "552": {
+      "points": 30,
+      "weight": 1
+    },
+    "553": {
+      "points": 30,
+      "weight": 1
+    },
+    "554": {
+      "points": 30,
+      "weight": 1
+    },
+    "555": {
+      "points": 30,
+      "weight": 1
+    },
+    "556": {
+      "points": 30,
+      "weight": 1
+    },
+    "557": {
+      "points": 30,
+      "weight": 1
+    },
+    "558": {
+      "points": 30,
+      "weight": 1
+    },
+    "559": {
+      "points": 30,
+      "weight": 1
+    },
+    "560": {
+      "points": 30,
+      "weight": 1
+    },
+    "561": {
+      "points": 30,
+      "weight": 1
+    },
+    "305": {
+      "points": 30,
+      "weight": 1
+    },
+    "306": {
+      "points": 30,
+      "weight": 1
+    },
+    "307": {
+      "points": 30,
+      "weight": 1
+    },
+    "308": {
+      "points": 30,
+      "weight": 1
+    },
+    "309": {
+      "points": 30,
+      "weight": 1
+    },
+    "310": {
+      "points": 30,
+      "weight": 1
+    },
+    "311": {
+      "points": 30,
+      "weight": 1
+    },
+    "312": {
+      "points": 30,
+      "weight": 1
+    },
+    "313": {
+      "points": 30,
+      "weight": 1
+    },
+    "314": {
+      "points": 30,
+      "weight": 1
+    },
+    "315": {
+      "points": 30,
+      "weight": 1
+    },
+    "316": {
+      "points": 30,
+      "weight": 1
+    },
+    "317": {
+      "points": 30,
+      "weight": 1
+    },
+    "318": {
+      "points": 30,
+      "weight": 1
+    },
+    "319": {
+      "points": 30,
+      "weight": 1
+    },
+    "320": {
+      "points": 30,
+      "weight": 1
+    },
+    "321": {
+      "points": 30,
+      "weight": 1
+    },
+    "322": {
+      "points": 30,
+      "weight": 1
+    },
+    "323": {
+      "points": 30,
+      "weight": 1
+    },
+    "324": {
+      "points": 30,
+      "weight": 1
+    },
+    "325": {
+      "points": 30,
+      "weight": 1
+    },
+    "326": {
+      "points": 30,
+      "weight": 1
+    },
+    "327": {
+      "points": 30,
+      "weight": 1
+    },
+    "328": {
+      "points": 30,
+      "weight": 1
+    },
+    "329": {
+      "points": 30,
+      "weight": 1
+    },
+    "330": {
+      "points": 30,
+      "weight": 1
+    },
+    "331": {
+      "points": 30,
+      "weight": 1
+    },
+    "332": {
+      "points": 30,
+      "weight": 1
+    },
+    "333": {
+      "points": 30,
+      "weight": 1
+    },
+    "334": {
+      "points": 30,
+      "weight": 1
+    },
+    "335": {
+      "points": 30,
+      "weight": 1
+    },
+    "336": {
+      "points": 30,
+      "weight": 1
+    },
+    "337": {
+      "points": 30,
+      "weight": 1
+    },
+    "338": {
+      "points": 30,
+      "weight": 1
+    },
+    "339": {
+      "points": 30,
+      "weight": 1
+    },
+    "340": {
+      "points": 30,
+      "weight": 1
+    },
+    "341": {
+      "points": 30,
+      "weight": 1
+    },
+    "342": {
+      "points": 30,
+      "weight": 1
+    },
+    "343": {
+      "points": 30,
+      "weight": 1
+    },
+    "344": {
+      "points": 30,
+      "weight": 1
+    },
+    "345": {
+      "points": 30,
+      "weight": 1
+    },
+    "346": {
+      "points": 30,
+      "weight": 1
+    },
+    "347": {
+      "points": 30,
+      "weight": 1
+    },
+    "348": {
+      "points": 30,
+      "weight": 1
+    },
+    "349": {
+      "points": 30,
+      "weight": 1
+    },
+    "350": {
+      "points": 30,
+      "weight": 1
+    },
+    "351": {
+      "points": 30,
+      "weight": 1
+    },
+    "352": {
+      "points": 30,
+      "weight": 1
+    },
+    "353": {
+      "points": 30,
+      "weight": 1
+    },
+    "354": {
+      "points": 30,
+      "weight": 1
+    },
+    "355": {
+      "points": 30,
+      "weight": 1
+    },
+    "356": {
+      "points": 30,
+      "weight": 1
+    },
+    "357": {
+      "points": 30,
+      "weight": 1
+    },
+    "358": {
+      "points": 30,
+      "weight": 1
+    },
+    "359": {
+      "points": 30,
+      "weight": 1
+    },
+    "360": {
+      "points": 30,
+      "weight": 1
+    },
+    "361": {
+      "points": 30,
+      "weight": 1
+    },
+    "362": {
+      "points": 30,
+      "weight": 1
+    },
+    "363": {
+      "points": 30,
+      "weight": 1
+    },
+    "364": {
+      "points": 30,
+      "weight": 1
+    },
+    "365": {
+      "points": 30,
+      "weight": 1
+    },
+    "366": {
+      "points": 30,
+      "weight": 1
+    },
+    "367": {
+      "points": 30,
+      "weight": 1
+    },
+    "368": {
+      "points": 30,
+      "weight": 1
+    },
+    "369": {
+      "points": 30,
+      "weight": 1
+    },
+    "370": {
+      "points": 30,
+      "weight": 1
+    },
+    "371": {
+      "points": 30,
+      "weight": 1
+    },
+    "372": {
+      "points": 30,
+      "weight": 1
+    },
+    "373": {
+      "points": 30,
+      "weight": 1
+    },
+    "374": {
+      "points": 30,
+      "weight": 1
+    },
+    "375": {
+      "points": 30,
+      "weight": 1
+    },
+    "376": {
+      "points": 30,
+      "weight": 1
+    },
+    "377": {
+      "points": 30,
+      "weight": 1
+    },
+    "378": {
+      "points": 30,
+      "weight": 1
+    },
+    "379": {
+      "points": 30,
+      "weight": 1
+    },
+    "380": {
+      "points": 30,
+      "weight": 1
+    },
+    "381": {
+      "points": 30,
+      "weight": 1
+    },
+    "382": {
+      "points": 30,
+      "weight": 1
+    },
+    "383": {
+      "points": 30,
+      "weight": 1
+    },
+    "384": {
+      "points": 30,
+      "weight": 1
+    },
+    "385": {
+      "points": 30,
+      "weight": 1
+    },
+    "386": {
+      "points": 30,
+      "weight": 1
+    },
+    "387": {
+      "points": 30,
+      "weight": 1
+    },
+    "388": {
+      "points": 30,
+      "weight": 1
+    },
+    "389": {
+      "points": 30,
+      "weight": 1
+    },
+    "390": {
+      "points": 30,
+      "weight": 1
+    },
+    "391": {
+      "points": 30,
+      "weight": 1
+    },
+    "392": {
+      "points": 30,
+      "weight": 1
+    },
+    "393": {
+      "points": 30,
+      "weight": 1
+    },
+    "394": {
+      "points": 30,
+      "weight": 1
+    },
+    "395": {
+      "points": 30,
+      "weight": 1
+    },
+    "396": {
+      "points": 30,
+      "weight": 1
+    },
+    "397": {
+      "points": 30,
+      "weight": 1
+    },
+    "398": {
+      "points": 30,
+      "weight": 1
+    },
+    "399": {
+      "points": 30,
+      "weight": 1
+    },
+    "400": {
+      "points": 30,
+      "weight": 1
+    },
+    "401": {
+      "points": 30,
+      "weight": 1
+    },
+    "402": {
+      "points": 30,
+      "weight": 1
+    },
+    "403": {
+      "points": 30,
+      "weight": 1
+    },
+    "404": {
+      "points": 30,
+      "weight": 1
+    },
+    "405": {
+      "points": 30,
+      "weight": 1
+    },
+    "406": {
+      "points": 30,
+      "weight": 1
+    },
+    "407": {
+      "points": 30,
+      "weight": 1
+    },
+    "408": {
+      "points": 30,
+      "weight": 1
+    },
+    "409": {
+      "points": 30,
+      "weight": 1
+    },
+    "410": {
+      "points": 30,
+      "weight": 1
+    },
+    "411": {
+      "points": 30,
+      "weight": 1
+    },
+    "412": {
+      "points": 30,
+      "weight": 1
+    },
+    "413": {
+      "points": 30,
+      "weight": 1
+    },
+    "414": {
+      "points": 30,
+      "weight": 1
+    },
+    "415": {
+      "points": 30,
+      "weight": 1
+    },
+    "416": {
+      "points": 30,
+      "weight": 1
+    },
+    "417": {
+      "points": 30,
+      "weight": 1
+    },
+    "418": {
+      "points": 30,
+      "weight": 1
+    },
+    "419": {
+      "points": 30,
+      "weight": 1
+    },
+    "420": {
+      "points": 30,
+      "weight": 1
+    },
+    "421": {
+      "points": 30,
+      "weight": 1
+    },
+    "422": {
+      "points": 30,
+      "weight": 1
+    },
+    "423": {
+      "points": 30,
+      "weight": 1
+    },
+    "424": {
+      "points": 30,
+      "weight": 1
+    },
+    "425": {
+      "points": 30,
+      "weight": 1
+    },
+    "426": {
+      "points": 30,
+      "weight": 1
+    },
+    "427": {
+      "points": 30,
+      "weight": 1
+    },
+    "428": {
+      "points": 30,
+      "weight": 1
+    },
+    "429": {
+      "points": 30,
+      "weight": 1
+    },
+    "430": {
+      "points": 30,
+      "weight": 1
+    },
+    "431": {
+      "points": 30,
+      "weight": 1
+    },
+    "432": {
+      "points": 30,
+      "weight": 1
+    },
+    "433": {
+      "points": 30,
+      "weight": 1
+    },
+    "434": {
+      "points": 30,
+      "weight": 1
+    },
+    "435": {
+      "points": 30,
+      "weight": 1
+    },
+    "436": {
+      "points": 30,
+      "weight": 1
+    },
+    "437": {
+      "points": 30,
+      "weight": 1
+    },
+    "438": {
+      "points": 30,
+      "weight": 1
+    },
+    "439": {
+      "points": 30,
+      "weight": 1
+    },
+    "440": {
+      "points": 30,
+      "weight": 1
+    },
+    "441": {
+      "points": 30,
+      "weight": 1
+    },
+    "442": {
+      "points": 30,
+      "weight": 1
+    },
+    "443": {
+      "points": 30,
+      "weight": 1
+    },
+    "444": {
+      "points": 30,
+      "weight": 1
+    },
+    "445": {
+      "points": 30,
+      "weight": 1
+    },
+    "446": {
+      "points": 30,
+      "weight": 1
+    },
+    "447": {
+      "points": 30,
+      "weight": 1
+    },
+    "448": {
+      "points": 30,
+      "weight": 1
+    },
+    "449": {
+      "points": 30,
+      "weight": 1
+    },
+    "450": {
+      "points": 30,
+      "weight": 1
+    },
+    "451": {
+      "points": 30,
+      "weight": 1
+    },
+    "452": {
+      "points": 30,
+      "weight": 1
+    },
+    "453": {
+      "points": 30,
+      "weight": 1
+    },
+    "454": {
+      "points": 30,
+      "weight": 1
+    },
+    "455": {
+      "points": 30,
+      "weight": 1
+    },
+    "456": {
+      "points": 30,
+      "weight": 1
+    },
+    "457": {
+      "points": 30,
+      "weight": 1
+    },
+    "458": {
+      "points": 30,
+      "weight": 1
+    },
+    "459": {
+      "points": 30,
+      "weight": 1
+    },
+    "460": {
+      "points": 30,
+      "weight": 1
+    },
+    "461": {
+      "points": 30,
+      "weight": 1
+    },
+    "462": {
+      "points": 30,
+      "weight": 1
+    },
+    "463": {
+      "points": 30,
+      "weight": 1
+    },
+    "464": {
+      "points": 30,
+      "weight": 1
+    },
+    "465": {
+      "points": 30,
+      "weight": 1
+    },
+    "466": {
+      "points": 30,
+      "weight": 1
+    },
+    "467": {
+      "points": 30,
+      "weight": 1
+    },
+    "468": {
+      "points": 30,
+      "weight": 1
+    },
+    "469": {
+      "points": 30,
+      "weight": 1
+    },
+    "470": {
+      "points": 30,
+      "weight": 1
+    },
+    "471": {
+      "points": 30,
+      "weight": 1
+    },
+    "472": {
+      "points": 30,
+      "weight": 1
+    },
+    "473": {
+      "points": 30,
+      "weight": 1
+    },
+    "474": {
+      "points": 30,
+      "weight": 1
+    },
+    "475": {
+      "points": 30,
+      "weight": 1
+    },
+    "476": {
+      "points": 30,
+      "weight": 1
+    },
+    "477": {
+      "points": 30,
+      "weight": 1
+    },
+    "478": {
+      "points": 30,
+      "weight": 1
+    },
+    "479": {
+      "points": 30,
+      "weight": 1
+    },
+    "480": {
+      "points": 30,
+      "weight": 1
+    },
+    "481": {
+      "points": 30,
+      "weight": 1
+    },
+    "482": {
+      "points": 30,
+      "weight": 1
+    },
+    "483": {
+      "points": 30,
+      "weight": 1
+    },
+    "484": {
+      "points": 30,
+      "weight": 1
+    },
+    "485": {
+      "points": 30,
+      "weight": 1
+    },
+    "486": {
+      "points": 30,
+      "weight": 1
+    },
+    "487": {
+      "points": 30,
+      "weight": 1
+    },
+    "488": {
+      "points": 30,
+      "weight": 1
+    },
+    "489": {
+      "points": 30,
+      "weight": 1
+    },
+    "490": {
+      "points": 30,
+      "weight": 1
+    },
+    "491": {
+      "points": 30,
+      "weight": 1
+    },
+    "492": {
+      "points": 30,
+      "weight": 1
+    },
+    "493": {
+      "points": 30,
+      "weight": 1
+    },
+    "494": {
+      "points": 30,
+      "weight": 1
+    },
+    "495": {
+      "points": 30,
+      "weight": 1
+    },
+    "496": {
+      "points": 30,
+      "weight": 1
+    },
+    "497": {
+      "points": 30,
+      "weight": 1
+    },
+    "498": {
+      "points": 30,
+      "weight": 1
+    },
+    "499": {
+      "points": 30,
+      "weight": 1
+    },
+    "500": {
+      "points": 30,
+      "weight": 1
+    },
+    "501": {
+      "points": 30,
+      "weight": 1
+    },
+    "502": {
+      "points": 30,
+      "weight": 1
+    },
+    "503": {
+      "points": 30,
+      "weight": 1
+    },
+    "504": {
+      "points": 30,
+      "weight": 1
+    },
+    "505": {
+      "points": 30,
+      "weight": 1
+    },
+    "506": {
+      "points": 30,
+      "weight": 1
+    },
+    "507": {
+      "points": 30,
+      "weight": 1
+    },
+    "508": {
+      "points": 30,
+      "weight": 1
+    },
+    "509": {
+      "points": 30,
+      "weight": 1
+    },
+    "510": {
+      "points": 30,
+      "weight": 1
+    },
+    "511": {
+      "points": 30,
+      "weight": 1
+    },
+    "512": {
+      "points": 30,
+      "weight": 1
+    },
+    "513": {
+      "points": 30,
+      "weight": 1
+    },
+    "514": {
+      "points": 30,
+      "weight": 1
+    },
+    "515": {
+      "points": 30,
+      "weight": 1
+    },
+    "516": {
+      "points": 30,
+      "weight": 1
+    },
+    "517": {
+      "points": 30,
+      "weight": 1
+    },
+    "518": {
+      "points": 30,
+      "weight": 1
+    },
+    "519": {
+      "points": 30,
+      "weight": 1
+    },
+    "520": {
+      "points": 30,
+      "weight": 1
+    },
+    "521": {
+      "points": 30,
+      "weight": 1
+    },
+    "522": {
+      "points": 30,
+      "weight": 1
+    },
+    "523": {
+      "points": 30,
+      "weight": 1
+    },
+    "524": {
+      "points": 30,
+      "weight": 1
+    },
+    "525": {
+      "points": 30,
+      "weight": 1
+    },
+    "526": {
+      "points": 30,
+      "weight": 1
+    },
+    "527": {
+      "points": 30,
+      "weight": 1
+    },
+    "528": {
+      "points": 30,
+      "weight": 1
+    },
+    "529": {
+      "points": 30,
+      "weight": 1
+    },
+    "530": {
+      "points": 30,
+      "weight": 1
+    },
+    "531": {
+      "points": 30,
+      "weight": 1
+    },
+    "532": {
+      "points": 30,
+      "weight": 1
+    },
+    "533": {
+      "points": 30,
+      "weight": 1
+    },
+    "534": {
+      "points": 30,
+      "weight": 1
+    },
+    "535": {
+      "points": 30,
+      "weight": 1
+    },
+    "536": {
+      "points": 30,
+      "weight": 1
+    },
+    "537": {
+      "points": 30,
+      "weight": 1
+    },
+    "538": {
+      "points": 30,
+      "weight": 1
+    },
+    "539": {
+      "points": 30,
+      "weight": 1
+    },
+    "540": {
+      "points": 30,
+      "weight": 1
+    },
+    "541": {
+      "points": 30,
+      "weight": 1
+    },
+    "1": {
+      "points": 30,
+      "weight": 1
+    },
+    "2": {
+      "points": 30,
+      "weight": 1
+    },
+    "3": {
+      "points": 30,
+      "weight": 1
+    },
+    "4": {
+      "points": 30,
+      "weight": 1
+    },
+    "5": {
+      "points": 30,
+      "weight": 1
+    },
+    "6": {
+      "points": 30,
+      "weight": 1
+    },
+    "7": {
+      "points": 30,
+      "weight": 1
+    },
+    "8": {
+      "points": 30,
+      "weight": 1
+    },
+    "9": {
+      "points": 30,
+      "weight": 1
+    },
+    "10": {
+      "points": 30,
+      "weight": 1
+    },
+    "11": {
+      "points": 30,
+      "weight": 1
+    },
+    "12": {
+      "points": 30,
+      "weight": 1
+    },
+    "13": {
+      "points": 30,
+      "weight": 1
+    },
+    "14": {
+      "points": 30,
+      "weight": 1
+    },
+    "15": {
+      "points": 30,
+      "weight": 1
+    },
+    "16": {
+      "points": 30,
+      "weight": 1
+    },
+    "17": {
+      "points": 30,
+      "weight": 1
+    },
+    "18": {
+      "points": 30,
+      "weight": 1
+    },
+    "19": {
+      "points": 30,
+      "weight": 1
+    },
+    "20": {
+      "points": 30,
+      "weight": 1
+    },
+    "21": {
+      "points": 30,
+      "weight": 1
+    },
+    "22": {
+      "points": 30,
+      "weight": 1
+    },
+    "23": {
+      "points": 30,
+      "weight": 1
+    },
+    "24": {
+      "points": 30,
+      "weight": 1
+    },
+    "25": {
+      "points": 30,
+      "weight": 1
+    },
+    "26": {
+      "points": 30,
+      "weight": 1
+    },
+    "27": {
+      "points": 30,
+      "weight": 1
+    },
+    "28": {
+      "points": 30,
+      "weight": 1
+    },
+    "29": {
+      "points": 30,
+      "weight": 1
+    },
+    "30": {
+      "points": 30,
+      "weight": 1
+    },
+    "31": {
+      "points": 30,
+      "weight": 1
+    },
+    "32": {
+      "points": 30,
+      "weight": 1
+    },
+    "33": {
+      "points": 30,
+      "weight": 1
+    },
+    "34": {
+      "points": 30,
+      "weight": 1
+    },
+    "35": {
+      "points": 30,
+      "weight": 1
+    },
+    "36": {
+      "points": 30,
+      "weight": 1
+    },
+    "37": {
+      "points": 30,
+      "weight": 1
+    },
+    "38": {
+      "points": 30,
+      "weight": 1
+    },
+    "39": {
+      "points": 30,
+      "weight": 1
+    },
+    "40": {
+      "points": 30,
+      "weight": 1
+    },
+    "41": {
+      "points": 30,
+      "weight": 1
+    },
+    "42": {
+      "points": 30,
+      "weight": 1
+    },
+    "43": {
+      "points": 30,
+      "weight": 1
+    },
+    "44": {
+      "points": 30,
+      "weight": 1
+    },
+    "45": {
+      "points": 30,
+      "weight": 1
+    },
+    "46": {
+      "points": 30,
+      "weight": 1
+    },
+    "47": {
+      "points": 30,
+      "weight": 1
+    },
+    "48": {
+      "points": 30,
+      "weight": 1
+    },
+    "49": {
+      "points": 30,
+      "weight": 1
+    },
+    "50": {
+      "points": 30,
+      "weight": 1
+    },
+    "51": {
+      "points": 30,
+      "weight": 1
+    },
+    "52": {
+      "points": 30,
+      "weight": 1
+    },
+    "53": {
+      "points": 30,
+      "weight": 1
+    },
+    "54": {
+      "points": 30,
+      "weight": 1
+    },
+    "55": {
+      "points": 30,
+      "weight": 1
+    },
+    "56": {
+      "points": 30,
+      "weight": 1
+    },
+    "57": {
+      "points": 30,
+      "weight": 1
+    },
+    "58": {
+      "points": 30,
+      "weight": 1
+    },
+    "59": {
+      "points": 30,
+      "weight": 1
+    },
+    "60": {
+      "points": 30,
+      "weight": 1
+    },
+    "61": {
+      "points": 30,
+      "weight": 1
+    },
+    "62": {
+      "points": 30,
+      "weight": 1
+    },
+    "63": {
+      "points": 30,
+      "weight": 1
+    },
+    "64": {
+      "points": 30,
+      "weight": 1
+    },
+    "65": {
+      "points": 30,
+      "weight": 1
+    },
+    "66": {
+      "points": 30,
+      "weight": 1
+    },
+    "67": {
+      "points": 30,
+      "weight": 1
+    },
+    "68": {
+      "points": 30,
+      "weight": 1
+    },
+    "69": {
+      "points": 30,
+      "weight": 1
+    },
+    "70": {
+      "points": 30,
+      "weight": 1
+    },
+    "71": {
+      "points": 30,
+      "weight": 1
+    },
+    "72": {
+      "points": 30,
+      "weight": 1
+    },
+    "73": {
+      "points": 30,
+      "weight": 1
+    },
+    "74": {
+      "points": 30,
+      "weight": 1
+    },
+    "75": {
+      "points": 30,
+      "weight": 1
+    },
+    "76": {
+      "points": 30,
+      "weight": 1
+    },
+    "77": {
+      "points": 30,
+      "weight": 1
+    },
+    "78": {
+      "points": 30,
+      "weight": 1
+    },
+    "79": {
+      "points": 30,
+      "weight": 1
+    },
+    "80": {
+      "points": 30,
+      "weight": 1
+    },
+    "81": {
+      "points": 30,
+      "weight": 1
+    },
+    "82": {
+      "points": 30,
+      "weight": 1
+    },
+    "83": {
+      "points": 30,
+      "weight": 1
+    },
+    "84": {
+      "points": 30,
+      "weight": 1
+    },
+    "85": {
+      "points": 30,
+      "weight": 1
+    },
+    "86": {
+      "points": 30,
+      "weight": 1
+    },
+    "87": {
+      "points": 30,
+      "weight": 1
+    },
+    "88": {
+      "points": 30,
+      "weight": 1
+    },
+    "89": {
+      "points": 30,
+      "weight": 1
+    },
+    "90": {
+      "points": 30,
+      "weight": 1
+    },
+    "91": {
+      "points": 30,
+      "weight": 1
+    },
+    "92": {
+      "points": 30,
+      "weight": 1
+    },
+    "93": {
+      "points": 30,
+      "weight": 1
+    },
+    "94": {
+      "points": 30,
+      "weight": 1
+    },
+    "95": {
+      "points": 30,
+      "weight": 1
+    },
+    "96": {
+      "points": 30,
+      "weight": 1
+    },
+    "97": {
+      "points": 30,
+      "weight": 1
+    },
+    "98": {
+      "points": 30,
+      "weight": 1
+    },
+    "99": {
+      "points": 30,
+      "weight": 1
+    },
+    "100": {
+      "points": 30,
+      "weight": 1
+    },
+    "101": {
+      "points": 30,
+      "weight": 1
+    },
+    "102": {
+      "points": 30,
+      "weight": 1
+    },
+    "103": {
+      "points": 30,
+      "weight": 1
+    },
+    "104": {
+      "points": 30,
+      "weight": 1
+    },
+    "105": {
+      "points": 30,
+      "weight": 1
+    },
+    "106": {
+      "points": 30,
+      "weight": 1
+    },
+    "107": {
+      "points": 30,
+      "weight": 1
+    },
+    "108": {
+      "points": 30,
+      "weight": 1
+    },
+    "109": {
+      "points": 30,
+      "weight": 1
+    },
+    "110": {
+      "points": 30,
+      "weight": 1
+    },
+    "111": {
+      "points": 30,
+      "weight": 1
+    },
+    "112": {
+      "points": 30,
+      "weight": 1
+    },
+    "113": {
+      "points": 30,
+      "weight": 1
+    },
+    "114": {
+      "points": 30,
+      "weight": 1
+    },
+    "115": {
+      "points": 30,
+      "weight": 1
+    },
+    "116": {
+      "points": 30,
+      "weight": 1
+    },
+    "117": {
+      "points": 30,
+      "weight": 1
+    },
+    "118": {
+      "points": 30,
+      "weight": 1
+    },
+    "119": {
+      "points": 30,
+      "weight": 1
+    },
+    "120": {
+      "points": 30,
+      "weight": 1
+    },
+    "121": {
+      "points": 30,
+      "weight": 1
+    },
+    "122": {
+      "points": 30,
+      "weight": 1
+    },
+    "123": {
+      "points": 30,
+      "weight": 1
+    },
+    "124": {
+      "points": 30,
+      "weight": 1
+    },
+    "125": {
+      "points": 30,
+      "weight": 1
+    },
+    "126": {
+      "points": 30,
+      "weight": 1
+    },
+    "127": {
+      "points": 30,
+      "weight": 1
+    },
+    "128": {
+      "points": 30,
+      "weight": 1
+    },
+    "129": {
+      "points": 30,
+      "weight": 1
+    },
+    "130": {
+      "points": 30,
+      "weight": 1
+    },
+    "131": {
+      "points": 30,
+      "weight": 1
+    },
+    "132": {
+      "points": 30,
+      "weight": 1
+    },
+    "133": {
+      "points": 30,
+      "weight": 1
+    },
+    "134": {
+      "points": 30,
+      "weight": 1
+    },
+    "135": {
+      "points": 30,
+      "weight": 1
+    },
+    "136": {
+      "points": 30,
+      "weight": 1
+    },
+    "137": {
+      "points": 30,
+      "weight": 1
+    },
+    "138": {
+      "points": 30,
+      "weight": 1
+    },
+    "139": {
+      "points": 30,
+      "weight": 1
+    },
+    "140": {
+      "points": 30,
+      "weight": 1
+    },
+    "141": {
+      "points": 30,
+      "weight": 1
+    },
+    "142": {
+      "points": 30,
+      "weight": 1
+    },
+    "143": {
+      "points": 30,
+      "weight": 1
+    },
+    "144": {
+      "points": 30,
+      "weight": 1
+    },
+    "145": {
+      "points": 30,
+      "weight": 1
+    },
+    "146": {
+      "points": 30,
+      "weight": 1
+    },
+    "147": {
+      "points": 30,
+      "weight": 1
+    },
+    "148": {
+      "points": 30,
+      "weight": 1
+    },
+    "149": {
+      "points": 30,
+      "weight": 1
+    },
+    "150": {
+      "points": 30,
+      "weight": 1
+    },
+    "151": {
+      "points": 30,
+      "weight": 1
+    },
+    "152": {
+      "points": 30,
+      "weight": 1
+    },
+    "153": {
+      "points": 30,
+      "weight": 1
+    },
+    "154": {
+      "points": 30,
+      "weight": 1
+    },
+    "155": {
+      "points": 30,
+      "weight": 1
+    },
+    "156": {
+      "points": 30,
+      "weight": 1
+    },
+    "157": {
+      "points": 30,
+      "weight": 1
+    },
+    "158": {
+      "points": 30,
+      "weight": 1
+    },
+    "159": {
+      "points": 30,
+      "weight": 1
+    },
+    "160": {
+      "points": 30,
+      "weight": 1
+    },
+    "161": {
+      "points": 20,
+      "weight": 1
+    },
+    "162": {
+      "points": 20,
+      "weight": 1
+    },
+    "163": {
+      "points": 20,
+      "weight": 1
+    },
+    "164": {
+      "points": 20,
+      "weight": 1
+    },
+    "165": {
+      "points": 30,
+      "weight": 1
+    },
+    "166": {
+      "points": 30,
+      "weight": 1
+    },
+    "167": {
+      "points": 30,
+      "weight": 1
+    },
+    "168": {
+      "points": 30,
+      "weight": 1
+    },
+    "169": {
+      "points": 30,
+      "weight": 1
+    },
+    "170": {
+      "points": 30,
+      "weight": 1
+    },
+    "171": {
+      "points": 30,
+      "weight": 1
+    },
+    "172": {
+      "points": 30,
+      "weight": 1
+    },
+    "173": {
+      "points": 30,
+      "weight": 1
+    },
+    "174": {
+      "points": 30,
+      "weight": 1
+    },
+    "175": {
+      "points": 30,
+      "weight": 1
+    },
+    "176": {
+      "points": 30,
+      "weight": 1
+    },
+    "177": {
+      "points": 30,
+      "weight": 1
+    },
+    "178": {
+      "points": 30,
+      "weight": 1
+    },
+    "179": {
+      "points": 30,
+      "weight": 1
+    },
+    "180": {
+      "points": 30,
+      "weight": 1
+    },
+    "181": {
+      "points": 30,
+      "weight": 1
+    },
+    "182": {
+      "points": 30,
+      "weight": 1
+    },
+    "183": {
+      "points": 30,
+      "weight": 1
+    },
+    "184": {
+      "points": 30,
+      "weight": 1
+    },
+    "185": {
+      "points": 30,
+      "weight": 1
+    },
+    "186": {
+      "points": 30,
+      "weight": 1
+    },
+    "187": {
+      "points": 30,
+      "weight": 1
+    },
+    "188": {
+      "points": 30,
+      "weight": 1
+    },
+    "189": {
+      "points": 30,
+      "weight": 1
+    },
+    "190": {
+      "points": 30,
+      "weight": 1
+    },
+    "191": {
+      "points": 30,
+      "weight": 1
+    },
+    "192": {
+      "points": 30,
+      "weight": 1
+    },
+    "193": {
+      "points": 30,
+      "weight": 1
+    },
+    "194": {
+      "points": 30,
+      "weight": 1
+    },
+    "195": {
+      "points": 30,
+      "weight": 1
+    },
+    "196": {
+      "points": 30,
+      "weight": 1
+    },
+    "197": {
+      "points": 30,
+      "weight": 1
+    },
+    "198": {
+      "points": 30,
+      "weight": 1
+    },
+    "199": {
+      "points": 30,
+      "weight": 1
+    },
+    "200": {
+      "points": 30,
+      "weight": 1
+    },
+    "201": {
+      "points": 30,
+      "weight": 1
+    },
+    "202": {
+      "points": 30,
+      "weight": 1
+    },
+    "203": {
+      "points": 30,
+      "weight": 1
+    },
+    "204": {
+      "points": 30,
+      "weight": 1
+    },
+    "205": {
+      "points": 30,
+      "weight": 1
+    },
+    "206": {
+      "points": 30,
+      "weight": 1
+    },
+    "207": {
+      "points": 30,
+      "weight": 1
+    },
+    "208": {
+      "points": 30,
+      "weight": 1
+    },
+    "209": {
+      "points": 30,
+      "weight": 1
+    },
+    "210": {
+      "points": 30,
+      "weight": 1
+    },
+    "211": {
+      "points": 30,
+      "weight": 1
+    },
+    "212": {
+      "points": 30,
+      "weight": 1
+    },
+    "213": {
+      "points": 30,
+      "weight": 1
+    },
+    "214": {
+      "points": 30,
+      "weight": 1
+    },
+    "215": {
+      "points": 30,
+      "weight": 1
+    },
+    "216": {
+      "points": 30,
+      "weight": 1
+    },
+    "217": {
+      "points": 30,
+      "weight": 1
+    },
+    "218": {
+      "points": 30,
+      "weight": 1
+    },
+    "219": {
+      "points": 30,
+      "weight": 1
+    },
+    "220": {
+      "points": 30,
+      "weight": 1
+    },
+    "221": {
+      "points": 30,
+      "weight": 1
+    },
+    "222": {
+      "points": 30,
+      "weight": 1
+    },
+    "223": {
+      "points": 30,
+      "weight": 1
+    },
+    "224": {
+      "points": 30,
+      "weight": 1
+    },
+    "225": {
+      "points": 30,
+      "weight": 1
+    },
+    "226": {
+      "points": 30,
+      "weight": 1
+    },
+    "227": {
+      "points": 30,
+      "weight": 1
+    },
+    "228": {
+      "points": 30,
+      "weight": 1
+    },
+    "229": {
+      "points": 30,
+      "weight": 1
+    },
+    "230": {
+      "points": 30,
+      "weight": 1
+    },
+    "231": {
+      "points": 30,
+      "weight": 1
+    },
+    "232": {
+      "points": 30,
+      "weight": 1
+    },
+    "233": {
+      "points": 30,
+      "weight": 1
+    },
+    "234": {
+      "points": 30,
+      "weight": 1
+    },
+    "235": {
+      "points": 30,
+      "weight": 1
+    },
+    "236": {
+      "points": 30,
+      "weight": 1
+    },
+    "237": {
+      "points": 30,
+      "weight": 1
+    },
+    "238": {
+      "points": 30,
+      "weight": 1
+    },
+    "239": {
+      "points": 30,
+      "weight": 1
+    },
+    "240": {
+      "points": 30,
+      "weight": 1
+    },
+    "241": {
+      "points": 30,
+      "weight": 1
+    },
+    "242": {
+      "points": 30,
+      "weight": 1
+    },
+    "243": {
+      "points": 30,
+      "weight": 1
+    },
+    "244": {
+      "points": 30,
+      "weight": 1
+    },
+    "245": {
+      "points": 30,
+      "weight": 1
+    },
+    "246": {
+      "points": 30,
+      "weight": 1
+    },
+    "247": {
+      "points": 30,
+      "weight": 1
+    },
+    "248": {
+      "points": 30,
+      "weight": 1
+    },
+    "249": {
+      "points": 30,
+      "weight": 1
+    },
+    "250": {
+      "points": 30,
+      "weight": 1
+    },
+    "251": {
+      "points": 30,
+      "weight": 1
+    },
+    "252": {
+      "points": 30,
+      "weight": 1
+    },
+    "253": {
+      "points": 30,
+      "weight": 1
+    },
+    "254": {
+      "points": 30,
+      "weight": 1
+    },
+    "255": {
+      "points": 30,
+      "weight": 1
+    },
+    "256": {
+      "points": 30,
+      "weight": 1
+    },
+    "257": {
+      "points": 30,
+      "weight": 1
+    },
+    "258": {
+      "points": 30,
+      "weight": 1
+    },
+    "259": {
+      "points": 30,
+      "weight": 1
+    },
+    "260": {
+      "points": 30,
+      "weight": 1
+    },
+    "261": {
+      "points": 30,
+      "weight": 1
+    },
+    "262": {
+      "points": 30,
+      "weight": 1
+    },
+    "263": {
+      "points": 30,
+      "weight": 1
+    },
+    "264": {
+      "points": 30,
+      "weight": 1
+    },
+    "265": {
+      "points": 30,
+      "weight": 1
+    },
+    "266": {
+      "points": 30,
+      "weight": 1
+    },
+    "267": {
+      "points": 30,
+      "weight": 1
+    },
+    "268": {
+      "points": 30,
+      "weight": 1
+    },
+    "269": {
+      "points": 30,
+      "weight": 1
+    },
+    "270": {
+      "points": 30,
+      "weight": 1
+    },
+    "271": {
+      "points": 30,
+      "weight": 1
+    },
+    "272": {
+      "points": 30,
+      "weight": 1
+    },
+    "273": {
+      "points": 30,
+      "weight": 1
+    },
+    "274": {
+      "points": 30,
+      "weight": 1
+    },
+    "275": {
+      "points": 30,
+      "weight": 1
+    },
+    "276": {
+      "points": 30,
+      "weight": 1
+    },
+    "277": {
+      "points": 30,
+      "weight": 1
+    },
+    "278": {
+      "points": 30,
+      "weight": 1
+    },
+    "279": {
+      "points": 30,
+      "weight": 1
+    },
+    "280": {
+      "points": 30,
+      "weight": 1
+    },
+    "281": {
+      "points": 30,
+      "weight": 1
+    },
+    "282": {
+      "points": 30,
+      "weight": 1
+    },
+    "283": {
+      "points": 30,
+      "weight": 1
+    },
+    "284": {
+      "points": 30,
+      "weight": 1
+    },
+    "285": {
+      "points": 30,
+      "weight": 1
+    },
+    "286": {
+      "points": 30,
+      "weight": 1
+    },
+    "287": {
+      "points": 30,
+      "weight": 1
+    },
+    "288": {
+      "points": 30,
+      "weight": 1
+    },
+    "289": {
+      "points": 30,
+      "weight": 1
+    },
+    "290": {
+      "points": 30,
+      "weight": 1
+    },
+    "291": {
+      "points": 30,
+      "weight": 1
+    },
+    "292": {
+      "points": 30,
+      "weight": 1
+    },
+    "293": {
+      "points": 30,
+      "weight": 1
+    },
+    "294": {
+      "points": 30,
+      "weight": 1
+    },
+    "295": {
+      "points": 30,
+      "weight": 1
+    },
+    "296": {
+      "points": 30,
+      "weight": 1
+    },
+    "297": {
+      "points": 30,
+      "weight": 1
+    },
+    "298": {
+      "points": 30,
+      "weight": 1
+    },
+    "299": {
+      "points": 30,
+      "weight": 1
+    },
+    "300": {
+      "points": 30,
+      "weight": 1
+    },
+    "301": {
+      "points": 30,
+      "weight": 1
+    },
+    "302": {
+      "points": 30,
+      "weight": 1
+    },
+    "303": {
+      "points": 30,
+      "weight": 1
+    },
+    "304": {
+      "points": 30,
+      "weight": 1
+    }
+  },
+  "triple_tests": {
+    "28+29+30": [
+      104,
+      104,
+      "تسميع جزء عمّ + جزء تبارك +قد سمع",
+      350,
+      3.0,
+      1,
+      1,
+      null,
+      null,
+      "عمّ + تبارك + قد سمع",
+      null
+    ],
+    "16+17+18": [
+      199,
+      199,
+      "(16+17+18)",
+      600,
+      3.0,
+      1,
+      1,
+      null,
+      null,
+      "16+17+18",
+      null
+    ],
+    "19+20+21": [
+      299,
+      299,
+      "(19+20+21)",
+      600,
+      3.0,
+      1,
+      1,
+      null,
+      null,
+      "19+20+21",
+      null
+    ],
+    "22+23+24": [
+      398,
+      398,
+      "(22 + 23 + 24)",
+      600,
+      3.0,
+      1,
+      1,
+      null,
+      null,
+      "22 + 23 + 24",
+      null
+    ],
+    "25+26+27": [
+      506,
+      506,
+      "(25+26+27)",
+      600,
+      3.0,
+      1,
+      1,
+      null,
+      null,
+      "25+26+27",
+      null
+    ],
+    "10+11+12": [
+      968,
+      968,
+      "(10 + 11 + 12)",
+      600,
+      3.0,
+      1,
+      1,
+      null,
+      null,
+      "10 + 11 + 12",
+      null
+    ],
+    "13+14+15": [
+      1067,
+      1067,
+      "(13 + 14 + 15)",
+      600,
+      3.0,
+      1,
+      1,
+      null,
+      null,
+      "13 + 14 + 15",
+      null
+    ]
+  },
+  "defaults": {
+    "page_weight": 1,
+    "cumulative_weight": 0,
+    "cumulative_points": 20,
+    "new_surah_weight": 1,
+    "new_surah_points": null,
+    "new_juz_weight": 2,
+    "new_juz_points": 400,
+    "new_triple_weight": 3,
+    "new_triple_points": 600
+  },
+  "provenance": {
+    "metadata": "https://tanzil.net/res/text/metadata/quran-data.xml",
+    "documentation": "https://tanzil.net/docs/quran_metadata",
+    "edition": "Medina Mushaf, Hafs, 604 pages",
+    "metadata_sha256": "8867c1d88191472adec9db694b3cd9f135b1a2ef580574d32cf888dcb22c5c7a",
+    "template_sha256": "8a181288532726cf38e13d6d0f370ccd93fed220532b3a8c362f72e422577c88",
+    "original_filename": "plan-points-1-الخطة-المنهجية-2026-11-03-120316.xlsx",
+    "checked_date": "2026-11-03"
+  }
+}

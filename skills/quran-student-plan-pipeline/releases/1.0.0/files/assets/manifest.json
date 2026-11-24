@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "verified_date": "2026-11-12",
+  "quran": "مصحف المدينة، حفص، 604 صفحات",
+  "catalog_source": "Tanzil Quran Metadata; preserved catalog of quran-cumulative-plan",
+  "template_source": "القالب الذي قدمه المستخدم في هذه المحادثة",
+  "files": {
+    "catalog.json": {
+      "sha256": "ea92520befcbbcda4e99dbf7c5cb731d17b4c8292ed7c1f59264da68c3278b77",
+      "bytes": 75815
+    },
+    "plan-template.xlsx": {
+      "sha256": "8a181288532726cf38e13d6d0f370ccd93fed220532b3a8c362f72e422577c88",
+      "bytes": 33011
+    },
+    "student-template.docx": {
+      "sha256": "31a2fc12695e77eed6d381d2674ea94fa36992e32df4f0dc71a38b9b1adfdd43",
+      "bytes": 19700
+    }
+  }
+}

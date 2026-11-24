@@ -1,0 +1,32 @@
+{
+  "created_at": "2026-11-24T18:00:15.694896+00:00",
+  "description": "إنشاء حزمة خطط تثبيت القرآن للطلاب من Excel بثلاثة أعمدة اسم الطالب والمتوسط والضعيف، مع الأوزان والتراكمي وإحصائيات Excel والتجميع إلى ثماني فترات وWord وPDF لكل طالب بالقالب المرفق. استخدم لسير العمل الكامل أو استكمال إحدى مراحله، لا لخطة حفظ فردية عامة.",
+  "device_id": "8603efad5f5a494ebf07d82145e20df0",
+  "device_name": "LAPTOP-46FJ83M6",
+  "files": {
+    "SKILL.md": "9f9aa30ac166afba493cb4b6799b4df357a4c036da111cd8a0e95e51946b4104",
+    "agents/openai.yaml": "876e3260a518474f7e0d83384c58e56bea7c3683f098517ad3f0dcc9720426c5",
+    "assets/catalog.json": "ea92520befcbbcda4e99dbf7c5cb731d17b4c8292ed7c1f59264da68c3278b77",
+    "assets/manifest.json": "e16d7651f9d1da3050fbbf769f544b9ac631f179835921fc8c4e3b1c4be74ab8",
+    "assets/plan-template.xlsx": "8a181288532726cf38e13d6d0f370ccd93fed220532b3a8c362f72e422577c88",
+    "assets/student-template.docx": "31a2fc12695e77eed6d381d2674ea94fa36992e32df4f0dc71a38b9b1adfdd43",
+    "references/regression.md": "cc50210592462dbc781d6d7fb3dc65120f93bec2ba57231746f337823992bf75",
+    "references/rules.md": "1eefa94dbfa294d280e6f5bf9d63c4a230033bfb50e277e59d2759e8f7a8e225",
+    "references/template-contract.md": "6adeee8c22c352452d6f63ae0b4201353e08d8e3d71a99a0a9c1dfd8aeaad23f",
+    "references/workflow.md": "bed5f195ca823d48524f7f52e5e3d37f0f0394035a20d66e75c2c3ad39415126",
+    "scripts/core.py": "eb6cb468166fa2462212102cabf63ce89430216291ee55ec69aebd7afa42795b",
+    "scripts/deliverables.py": "81dc2d7729e57e34a86ace007f1c854975ea782346f0b11a27cc41b271e3ec92",
+    "scripts/inputs.py": "a49427ba646cf32feae9388509e9d05bc8ff022a44f89bcc98ceeb007c3c9424",
+    "scripts/pipeline.py": "b592fcb5f337a610aca92702e201756278751fe92630519ac4a32fa70cc1b6a9",
+    "scripts/planner.py": "9242b930a8e66569d98b5c2ec0c4c9e1b08d5ed5b2c47e7b505df0edfea4205b",
+    "scripts/test_pipeline.py": "5833f7bc60c87a1599cc14695820146c106438087ce45ae40bfb8cc54a8b08be",
+    "scripts/workbooks.mjs": "886d3bf7dcd509ed771f956cc7b73ffc552f4142267ebd28a9f1c309edf9f749"
+  },
+  "hash": "3ca5a5511fb8671a2a654050cf1a79bac8869f27f719e1d5322acfb0a00dd373",
+  "id": "quran-student-plan-pipeline",
+  "name": "quran-student-plan-pipeline",
+  "note": "أرشفة أولية",
+  "size": 240048,
+  "title": "مصنع خطط التثبيت للطلاب",
+  "version": "1.0.0"
+}

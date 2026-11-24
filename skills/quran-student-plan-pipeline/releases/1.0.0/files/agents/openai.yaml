@@ -1,0 +1,4 @@
+interface:
+  display_name: "مصنع خطط التثبيت للطلاب"
+  short_description: "من بيانات المتوسط والضعيف إلى خطط ثمانية وWord وPDF"
+  default_prompt: "استخدم $quran-student-plan-pipeline لإنشاء خطط الطلاب الثمانية وملفات Word وPDF من ملف Excel المرفق."
